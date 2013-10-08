@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 STUDY: 
 Diagnostic CT Colonography (CT abdomen and pelvis with 3D reconstruction but without IV contrast)
 
