@@ -1,0 +1,21 @@
+Fleischner Society recommendations for Follow-up and Management of Pulmonary Nodules Detected Incidentally at Nonscreening CT are  based on nodule size and assessment of patient risk:
+
+MacMahon H MB BCh, Austin J MD, Gamsu G MD, et al. Guidelines for Management of Small Pulmonary Nodules Detected on CT Scans: A Statement from the Fleischner Society. Radiology 2005; 237:395-400
+
+Final determination of your patient's risk should include your clinical judgment. The decision to pursue further evaluation for an individual patient should also include consideration of the patient's co-morbid conditions, long-term prognosis, and preference.
+
+*Fleischner Society recommendations for newly detected indeterminate nodule(s) in persons 35 years of age or older: 
+1. Nodule Size (mm): <=4 
+        Low-Risk Patient: No follow-up needed
+        High-Risk Patient: Follow-up CT at 12 mo; if unchanged, no further follow-up
+2. Nodule Size (mm): >4-6 
+        Low-Risk Patient: Follow-up CT at 12 mo; if unchanged, no further follow-up
+        High-Risk Patient: Initial follow-up CT at 6-12 mo then at 18-24 mo if no change
+3. Nodule Size (mm): >6-8 
+        Low-Risk Patient: Initial follow-up CT at 6-12 mo then at 18-24 mo if no change 
+        High-Risk Patient: Initial follow-up CT at 3-6 mo then at 9-12 and 24 mo if no change
+4. Nodule Size (mm): >8 
+        Low-Risk Patient: Follow-up CT at around 3, 9, and 24 mo, dynamic contrast-enhanced CT, PET, and/or biopsy 
+        High-Risk Patient: Same as for low-risk patient 
+
+*Nodule size measured as average of length and width. ADOPTION OF THIS POLICY APPLIES ONLY TO FULLY SOLID NODULES. Ground glass and partly solid nodules are excluded from the Fleischner criteria. These may require longer follow-up to exclude indolent adenocarcinoma. 

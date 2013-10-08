@@ -1,0 +1,40 @@
+
+INDICATIONS: [ ]
+
+
+TECHNIQUE: Volumetric imaging of the abdomen and pelvis with 5 mm axial, 3 mm coronal reconstruction was performed after administration of oral contrast and 100 cc of intravenous Ultravist 300. 
+
+COMPARISON: [ ]
+
+
+ABDOMEN: [ ]
+
+[Lung bases: ]
+
+Liver: [ ]
+
+Gallbladder: [ ]
+
+Biliary tree: [ ]
+
+Pancreas: [ ]
+
+Spleen: [ ]
+
+Visualized GI tract: [ ]
+Adrenals: [ ]
+
+Kidneys: [ ]
+
+Retroperitoneum: [ ]
+
+
+PELVIS: [Uterus, ovaries, bladder, visualized GI tract are within normal limits. No abnormal mass, free fluid or lymphadenopathy.] [Prostate, seminal vesicles, and GI tract are within normal limits. No abnormal mass free fluid or lymphadenopathy. ]
+
+[MSK]
+
+IMPRESSION:
+
+[ ]
+
+[I used ANCR to communicate critical results with the referring provider.]
