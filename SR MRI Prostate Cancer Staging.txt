@@ -1,0 +1,39 @@
+INDICATION: [ ]
+PSA: [Date, results]
+Biopsy: [Date, results ]
+Prior therapy: [No/Yes- type?]
+
+TECHNIQUE: MRI of the prostate gland was obtained at 3T [with/without] an endorectal coil before and after the intravenous administration of [ ] mL Magnevist [and intramuscular administration of 1 mg of glucagon].
+
+COMPARISON: [ ]
+
+FINDINGS:
+Prostate gland size: [trv x ap x cc cm], volume [ ] cc.
+
+Focal lesion:
+In the [Location - left / right, central / peripheral, base/midgland/apex, anterior/posterior], there is a focal lesion which measures [size in 3 planes], is [T2 hypointense], [shows restricted diffusion (ADC value  )], [with perfusion pharmacokinetics (iCAD) showing early rapid enhancement and washout (curve 3), early enhancement followed by plateau (curve 2), gradual progressive enhancement (curve 1)].
+
+In the [Location - left / right, central / peripheral, base/midgland/apex, anterior/posterior], there is a focal lesion which measures [size in 3 planes], is [T2 hypointense], [shows restricted diffusion (SI of ADC value  )], [with perfusion pharmacokinetics (iCAD) showing early rapid enhancement and washout (curve 3), early enhancement followed by plateau (curve 2), gradual progressive enhancement (curve 1)].
+
+[Repeat the above for other lesions]
+
+Central gland: [normal, changes of BPH, hemorrhage]
+
+Peripheral zone: [normal, diffuse low T2 signal, patchy areas of low T2 signal, hemorrhage ]
+
+Capsule and Extracapsular extension: [none, abutting the capsule, present - location such as right, left, central, rectoprostatic angle]
+
+Neurovascular bundle: [normal, tumor involvement present - location such as right or left, distance in mm of tumor from nearest NVB]
+
+Seminal Vesicles: [normal, hemorrhage, abnormal low T2 signal - location - right, left, central, bilateral]
+
+Bladder: [normal, underdistended, trabeculated, invasion - location, bladder neck, distal sphincter]
+
+Pelvic lymph nodes: [normal, enlarged - location, size]
+
+Retroperitoneum: [ +-nodes]
+
+Other findings: [ kidney - hydronephrosis, bowel, vasculature, bones and soft tissue +- metastasis]
+
+IMPRESSION:
+[ ]

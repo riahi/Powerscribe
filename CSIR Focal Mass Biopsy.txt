@@ -1,0 +1,43 @@
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] biopsy of a [] mass
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [Coagulation parameters were reviewed and considered acceptable.]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A safety pause was performed immediately prior to the procedure. 
+
+CONTRAST: []
+
+DEVICES:
+17G Temno introducer needle
+18G Temno coaxial automated core biopsy needle
+18G Chiba
+20G Chiba
+22G Chiba, quantitiy - []
+25G Chiba, quantity - [] 
+
+SEDATION/ANESTHESIA: [none, IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+PROCEDURE:  
+
+The patient was placed in the [] position on the procedure table.  Preliminary imaging was obtained to confirm the [] mass and to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The [] needle was inserted using imaging guidance.  [The __ needle was then inserted in coaxial fashion and a biopsy from the mass was obtained.]  [An additional __ needle was inserted into the mass in tandem fashion.]  This was repeated for a total of [] biopsy samples.  [Preliminary assessment by the on-site cytopathologist confirmed/did not confirm adequacy of the specimen for diagnosis.  Additional material was submitted in solution for cell block analysis.]  [Core tissue specimens were submitted in formalin for histopathology assessment.]  The biopsy needle was removed and a sterile bandage applied.
+	
+SPECIMENS SENT: [Cytopathology, Histopathology, Flow-Cytometry, Microbiology, Chemistry, other]
+
+COMPLICATIONS: Post-procedure [CT / US]  images demonstrate [].  [The patient tolerated the procedure well with no immediate complications].
+
+POST-PROCEDURE CONSIDERATIONS: [The patient will be observed in the radiology recovery room for __ hours prior to discharge. Post-procedure orders have been written and placed on the chart.] [The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone to relay the details of the procedure and post-procedure management issues.]
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
+
+CONCLUSION:  [CT-guided / US-guided] biopsy of the [] mass was performed.	

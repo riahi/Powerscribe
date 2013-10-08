@@ -1,0 +1,43 @@
+
+INDICATION: [Pancreatic mass, presurgical evaluation]
+
+TECHNIQUE: CT scanning of the abdomen and pelvis was performed in the arterial and portal venous phases after the administration of [ cc] of Ultravist 370.  
+
+COMPARISON: [<None>]
+
+FINDINGS:
+
+LUNG BASES: [<There is no pleural effusion or lung base nodule.>]
+
+PANCREAS: [<Pancreatic mass present>]
+
+Tumor Location [], Size [], Extrapancreatic extension [], Remaining pancreas []
+
+Adenopathy Location, The largest size [], Size of Gastroduodenal node [] 
+
+Metastatic disease (liver, peritoneal, other) [] 
+
+Ascites/peripancreatic fluid [] 
+
+Arterial Involvement present [], celiac [], SMA [], splenic artery (tumor-celiac bifurcation distance) []
+
+Venous Involvement [], SMV (% encasement, PV confluence to tumor distance, first branch to tumor distance) []
+
+Vascular Involvement other []
+
+Thrombosis of any vessel []
+
+Aberrant Anatomy []
+
+
+ABDOMEN: []
+
+
+PELVIS: []
+
+
+MUSCULOSKELETAL: []
+
+
+IMPRESSION: []
+
