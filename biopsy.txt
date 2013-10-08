@@ -1,0 +1,11 @@
+INDICATION: []
+
+PROCEDURE: The risks, benefits and alternatives to an image-guided biopsy were discussed with the patient and written informed consent was obtained. The patient was positioned [] on the table.  Limited imaging was obtained to determine a safe needle entry site.  A safety pause was performed to confirm the correct patient identity and procedure.
+
+The [] was prepped and draped in the usual sterile fashion. 2% lidocaine was used for local anesthesia. Using [] guidance, a []gauge needle was inserted into []. Position was confirmed with imaging.  Additional needles were inserted using [] technique.  Fine needle aspiration biopsies were performed.  A total of [] passes were made.
+
+The patient tolerated the procedure well and there were no immediate complications. The patient received [] mcg of fentanyl IV and [] mg of Versed IV during the procedure.
+
+The teaching physician, Dr. Cheryl Sadow, was present for the entire procedure.
+
+IMPRESSION: []-guided fine needle aspiration biopsy of a [] with specimens sent for cytology.

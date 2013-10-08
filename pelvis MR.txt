@@ -1,0 +1,9 @@
+INDICATION: []
+
+TECHNIQUE: MRI of the pelvis was performed including imaging after [] cc of IV Magnevist.
+
+COMPARISON: []
+
+FINDINGS: []
+
+IMPRESSION: []

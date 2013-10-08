@@ -1,0 +1,15 @@
+INDICATION: []
+
+TECHNIQUE: CT scans of the abdomen and pelvis were performed following oral and [] ml of Isovue 300 IV contrast.  CT of the chest performed concurrently will be reported separately.
+
+COMPARISON: []
+
+FINDINGS:
+
+Limited view of the lung bases []
+
+ABDOMEN: []
+
+PELVIS: []
+
+IMPRESSION: []

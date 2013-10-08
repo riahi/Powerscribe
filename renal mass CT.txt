@@ -1,0 +1,15 @@
+INDICATION: []
+
+TECHNIQUE: CT scans of the abdomen and pelvis were performed before and after [] cc of Ultravist 300 IV contrast.  Post-contrast imaging was performed in the nephrographic and excretory phases.
+
+COMPARISON: []
+
+FINDINGS:
+
+Limited view of the lung bases []
+
+ABDOMEN: [] 
+
+PELVIS: []
+
+IMPRESSION: []

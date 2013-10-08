@@ -1,0 +1,9 @@
+INDICATION: []
+
+TECHNIQUE: MRI of the prostate was performed with an endorectal coil. Sequences include dynamic contrast enhanced imaging following [] cc of intravenous Magnevist and diffusion weighted imaging.  Additional limited axial imaging was performed through the retroperitoneum to complete staging.
+
+COMPARISON: []
+
+FINDINGS: []
+
+IMPRESSION: []

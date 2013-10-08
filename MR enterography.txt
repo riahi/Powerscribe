@@ -1,0 +1,7 @@
+INDICATION: []
+
+TECHNIQUE: MR enterography was performed with axial and coronal FIESTA and post-contrast imaging after [] cc of IV gadolinium and oral ingestion of 1-2 liters of water over 1 hour prior to imaging.
+
+FINDINGS: []
+
+IMPRESSION: []

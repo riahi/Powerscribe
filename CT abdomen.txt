@@ -1,0 +1,15 @@
+INDICATION: []
+
+TECHNIQUE: CT scans of the abdomen and pelvis following enteric and [] ml of Isovue 300 IV contrast.  
+
+COMPARISON: []
+
+FINDINGS:
+
+Limited view of the lung bases []
+
+ABDOMEN: []
+
+PELVIS: []
+
+IMPRESSION: []

@@ -1,0 +1,24 @@
+INDICATION: []
+
+PROCEDURE: The risks, benefits and alternatives to image-guided needle aspiration and possible percutaneous catheter drainage were discussed with the patient and written informed consent was obtained. The patient was positioned [] on the table. Limited imaging was obtained to determine a safe needle entry site.  A safety pause was performed confirming the correct patient and procedure.
+
+SITE 1: The site in the [] was prepped and draped in the usual sterile fashion. 2% lidocaine was used for local anesthesia. 
+
+Using CT/fluoroscopic guidance, [] gauge [] cm needle was inserted into []. Positioning was confirmed with CT.  [] ml of [] was aspirated and sent for microbiology. Using [] technique, a [] Fr [] drainage catheter was inserted. The needle was removed and the catheter deployed.  A total of [] ml of fluid was aspirated, a sample of which was sent for microbiology.  
+
+Postprocedural imaging revealed []
+
+SITE 2: The site in the [] was then prepped and draped in usual sterile fashion. 2% lidocaine was used for local anesthesia. Using CT/fluoroscopic guidance, [] gauge [] cm needle was inserted into the fluid collection in the []. Positioning was confirmed with CT. Using [] technique, a [] Fr drainage catheter was inserted into the collection. The catheter was deployed and a total of [] cc of [] fluid was aspirated, a sample of which was sent for microbiology.
+
+Postprocedural imaging revealed []. 
+
+The patient tolerated the procedure well and there were no immediate complications. [] mcg of fentanyl IV and [] mg of Versed IV were administered during the procedure.
+
+The teaching physician, Dr. Cheryl Sadow, was present for the entire procedure.
+
+IMPRESSION: 
+1. CT-guided catheter drainage of a [] with aspiration of [] ml of [] fluid. A sample of the aspirated fluid was sent for microbiology. A [] Fr catheter was left to gravity drainage.
+2. CT-guided catheter drainage of a [] with aspiration of [] ml of [] fluid. A sample of the aspirated fluid was sent for microbiology. A [] Fr catheter was left to gravity drainage.
+3. These catheters should be left to gravity drainage with flushing as ordered and monitoring of outputs. If the collections are infected, these catheters should be left in place until outputs are less than 10 ml per day for two consecutive days and the fluid appearance is non-purulent. Repeat imaging may be warranted prior to catheter removal.
+
+

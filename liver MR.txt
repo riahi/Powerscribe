@@ -1,0 +1,9 @@
+INDICATION: []
+
+TECHNIQUE: MRI of the liver was performed including dynamic imaging after [] ml of IV Magnevist.
+
+COMPARISON: []
+
+FINDINGS: []
+
+IMPRESSION: []

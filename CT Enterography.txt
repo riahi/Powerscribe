@@ -1,0 +1,15 @@
+INDICATION: []
+
+TECHNIQUE: CT scans of the abdomen and pelvis were performed following oral Volumen (low density barium) and [] ml of Isovue 300 IV contrast using the CT enterography protocol.  Additional coronal and sagittal reformations were performed by the technologist at the CT console to help evaluate the GI tract.
+
+COMPARISON: []
+
+FINDINGS:
+
+Limited view of the lung bases []
+
+ABDOMEN: []
+
+PELVIS: []
+
+IMPRESSION: []

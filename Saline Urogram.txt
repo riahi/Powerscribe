@@ -1,0 +1,17 @@
+INDICATION: []
+
+TECHNIQUE: CT scans of the abdomen and pelvis were performed both before and after [] cc of Ultravist 300 IV contrast and 250 cc of IV saline using the CT urography protocol.
+
+COMPARISON: []
+
+FINDINGS: 
+
+Limited view of the lung bases []
+
+ABDOMEN: []
+
+PELVIS: []
+
+3D Images: Maximum-intensity projection (MIP) and volume rendered images were performed on an independent workstation by a technologist (under physician supervision) to evaluate the collecting system, ureters, and bladder. []
+
+IMPRESSION: []

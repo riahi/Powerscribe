@@ -1,0 +1,5 @@
+INDICATION: []
+
+FINDINGS: A scout image of the gastroesophageal junction was obtained showing an indwelling nasogastric tube. Water-soluble contrast was instilled through the nasogastric tube showing opacification of a normal-caliber Roux limb. The nasogastric tube was removed and the patient swallowed water-soluble contrast. The esophagus is normal in caliber. Contrast readily traverses the gastroesophageal junction, filling the gastric pouch, and passing through the gastrojejunostomy. There is no extraluminal contrast seen.
+
+IMPRESSION: Expected postoperative appearance from Roux-en-Y gastric bypass surgery without evidence of leak or obstruction.

@@ -1,0 +1,38 @@
+INDICATION: [ ] 
+
+TECHNIQUE:  CT of the abdomen and pelvis was performed after administration of [ ] intravenous contrast and enteric contrast.
+
+COMPARISON: [ ] 
+
+FINDINGS:
+
+Lung bases: Limited images through lung bases reveal [ ]
+
+Liver: [ ] 
+
+Biliary system: [ ]
+
+Spleen: [ ]
+
+Pancreas : [ ] 
+
+Adrenals: [ ]
+
+Kidneys: [ ]
+
+Bowel and mesentery: [ ]
+
+Peritoneum: [ ]
+
+Bladder: [ ]
+
+Pelvic organs: [ ]
+
+Lymph nodes: [ ]
+
+Vasculature: [ ]
+
+Soft Tissues and Bones: [ ]
+
+IMPRESSION:  
+[ ]

@@ -1,0 +1,15 @@
+INDICATION: []
+
+TECHNIQUE: Contiguous axial images were performed through the abdomen and pelvis without oral or intravenous contrast in accordance with the ureter CT protocol.  
+
+COMPARISON: []
+
+FINDINGS:
+
+Limited view of the lung bases []
+
+ABDOMEN: []
+
+PELVIS: []
+
+IMPRESSION: []

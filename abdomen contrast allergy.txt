@@ -1,0 +1,15 @@
+INDICATION: []
+
+TECHNIQUE: CT scans of the abdomen and pelvis following oral contrast only.  No intravenous contrast was used secondary to a prior reported contrast allergy.
+
+COMPARISON: []
+
+FINDINGS:
+
+Limited view of the lung bases []
+
+ABDOMEN: []
+
+PELVIS: []
+
+IMPRESSION: []
