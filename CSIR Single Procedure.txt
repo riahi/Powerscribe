@@ -42,7 +42,7 @@ SPECIMENS SUBMITTED:
 [none, cytopathology, histopathology, microbiology, chemistry, other]
 
 POST-PROCEDURE IMAGING: 
-[CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
+[CT images obtained at the conclusion of the procedure demonstrate        /  US images obtained at the conclusion of the procedure demonstrate    ]
 
 COMPLICATIONS:
 Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications.>]

@@ -1,19 +1,11 @@
-HISTORY: [<Stroke.>]
+INDICATION: 
+[<Stroke.>]
 
-TECHNIQUE: The patient is administerd nectar, thick (pudding), solid coated and thin liquid barium by the speech pathologist under fluoroscopic guidance. Video sequences were obtained in lateral position during swallowing.
+TECHNIQUE: 
+The patient was given multiple consistencies of oral barium contrast by the speech pathologist. Video sequences were obtained from the lateral position during swallowing.
 
 FINDINGS: 
+Bolus handling is within normal limits.  No significant laryngeal penetration or subglottic aspiration was observed during the examination. No significant residue was present after swallowing.
 
-Bolus handling is normal / fair / poor.  
-
-There is vallecular and piriform pooling with all consistencies.
-
-No significant laryngeal penetration or subglottic aspiration was observed during the examination. (was seen with ---- barium. There was spontaneous cough with / without clearing of barium).
-
-No significant residue was present after swallowing.
-
-
-IMPRESSION: 
-
-Please refer to Speech/Swallow report for additional detailed information.
-
+IMPRESSION:
+[<No evidence of aspiration.>]

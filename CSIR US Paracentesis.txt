@@ -1,41 +1,53 @@
-INDICATION:  []
+INDICATION:
+[]
 
-PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] [diagnostic / therapeutic / diagnostic & therapeutic] paracentesis
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:
+[Coagulation parameters were reviewed and considered acceptable.] [The patient was given an albumin infusion by the referring clinical service prior to the procedure.]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
 
-ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
-
-RESIDENT/FELLOW/PA-C:  []
-
-PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure. [<An albumin infusion was administered by the referring clinical team before the paracentesis / will be administered by the referring clinical team immediately following the paracentesis.>]
-
-PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+PROCEDURE:
+Image-guided [diagnostic, therapeutic, diagnostic and therapeutic] paracentesis
 	
-CONSENT: Informed consent was obtained from [] by Dr. []. [<Informed consent is on file for repetitive therapeutic paracentesis procedures.>] The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+CONSENT:
+Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]. A Safety Pause was performed immediately prior to the procedure.
+
+ATTENDING RADIOLOGIST:
+Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW/PA-C: 
+[]
+
+PRE-PROCEDURAL IMAGING:
+Review of [BWH/outside/modality/date/] demonstrates [].
 
 DEVICES:
 [] cm 5 Fr One-step [Valved / Non-valved] Centesis Catheter
 
-SEDATION/ANESTHESIA: [<None, Conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, Monitored anesthesia care (MAC) provided by the anesthesia department, General endotracheal tube anesthesia provided by the anesthesia department>]
+SEDATION/ANESTHESIA:
+[<None, Conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, Monitored anesthesia care (MAC) provided by the anesthesia department, General endotracheal tube anesthesia provided by the anesthesia department>]
 
-DURATION OF SEDATION/ANESTHESIA: [<Not applicable>]
+DURATION OF SEDATION/ANESTHESIA:
+[<Not applicable>]
 
-MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+MEDICATIONS AND DOSAGES:
+midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
 
-CONTRAST MATERIAL: [<None>]
+CONTRAST MATERIAL:
+[<None>]
 
 PROCEDURE:  
-
 The patient was positioned [] on the procedure table.  Preliminary imaging was obtained to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The [] centesis catheter was inserted into the peritoneum using [CT / US] guidance. [] ml of [] fluid was removed.  The centesis catheter was removed and a sterile bandage applied.
 	
-SPECIMENS SUBMITTED:  [None, Microbiology, Chemistry, Cytology, other]
+SPECIMENS SUBMITTED:
+[None, Microbiology, Chemistry, Cytology, other]
 
-COMPLICATIONS: Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications>]
+COMPLICATIONS:
+Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications>]
 
-POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours prior to discharge.>] [<Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.>] [<The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS.  Dr. __ spoke with Dr. __ by telephone on __ at __  to relay the details of the procedure and post-procedure management issues.>]  [<This outpatient procedure did not require recovery room observation prior to discharge.  Home care instructions for this procedure were reviewed with the patient. All patient questions were answered.>] 
+POST-PROCEDURE CONSIDERATIONS:
+[<The patient was observed in the radiology recovery room for __ hours prior to discharge.>] [<Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.>] [<The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS.  Dr. __ spoke with Dr. __ by telephone on __ at __  to relay the details of the procedure and post-procedure management issues.>]  [<This outpatient procedure did not require recovery room observation prior to discharge.  Home care instructions for this procedure were reviewed with the patient. All patient questions were answered.>] 
 
-CONCLUSION:  [CT / US]-guided paracentesis 
+CONCLUSION: 
+[CT / US]-guided paracentesis 
 
-
-FOLLOW-UP PLAN: The patient will follow-up with their referring clinician for further management.  
-
-
+FOLLOW-UP PLAN:
+The patient will follow-up with their referring clinician for further management.  
