@@ -31,7 +31,7 @@ file = open(fileName)
 text = file.read()
 
 # Splits into a list of strings by the $$$\r\n delimiter
-reports = re.split(r"\$\$\$\r\n", text)
+reports = re.split(r"\$\$\$\r?\n", text)
 print "r= ", reports
 
 # Read through the each report
