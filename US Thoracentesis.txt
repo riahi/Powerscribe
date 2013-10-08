@@ -1,0 +1,39 @@
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE:
+	1. Ultrasound-guided [right, left], [diagnostic, therapeutic, diagnostic and therapeutic] thoracentesis
+	
+Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]. A team time-out was performed prior to [sedation and] beginning the procedure.
+
+GUIDANCE MODALITY:  Ultrasound
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA:[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care provided by the anesthesia department, general anesthesia provided by the anesthesia department]
+
+MEDICATIONS AND DOSAGES: [none; midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia] 
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE #1:
+Preliminary ultrasound imaging was used to assess the pleural fluid collection and to plan the approach.  With the patient sitting in an upright position, arms resting on a table, the skin over the [right/left] posterior chest wall was prepped and draped in the usual sterile manner.  The local anesthetic solution was injected into the skin and subcutaneous tissues.  A small incision was made followed by ultrasound-guided insertion of a 5 Fr centesis catheter over the top of the rib into the pleural fluid.  [] ml of [] fluid were removed followed by catheter removal.  A sterile bandage was applied.
+	
+SPECIMENS SENT:[none, cytology, histopathology, microbiology, chemistry, other]
+
+COMPLICATIONS:  [The patient tolerated the procedure well and no immediate complications occurred.  The patient experienced mild coughing and chest discomfort on the side of the procedure which promptly resolved.]
+
+A one-view CXR at [] hours demonstrates [].
+
+FOLLOW-UP PLAN:  []
+
+CONCLUSION:
+1.  [Ultrasound-guided right/left thoracentesis performed without difficulty.]
+	
+
+

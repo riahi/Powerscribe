@@ -1,0 +1,40 @@
+CLINICAL HISTORY AND INDICATIONS:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE(S):
+	1. CT-guided biopsy of a [right, left, pelvic, transplant] kidney mass
+	
+Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]
+
+CONTRAST: [none; Ultravist 370, __ ml]
+
+GUIDANCE MODALITY:  [CT; US]
+
+DEVICES: [Temno 17 ga introducer x 1; Temno 18 ga coaxial automated core biopsy needle x 1; 22 ga Chiba x ; 20 ga Chiba x ; 25 ga Chiba x ]
+
+SEDATION/ANESTHESIA:[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care provided by the anesthesia department, general anesthesia provided by the anesthesia department]
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE #1:  
+With the patient in a [prone, right lateral decubitus, left lateral decubitus, prone oblique] position on the CT table, the skin was prepped and draped in the usual sterile manner.  Preliminary CT images were obtained to plan the approach, followed by injection of the local anesthetic solution into the skin and subcutaneous tissues.  A small incision was made followed by insertion of the [] needle under CT guidance.  [The __ needle was then inserted in coaxial fashion and a biopsy from the renal mass was obtained.]  [An additional __ needle was inserted into the mass in tandem fashion.]  This was repeated for a total of [] biopsy samples.  [Preliminary assessment by the on-site cytopathology technologist confirmed/did not confirm adequacy of the specimen for diagnosis.  Additional material was submitted in solution for cell block analysis.]  [Core tissue specimens were submitted in formalin for histopathology assessment.]  The biopsy needle was removed and a sterile bandage applied.
+	
+SPECIMENTS SENT:[none, cytopathology, histopathology, microbiology, chemistry, other]
+
+COMPLICATIONS: Post-procedure CT images demonstrate [].  [The patient tolerated the procedure well with no immediate complications].
+
+POST-PROCEDURE OBSERVATION: The patient will be [observed in the radiology recovery area for [] hours prior to discharge./admitted for overnight observation prior to discharge in the morning.  Post-procedure orders have been written/entered into BICS]
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.
+
+CONCLUSION:
+
+1.  CT-guided biopsy of the [right/left] renal mass was [performed without difficulty].
+	
