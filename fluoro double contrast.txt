@@ -1,7 +1,0 @@
-HISTORY: [<>]
-
-TECHNIQUE: The patient swallows barium and citrocarbonate under fluoroscopic guidance.  The patient is then given thin barium to swallow. 
-
-FINDINGS: [<The patient swallows barium without difficulty.>] [<There is no evidence of hiatus hernia or gastroesophageal reflux.>] [<Esophageal motility is normal.>] Contrast is followed from the esophagus to the stomach and into the duodenum. The stomach and the duodenum appear normal.
-
-IMPRESSION: [<Normal upper GI study.>]

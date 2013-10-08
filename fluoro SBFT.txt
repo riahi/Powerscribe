@@ -1,7 +1,0 @@
-INDICATION: [<>]
-
-TECHNIQUE: The patient swallows barium and multiple abdominal radiographs are obtained at different time intervals to assess the bowel pattern and the transit of contrast. Images were interpreted by the teaching physician radiologist.
-
-FINDINGS: Barium is followed through the small bowel to the colon. The small bowel loops demonstrate normal caliber and fold pattern. In particular, the terminal ileum appears within normal limits.
-
-IMPRESSION: [<Normal small bowel follow through study.>]

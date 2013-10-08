@@ -1,7 +1,0 @@
-INDICATION:  <<Clinical Information>>. Patient is [] from gastric banding.
-
-TECHNIQUE: The patient is given water soluble contrast to drink under fluoroscopic guidance. Images were interpreted by the teaching physician radiologist.
-
-FINDINGS: Contrast passes [<easily/with slight delay/after significant delay>] through the gastroesophageal junction.  The gastric band has appropriate alignment.  Contrast passes through the banded segment in an appropriately timely manner and proceeds into the small bowel.  
-
-IMPRESSION: No evidence for leak or obstruction.
