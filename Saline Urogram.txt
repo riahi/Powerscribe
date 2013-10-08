@@ -1,17 +1,22 @@
-HISTORY: []
+INDICATION:
+[]
 
-TECHNIQUE: CT urogram was performed with axial imaging through the abdomen and pelvis before and after 100 cc of Ultravist 300 IV contrast and 250 cc of IV saline.
+TECHNIQUE:
+Multidetector CT urography was performed to include the abdomen and pelvis before and after [80] ml of Ultravist 370 IV contrast and [250] ml IV normal saline.  Multiplanar reformats, volume-rendered images, and MIP images were generated at an independent workstation by a technologist under physician supervision.
 
-COMPARISON: []
+COMPARISON:
+[]
 
 FINDINGS: 
 
-LUNG BASES: []
+LUNG BASES:
+[]
 
-ABDOMEN: []
+ABDOMEN:
+[]
 
-PELVIS: []
+PELVIS:
+[]
 
-REFORMATIONS: MPR, MIP and volume rendered images were performed on an independent workstation by a technologist (under physician supervision) to evaluate the collecting system and bladder. []
-
-IMPRESSION: []
+IMPRESSION:
+[]

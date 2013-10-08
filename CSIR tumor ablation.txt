@@ -1,24 +1,40 @@
-CLINICAL HISTORY AND INDICATION:  []
+CSIR Tumor Ablation
 
-PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [Coagulation parameters were reviewed and considered acceptable.]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+CLINICAL HISTORY AND INDICATION:  
+[]
 
-PROCEDURE: Image-guided [Microwave Ablation]  [Cryoablation] of []
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  
+The patient was recently evaluated by Dr. [] in the Tumor Ablation Clinic. [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PROCEDURE: 
+[CT & CT fluoroscopy-guided / US-guided / MR-guided / PET/CT-guided] [Microwave Ablation / Cryoablation] of [ ], performed [on L-1 / in AMIGO]
 	
-CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A Safety Pause was performed immediately prior to the procedure.
+CONSENT: 
+Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A safety pause was performed immediately prior to the procedure.
 
-CONTRAST:  []
+CONTRAST:  
+[]
 
-GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+DEVICES:  
+[14G / 16G] HSM AMICA microwave ablation antenna
+17G Galil Ice [Rod / Sphere / Seed], quantity []
+17G Covidien Cool-tip RF applicator, quantity []
+[]G introducer needle
+[]G Temno coaxial automated core biopsy needle
+[]G - [] cm Chiba needle
+5F - [] cm One-step centesis catheter
 
-DEVICES:  [AMICA Microwave Ablation Probe, 14/16G, 150/200cm, x 1] [Galil Ice Rods/Spheres/Seeds, 17G, x  ]  [20G Chiba x 1]  [5 F Yeuh Catheter x 1] [Safe-T-centesis catheter x1]  
+SEDATION/ANESTHESIA:
+[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
 
-SEDATION/ANESTHESIA:[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+DURATION of SEDATION/ANESTHESIA:  
+[ ]
 
-DURATION of SEDATION/ANESTHESIA: 
+MEDICATIONS AND DOSAGES: 
+midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
 
-MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
-
-ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+ATTENDING RADIOLOGIST: 
+Dr. [] was present for the entire radiologic portion of the procedure(s).
 
 RESIDENT/FELLOW:  []
 
@@ -27,15 +43,20 @@ IMAGING FINDINGS:  []
 PROCEDURE DESCRIPTION:
 []
 
-SPECIMENS SUBMITTED:[none, cytopathology, histopathology, microbiology, chemistry, other]
+SPECIMENS SUBMITTED:
+[none, cytopathology, histopathology, microbiology, chemistry, other]
 
-POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate  ][US images obtained at the conclusion of the procedure demonstrate    ][MRI images obtained at the conclusion of the procedure demonstrate   ]
+COMPLICATIONS: 
+Post-procedure [CT / US] demonstrates [].  [<The patient tolerated the procedure well with no immediate complications>]
 
-COMPLICATIONS:[No immediate complications noted at the conclusion of the procedure, A two hour post-procedure chest x-ray is ordered         ]
+POST-PROCEDURE CONSIDERATIONS: 
+[<The patient will be recovered in the PACU.] [The patient may be considered for discharge later today.>][<After recovery in the PACU, the patient will be admitted for overnight observation. Post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone on __ at __ to relay the details of the procedure and post-procedure management issues.>] 
 
-FOLLOW-UP PLAN:  [The patient will be recovered in the PACU and then observed overnight in a hospital bed.] [MRI][CT] scanning will be obtained in the morning to assess results prior to discharge.  Routine laboratory tests will be obtained and reviewed.  Post-procedure orders have been entered into BICS.
+CONCLUSION: 
+[CT / US]-guided [] of []
+
+FOLLOW-UP PLAN: 
+[MRI / CT] will be obtained to assess results prior to discharge or on the day of clinic follow-up.  The patient will be scheduled for a follow-up appointment in the Tumor Ablation Clinic.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
 
 CONCLUSION:
 1.  []
-
-

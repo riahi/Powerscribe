@@ -1,17 +1,27 @@
-HISTORY: []
+CT ENTEROGRAPHY
 
-TECHNIQUE: Contiguous axial images were performed through the abdomen and pelvis following oral Volumen (low density barium) and 100 cc of Ultravist 300 IV contrast.  Additional coronal and sagittal reformations were performed by the technologist at the CT console to help evaluate the GI tract.
+INDICATION: 
+[]
 
-COMPARISON: []
+TECHNIQUE and CONTRAST: 
+Multidetector CT scanning of the abdomen and pelvis following [1350] ml Volumen (oral contrast) and [80] ml Ultravist 370 (IV contrast) was performed.  Additional coronal and sagittal reformations were performed by the technologist and reviewed at the PACS workstation.
+
+COMPARISON: 
+[]
 
 FINDINGS:
 
-LUNG BASES: []
+LUNG BASES: 
+[]
 
-ABDOMEN: []
+ABDOMEN: 
+[]
 
-PELVIS: []
+PELVIS: 
+[]
 
-ENTEROGRAPHY: []
+ENTEROGRAPHY: 
+[]
 
-IMPRESSION: []
+IMPRESSION: 
+[]

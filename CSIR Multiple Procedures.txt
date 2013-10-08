@@ -1,31 +1,43 @@
-CLINICAL HISTORY AND INDICATION:  []
+INDICATION:
+[ ]
 
-PREPROCEDURAL CONSIDERATIONS AND MANAGMENT:  [Coagulation parameters were reviewed and considered acceptable.]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+PREPROCEDURAL CONSIDERATIONS AND MANAGMENT:  
+[Coagulation parameters were reviewed and considered acceptable.]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
 
 PROCEDURES(S):
-	1.
-	2.
-	3.
+	1. [CT & CT fluoroscopy-guided / US-guided] [ ]
+	2. [CT & CT fluoroscopy-guided / US-guided] [ ]
+	3. [CT & CT fluoroscopy-guided / US-guided] [ ]
 
-CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A Safety Pause was performed immediately prior to the procedure.
+CONSENT:
+Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A Safety Pause was performed immediately prior to the procedure.
 
-CONTRAST: []
+CONTRAST:
+[]
 
-GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+GUIDANCE MODALITY:
+[CT/US/MRI/PET-CT/Fluoroscopy]
 
-DEVICES:  []
+DEVICES:
+[]
 
-SEDATION/ANESTHESIA:[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+SEDATION/ANESTHESIA:
+[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
 
 DURATION of SEDATION/ANESTHESIA: 
+[ ]
 
-MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+MEDICATIONS AND DOSAGES: 
+midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
 
-ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+ATTENDING RADIOLOGIST: 
+Dr. [] was present for the entire radiologic portion of the procedure(s).
 
-RESIDENT/FELLOW:  []
+RESIDENT/FELLOW:  
+[]
 
-IMAGING FINDINGS:  []
+IMAGING FINDINGS:  
+[]
 
 PROCEDURE #1:
 []
@@ -36,16 +48,22 @@ PROCEDURE #2:
 PROCEDURE #3:
 []
 
-SPECIMENS SUBMITTED:[none, cytopathology, histopathology, microbiology, chemistry, other]
+SPECIMENS SUBMITTED:
+[none, cytopathology, histopathology, microbiology, chemistry, other]
 
-POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
+POST-PROCEDURE IMAGING:
+[CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
 
-COMPLICATIONS:[No immediate complications noted at the conclusion of the procedure, A two hour post-procedure chest x-ray is ordered         ]
+COMPLICATIONS:
+Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications.>]
 
-FOLLOW-UP PLAN:  []
+POST-PROCEDURE CONSIDERATIONS:
+[<The patient was observed in the radiology recovery room for __ hours prior to discharge.>] [<The patient is an inpatient or will be admitted for overnight observation. Post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone to relay the details of the procedure and post-procedure management issues.>]
 
 CONCLUSION:
 1.  []
 2.  []
 3.  []
 
+FOLLOW-UP PLAN: 
+[<CSIR will continue to follow the patient and monitor catheter status.  Once catheter output has decreased to less than 10 ml per day for two consecutive days, please notify the CSIR team regarding further imaging assessment and possible catheter removal.  If the patient is being considered for discharge, please notify the CSIR team (#14520).>]  [<The patient will follow-up with the referring clinician for biopsy results and further management.>]  [<Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.>]
