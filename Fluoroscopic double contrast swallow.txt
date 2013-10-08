@@ -1,0 +1,7 @@
+INDICATION:  []
+
+TECHNIQUE: The patient swallows barium and citrocarbonate under fluoroscopic guidance.  The patient is then given thin barium to swallow. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS: [The patient swallows barium without difficulty.][There is no evidence of hiatus hernia or gastroesophageal reflux.][Esophageal motility is normal.]
+
+IMPRESSION: [Normal esophagram.]

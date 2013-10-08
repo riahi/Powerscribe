@@ -1,0 +1,1049 @@
+all tokens
+ <<Admitting First Name>>  <<Admitting Last Name>>  <<Attending First Name>>  <<Attending Last Name>>  <<Bed>>  <<Building>>  <<Clinical Information>>  <<Consulting First Name>>  <<Consulting Last Name>>  <<Facility>>  <<Filler Order Number>>  <<Floor>>  <<Modality Description>>  <<Modality Name>>  <<Order Callback Phone>>  <<Order Entry Origin>>  <<Order Number>>  <<Order Observation End Time>>  <<Order Observation Time>>  <<Order Procedure Code>>  <<Order Procedure Description>>  <<Order Reason Code System>>  <<Order Reason for Study>>  <<Order Reason Id>>  <<Order Received Time>>  <<Order Receiving Facility>>  <<Order Request Time>>   <<Order Sending Facility>>  <<Order Time>>  <<Ordering First Name>>  <<Ordering Last Name>>  <<Patient Account Number>>  <<Patient Identification Number>>  <<Patient Last Name>>  <<Placer Order Number>>  <<Referring First Name>>  <<Referring Last Name>>  
+$$$
+ANCR
+
+
+Critical results were communicated and documented using the Alert Notification of Critical Radiology Results (ANCR) system.
+$$$
+attestation
+
+
+I, the teaching physician, have reviewed the images and agree with the report as written.
+
+$$$
+Chest
+Please refer to dedicated chest CT report from the same date for further evaluation of the chest findings.
+
+$$$
+chest portable
+HISTORY: [ ]
+
+PORTABLE CHEST: [ ]
+
+IMPRESSION: A single portable frontal view of the chest reveals a normal heart and mediastinum for technique.  The lungs are clear and the costophrenic sulci are sharp.  No acute process is seen.
+
+END OF IMPRESSION
+
+$$$
+CIS post biopsy
+[ ]
+
+INDICATION:  <<Clinical Information>>   Now the patient is here for a percutaneous biopsy of this lesion.
+
+TECHNIQUE: The prior films were reviewed for procedure planning. 
+
+Risks and benefits of the procedure, including the risks of bleeding, infection, and lesion or adjacent organs were discussed with the patient and written informed consent was obtained.
+
+The patient was brought to the [ ] suite, placed in the [ ] position and initial localizing images demonstrated [ ]. The best site for puncture was marked and the patient was then sterilely prepped and draped. 2% lidocaine was used for local anesthesia. Intravenous conscious sedation was provided with fentanyl [ ] mcg and Versed [ ] mg IV
+
+Using [ ] guidance a [ ].  
+
+Postprocedure imaging demonstrated no immediate complication.
+
+The teaching physician, Dr. [ ], was present for the entire procedure.
+
+IMPRESSION:
+
+[ ]. [ ] result is pending.
+$$$
+CIS post drainage
+[ ]
+
+INDICATION: <<Clinical Information>>   Now the patient is here for a percutaneous drainage of this collection.
+
+TECHNIQUE: The prior films were reviewed for procedure planning. 
+
+Risks and benefits of the procedure, including the risks of bleeding, infection, and lesion or adjacent organs were discussed with the patient and written informed consent was obtained.
+
+The patient was brought to the [ ] suite, placed in the [ ] position and initial localizing images demonstrated [ ]. The best site for puncture was marked and the patient was then sterilely prepped and draped. 2% lidocaine was used for local anesthesia. Intravenous conscious sedation was provided with fentanyl [ ] mcg and Versed [ ] mg IV
+
+Using [ ] guidance a [ ].  
+
+Postprocedure imaging demonstrated no immediate complication.
+
+The teaching physician, Dr. [ ], was present for the entire procedure.
+
+IMPRESSION:
+
+[ ]. Specimens were sent to microbiology.
+$$$
+CSIR CT Kidney Mass Biopsy
+CLINICAL HISTORY AND INDICATIONS:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE(S): CT-guided biopsy of a [right, left, pelvic, transplant] kidney mass
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]
+
+CONTRAST: [none; Ultravist 370, __ ml]
+
+GUIDANCE MODALITY:  [CT; US]
+
+DEVICES: [Temno 17 ga introducer x 1; Temno 18 ga coaxial automated core biopsy needle x 1; 22 ga Chiba x ; 20 ga Chiba x ; 25 ga Chiba x ]
+
+SEDATION/ANESTHESIA:[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: 
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE:  With the patient in a [prone, right lateral decubitus, left lateral decubitus, prone oblique] position on the CT table, the skin was prepped and draped in the usual sterile manner.  Preliminary CT images were obtained to plan the approach, followed by injection of the local anesthetic solution into the skin and subcutaneous tissues.  A small incision was made followed by insertion of the [] needle under CT guidance.  [The __ needle was then inserted in coaxial fashion and a biopsy from the renal mass was obtained.]  [An additional __ needle was inserted into the mass in tandem fashion.]  This was repeated for a total of [] biopsy samples.  [Preliminary assessment by the on-site cytopathology technologist confirmed/did not confirm adequacy of the specimen for diagnosis.  Additional material was submitted in solution for cell block analysis.]  [Core tissue specimens were submitted in formalin for histopathology assessment.]  The biopsy needle was removed and a sterile bandage applied.
+	
+SPECIMENTS SENT:[none, cytopathology, histopathology, microbiology, chemistry, other]
+
+COMPLICATIONS: Post-procedure CT images demonstrate [].  [The patient tolerated the procedure well with no immediate complications].
+
+POST-PROCEDURE OBSERVATION: The patient will be [observed in the radiology recovery area for [] hours prior to discharge./admitted for overnight observation prior to discharge in the morning.  Post-procedure orders have been written/entered into BICS]
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.
+
+CONCLUSION:  CT-guided biopsy of the [right/left] renal mass was [performed without difficulty].
+	
+$$$
+CSIR CT Kidney Parenchymal Biopsy
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE(S):. CT-guided parenchymal biopsy of the [right, left, pelvic, transplant] kidney
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]
+
+CONTRAST: [none; Ultravist 370, __ ml]
+
+GUIDANCE MODALITY:  [CT; US]
+
+DEVICES: [Temno 17g introducer - 18g coaxial automated core biopsy set; Temno 18g automated core biopsy needle; ]
+
+SEDATION/ANESTHESIA:[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: 
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE:  With the patient in a [prone, right lateral decubitus, left lateral decubitus, prone oblique] position on the CT table, the skin was prepped and draped in the usual sterile manner.  Preliminary CT images were obtained to plan the approach, followed by injection of the local anesthetic solution into the skin and subcutaneous tissues.  A small incision was made followed by insertion of a 17g introducer needle under CT guidance.  An 18g core biopsy needle was then inserted in coaxial fashion and [two, three] samples from the renal cortex were obtained.  Immediate light microscopic assessment by the nephropathologist confirmed sufficient glomeruli for diagnosis in the tissue specimens.  The biopsy needle was removed and a sterile bandage applied.
+	
+SPECIMENS SENT:[none, cytopathology, histopathology, microbiology, chemistry, other]
+
+COMPLICATIONS: Post-procedure CT images demonstrate [].  [The patient tolerated the procedure well with no immediate complications].
+
+POST-PROCEDURE OBSERVATION: The patient will be [observed in the radiology recovery area for [] hours prior to discharge./admitted for overnight observation prior to discharge in the morning.  Post-procedure orders have been entered into BICS]
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.
+
+CONCLUSION:  CT-guided parenchymal biopsy of the kidney was [performed without difficulty].
+	
+
+
+$$$
+CSIR Focal Mass Biopsy
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] biopsy of a [] mass
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [Coagulation parameters were reviewed and considered acceptable.]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A safety pause was performed immediately prior to the procedure. 
+
+CONTRAST: []
+
+DEVICES:
+17G Temno introducer needle
+18G Temno coaxial automated core biopsy needle
+18G Chiba
+20G Chiba
+22G Chiba, quantitiy - []
+25G Chiba, quantity - [] 
+
+SEDATION/ANESTHESIA: [none, IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+PROCEDURE:  
+
+The patient was placed in the [] position on the procedure table.  Preliminary imaging was obtained to confirm the [] mass and to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The [] needle was inserted using imaging guidance.  [The __ needle was then inserted in coaxial fashion and a biopsy from the mass was obtained.]  [An additional __ needle was inserted into the mass in tandem fashion.]  This was repeated for a total of [] biopsy samples.  [Preliminary assessment by the on-site cytopathologist confirmed/did not confirm adequacy of the specimen for diagnosis.  Additional material was submitted in solution for cell block analysis.]  [Core tissue specimens were submitted in formalin for histopathology assessment.]  The biopsy needle was removed and a sterile bandage applied.
+	
+SPECIMENS SENT: [Cytopathology, Histopathology, Flow-Cytometry, Microbiology, Chemistry, other]
+
+COMPLICATIONS: Post-procedure [CT / US]  images demonstrate [].  [The patient tolerated the procedure well with no immediate complications].
+
+POST-PROCEDURE CONSIDERATIONS: [The patient will be observed in the radiology recovery room for __ hours prior to discharge. Post-procedure orders have been written and placed on the chart.] [The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone to relay the details of the procedure and post-procedure management issues.]
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
+
+CONCLUSION:  [CT-guided / US-guided] biopsy of the [] mass was performed.	
+$$$
+CSIR Liver Parenchymal Biopsy
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE: Image-guided liver parenchymal biopsy	
+
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure.
+
+CONTRAST:  []
+
+GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA:[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: 
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE DESCRIPTION: The skin was prepped and draped in the usual sterile fashion.  After administration of local anesthesia, a 17 gauge needle was inserted using imaging guidance into the [right/left] lobe of the liver.  18 gauge coaxial automated core biopsies were then obtained for a total of [] specimens.
+
+SPECIMENS SUBMITTED:[for histopathology, in formalin]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
+
+COMPLICATIONS:[No immediate complications noted at the conclusion of the procedure,    ]
+
+FOLLOW-UP PLAN:  []
+
+CONCLUSION:  []
+
+
+$$$
+CSIR post drainage f/u plan
+FOLLOW UP PLAN:  
+
+This catheter will be left in place and orders for catheter irrigation with sterile saline, and monitoring of catheter outputs per shift have been written.  When catheter output is less than 10 cc of non-purulent fluid per day for at least two consecutive days, a follow-up CT scan will be considered to assess for fluid collection resolution. 
+
+FOR CASES IN WHICH A FISTULA IS POSSIBLE OR KNOWN - PLEASE ADD THE FOLLOWING:
+
+When the collection is considered fully drained, an abscessogram done under flouroscopy will be considered to evaluate for an ongoing fistula.
+
+INCLUDE DISCHARGE PLANS:
+
+When the patient is planned for discharge, and if the catheter is still in place, pls notify the CSIR team (B14520) at least a day in advance to arrange for discharge education, including catheter care, and plans for a follow-up visit with us.
+
+
+$$$
+CSIR US Paracentesis
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [Coagulation parameters were reviewed and considered acceptable.] [The patient was given an albumin infusion by the referring clinical service prior to the procedure.]
+
+PROCEDURE:  Image-guided [diagnostic, therapeutic, diagnostic and therapeutic] paracentesis
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]. A team time-out was performed prior to [sedation and] beginning the procedure.
+
+GUIDANCE MODALITY:  Ultrasound
+
+DEVICES:  [5 French One-step centesis catheter]
+
+SEDATION/ANESTHESIA: [none]
+
+MEDICATIONS AND DOSAGES: [ 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia] 
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE:  Preliminary ultrasound imaging was used to assess the abdominal fluid and to plan the approach.  With the patient in a supine position, the skin over the [right/left/midline] [upper/mid/lower] abdomen was prepped and draped in the usual sterile manner.  The local anesthetic solution was injected into the skin and subcutaneous tissues.  A small incision was made followed by ultrasound-guided insertion of the centesis catheter into the peritoneal fluid.  [] ml of [] fluid were removed followed by catheter removal.  A sterile bandage was applied.
+	
+SPECIMENS SENT:[none, cytology, histopathology, microbiology, chemistry, other]
+
+COMPLICATIONS:  [The patient tolerated the procedure well and no immediate complications occurred.]
+
+[Post-procedure orders entered into BICS.]
+
+FOLLOW-UP PLAN:  []
+
+CONCLUSION:  [Ultrasound-guided paracentesis performed without difficulty.]
+	
+
+$$$
+CSIR US Thoracentesis
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] [diagnostic / therapeutic / diagnostic & therapeutic] [right / left] thoracentesis
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW/PA-C:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [Coagulation parameters were reviewed and considered acceptable.]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure. 
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. []. The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A safety pause was performed immediately prior to the procedure. 
+
+CONTRAST: [None]
+
+DEVICES:
+[] cm 5 Fr One-step [Valved / Non-valved] Centesis Catheter
+
+SEDATION/ANESTHESIA: [None, Conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, Monitored anesthesia care (MAC) provided by the anesthesia department, General endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION OF SEDATION/ANESTHESIA: [Not applicable]
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+PROCEDURE:  
+
+[The patient was seated with arms and head resting on a stabilizing device.][The patient was placed in a __ position.] Preliminary imaging was obtained to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The centesis catheter was inserted into the [] with imaging guidance. [] ml of [] fluid were removed.  The centesis catheter was removed. A Vaseline gauze followed by a sterile bandage was applied.
+	
+SPECIMENS SUBMITTED:  [None, Microbiology, Chemistry, Cytology, other]
+
+COMPLICATIONS: Post-procedure [CT / US] demonstrates [].  [The patient tolerated the procedure well with no immediate complications].
+
+POST-PROCEDURE CONSIDERATIONS: [The patient will be observed in the radiology recovery room for __ hours prior to discharge.] [Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.] [The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS.  Dr. __ spoke with Dr. __ by telephone on __ at __  to relay the details of the procedure and post-procedure management issues.]  [This outpatient procedure did not require recovery room observation prior to discharge.  Home care instructions for this procedure were reviewed with the patient. All patient questions were answered.] [A two-hour follow-up CXR is ordered.]
+
+FOLLOW-UP PLAN: The patient will follow-up with their referring clinician for further management.  
+
+CONCLUSION:  [CT-guided / US-guided] paracentesis performed. 
+
+
+$$$
+CT abdomen
+
+
+INDICATION: <<Clinical Information>>  
+
+TECHNIQUE: CT scan of the abdomen and pelvis was performed after oral contrast administration and intravenous injection of 80 cc of Ultravist 370. Coronal reformat was also performed.
+
+COMPARISON: Images from prior [ ] performed on [ ] were available for comparison. [No prior similar study is available for comparison.]
+
+FINDINGS:
+
+ABDOMEN: There is no pleural effusion or lung base nodule. The liver is homogeneous and no focal lesion is seen. The spleen, pancreas, gallbladder and adrenal glands are unremarkable. The kidneys have normal appearance. There is no hydronephrosis. No enlarged lymph node is noted.
+
+PELVIS: The small and large bowel are partially opacified with oral contrast. The urinary bladder is not fully distended but appears normal. No free fluid or fluid collection are seen. [ ]  
+
+Evaluation of the osseous structures shows no focal lesion suspicious for malignancy.
+
+IMPRESSION:
+1. [ ].
+2. [ ].
+$$$
+CT C list
+INDICATION: A [ ] year-old [ ] patient [  ].
+
+TECHNIQUE: CT scan of the abdomen and pelvis was performed after oral contrast administration and intravenous injection of 100 cc of Ultravist 300.
+
+COMPARISON: Images from prior [ ] performed on [ ] were available for comparison. [No prior study is available for comparison].
+
+FINDINGS:
+
+COMMENT:  Even though this study was done on [ ] the original dictation has been lost and we are seeing this study for the first time today in order to complete the medical record.
+
+LUNG BASES: There is no pleural effusion, lung base nodule or other abnormalities .
+
+ABDOMEN: The liver is homogeneous and no focal lesion is seen. The spleen, pancreas, gallbladder and adrenal glands are unremarkable. The kidneys have normal appearance. There is no hydronephrosis. No enlarged lymph node is noted.
+
+PELVIS: The small and large bowel are partially opacified with oral contrast. The urinary bladder is not fully distended but appears normal. No free fluid or fluid collection are seen. [ ]  
+
+Bones: Evaluation of the osseous structures shows no focal lesion suspicious for malignancy.
+
+IMPRESSION:
+1. [ ].
+2. [ ].
+
+Dr. [ ] was communicated about these findings by Dr. Oliva on [ ].
+$$$
+CT Enterography
+
+
+INDICATION: <<Clinical Information>>  
+
+TECHNIQUE: Axial CT images were performed through the abdomen and pelvis following 1350 cc of neutral oral contrast administration (Volumen)  and 80 cc of  IV iodinated contrast (Ultravist 370).  Additional coronal and sagittal reformations were performed by the technologist at the CT console to help evaluate the GI tract.
+
+COMPARISON: [ ]. [No prior study is available for comparison.]
+
+FINDINGS:
+
+ABDOMEN: There is no pleural effusion or lung nodule in the evaluated lung bases. The liver is homogeneous and no focal lesion is seen. The spleen, pancreas, gallbladder and adrenal glands are unremarkable. The kidneys have normal appearance. There is no hydronephrosis. No enlarged lymph node is noted.
+
+PELVIS: The urinary bladder is not fully distended but appears normal. No free fluid or fluid collection are seen. There is no enlarged lymph node.  
+
+Evaluation of the osseous structures shows no focal lesion suspicious for malignancy.
+
+ENTEROGRAPHY (coronal and sagittal reformats): [There is good opacification of the small bowel by the neutral oral contrast.] [No areas of abnormal wall thickening, mucosal hyperenhancement or fistula are identified.]
+
+IMPRESSION:
+1. []
+
+$$$
+CT Lasix Urogram
+INDICATION: <<Clinical Information>>  
+
+TECHNIQUE: CT urogram was performed with axial imaging through the abdomen and pelvis before and after 100 cc of Ultravist 300 IV contrast and 10 mg of IV lasix. MPR, MIP and volume rendered images were performed on an independent workstation by a technologist to evaluate the collecting system and bladder. 
+
+
+COMPARISON: []
+
+FINDINGS: 
+
+LUNG BASES: []
+
+ABDOMEN: []
+
+PELVIS: []
+
+REFORMATIONS: []
+
+BONE: Evaluation of osseous structures shows no focal lesions suspicious for malignancy.
+
+IMPRESSION: 
+1. []
+2. []
+$$$
+CT Liver Volume
+INDICATION: [Pre/Post portal vein embolization]
+
+CONTRAST: Ultravist, []
+
+TECHNIQUE: CT scanning of the abdomen and pelvis was performed in the arterial and portal venous phases.  3D volume-rendered images and MIP images were generated by a technologist at a dedicated workstation in a 3D lab.  3D images are optimized to display arteries and veins and to calculate specific liver volumes.
+
+COMPARISON: [<None>].
+
+FINDINGS:
+
+LUNG BASES: [<There is no pleural effusion or lung base nodule.>]
+
+ABDOMEN: []
+
+PELVIS: []
+
+ARTERIAL ANATOMY AND VARIANTS: []
+
+VENOUS ANATOMY AND VARIANTS: []
+
+LIVER VOLUMES: 
+Study Date:			[pre study]             [if post study]
+Total Liver Volume (cc)	                     []	          []
+Right Lobe: 	                     []                              []
+Left Lobe: 			[]                              []
+Left lateral Segment: 	                     []                              []
+Left hepatic lobe volume as
+percent of total volume:                      []                              []
+
+MUSCULOSKELETAL: []
+
+IMPRESSION: []
+$$$
+CT Pancreatic Mass
+
+INDICATION: [Pancreatic mass, presurgical evaluation]
+
+TECHNIQUE: CT scanning of the abdomen and pelvis was performed in the arterial and portal venous phases after the administration of [ cc] of Ultravist 370.  
+
+COMPARISON: [<None>]
+
+FINDINGS:
+
+LUNG BASES: [<There is no pleural effusion or lung base nodule.>]
+
+PANCREAS: [<Pancreatic mass present>]
+
+Tumor Location [], Size [], Extrapancreatic extension [], Remaining pancreas []
+
+Adenopathy Location, The largest size [], Size of Gastroduodenal node [] 
+
+Metastatic disease (liver, peritoneal, other) [] 
+
+Ascites/peripancreatic fluid [] 
+
+Arterial Involvement present [], celiac [], SMA [], splenic artery (tumor-celiac bifurcation distance) []
+
+Venous Involvement [], SMV (% encasement, PV confluence to tumor distance, first branch to tumor distance) []
+
+Vascular Involvement other []
+
+Thrombosis of any vessel []
+
+Aberrant Anatomy []
+
+
+ABDOMEN: []
+
+
+PELVIS: []
+
+
+MUSCULOSKELETAL: []
+
+
+IMPRESSION: []
+
+$$$
+CT saline urogram
+INDICATION: <<Clinical Information>>  
+
+TECHNIQUE: CT urogram was performed with axial imaging through the abdomen and pelvis before and after 100 cc of Ultravist 300 IV contrast and 250 cc of IV saline. Post contrast imaging was performed in the nephrographic and pyelographic phases of enhancement.  Coronal reformations were performed on the CT console by the technologist. Additional curved reformations and 3D MIP images were performed at a dedicated 3D workstation to better assess the urinary tract.
+
+COMPARISON: []
+
+FINDINGS: 
+
+LUNG BASES: []
+
+ABDOMEN: []
+
+PELVIS: []
+
+REFORMATIONS: []
+
+IMPRESSION: []
+$$$
+CT ureter
+INDICATION:  <<Clinical Information>> .
+
+TECHNIQUE: CT scan of the abdomen and pelvis was performed without oral or intravenous contrast administration using the CT ureter protocol.
+
+COMPARISON: Images from prior [ ] performed on [ ] were available for comparison. [No prior study is available for comparison].
+
+FINDINGS:
+
+LUNG BASES: There is no pleural effusion, lung base nodule or other abnormalities .
+
+ABDOMEN: The unenhanced liver is homogeneous and no focal lesion is seen. The unenhanced spleen, pancreas, gallbladder and adrenal glands are unremarkable. The kidneys have normal appearance. There is no hydronephrosis. No enlarged lymph node is noted.
+
+PELVIS:  The unopacified small and large bowel are unremarkable. The urinary bladder is not fully distended but appears normal. No free fluid or fluid collection are seen. [ ]  
+
+Bones: Evaluation of the osseous structures shows no focal lesion suspicious for malignancy.
+
+IMPRESSION:
+1. [ ].
+2. [ ]. 
+$$$
+CT urogram lasix
+
+
+INDICATION:  <<Clinical Information>>.
+
+TECHNIQUE: CT urogram was performed with axial imaging through the abdomen and pelvis before and after 100 cc of Ultravist 300 IV contrast and 10 mg of IV lasix. Post contrast imaging was performed in the nephrographic and pyelographic phases of enhancement.  Coronal reformations were performed on the CT console by the technologist. Additional curved reformations and 3D MIP images were performed at a dedicated 3D workstation to better assess the urinary tract.
+
+COMPARISON: [ ]
+
+FINDINGS: 
+
+ABDOMEN: [ ]
+
+PELVIS: [ ]
+
+Multiplanar reformatts and 3D images: [ ]
+
+Impression:
+1. []
+$$$
+CTC diagnostic
+STUDY: Diagnostic CT Colonography
+
+NOTE: CT Colonography has been shown in several studies to have high sensitivity in certain patient groups. Although the experience with this test is promising, the precise role of CT Colonography has not been established, particularly for lesions measuring 5 mm or less and for non-polypoid (flat) lesions. CT colonography is not intended for the detection of diminutive colonic polyps (i.e., tiny polyps <= 5 mm), the presence or absence of which will not change management of the patient.
+
+INDICATION:  <<Clinical Information>>  
+
+TECHNIQUE: The patient underwent bowel preparation the day before the exam, consisting of [ ]. Following automated carbon dioxide insufflation per rectum, supine and prone CT images were obtained before and after IV injection of 100 cc of Ultravist 300. Coronal and sagittal reformatted images were performed on the CT console by the technologist. Additional 3D images were performed and evaluated using a dedicated 3D workstation by a radiologist to better assess the colon. Evaluation of the colon was performed using 2-D axial and multiplanar reformats, as well as 3-D images.
+
+FINDINGS: 
+ABDOMEN (extra colonic findings):
+[ ]
+
+PELVIS (extra colonic findings):
+[ ]
+
+3D IMAGES (colonic findings):
+[Comment of quality of prep and distention. Size, morphology, and location of any large (= 10 mm) or small (6-9 mm) polyps.]
+
+
+IMPRESSION:
+
+COLONIC FINDINGS AND FOLLOW UP RECOMMENDATION:
+
+[- Inadequate study or awaiting prior comparisons 
+Inadequate prep with moderate to large amount of retained fecal material and/ or fluid present. Inadequate insufflation with one or more colonic segments collapsed on both views. The retained stool and/or insufficient distention severely limit the evaluation for polyps. No large lesions are identified; however the exam is insufficient to exclude polyps or small cancers. The patient should undergo optical colonoscopy after a sufficient colonic preparation. CT Colonography can be substituted for optical colonoscopy if the patient is either unable or unwilling to undergo optical colonoscopy.]
+
+[- No polyp measuring 6 mm or greater and benign findings (e.g. colonic lipoma and colonic diverticula). Recommend continued colorectal cancer screening with optical colonoscopy in 10 years or with CT colonography in 5 years.]
+
+[-Polyp measuring 6 mm or greater. Immediate optical colonoscopy with polypectomy is recommended.]
+
+[- Malignant-appearing colonic mass. Surgical consultation is recommended.]
+
+
+EXTRA-COLONIC FINDINGS:
+
+ []
+
+- Dr. [ ] was informed of the above described findings and recommendations by Dr. [ ] at [ ] on [].
+
+
+$$$
+CTC screening
+
+STUDY: Screening CT Colonography
+
+NOTE: CT Colonography has been shown in several studies to have high sensitivity in certain patient groups. Although the experience with this test is promising, the precise role of CT Colonography has not been established, particularly for lesions measuring 5 mm or less and for non-polypoid (flat) lesions. CT colonography is not intended for the detection of diminutive colonic polyps (i.e., tiny polyps <= 5 mm), the presence or absence of which will not change management of the patient.
+
+INDICATION:  [Asymptomatic patient screening for colorectal cancer.] 
+
+TECHNIQUE: The patient underwent bowel preparation the day before the exam, consisting of [ ]. Following automated carbon dioxide insufflation per rectum, supine and prone CT images were obtained without intra venous contrast material administration. Coronal and sagittal reformatted images were performed on the CT console by the technologist. Additional 3D images were performed and evaluated using a dedicated 3D workstation by a radiologist to better assess the colon. Evaluation of the colon was performed using 2-D axial and multiplanar reformats, as well as 3-D images.
+
+FINDINGS: 
+Note: Extracolonic evaluation is limited by the low dose CT technique and lack of IV contrast.
+
+ABDOMEN (extra colonic findings):
+[ ]
+
+PELVIS (extra colonic findings):
+[ ]
+
+3D IMAGES (colonic findings):
+[Comment of quality of prep and distention. Size, morphology, and location of any large (= 10 mm) or small (6-9 mm) polyps.]
+
+
+IMPRESSION:
+
+COLONIC FINDINGS AND FOLLOW UP RECOMMENDATION:
+
+[- Inadequate study or awaiting prior comparisons 
+Inadequate prep with moderate to large amount of retained fecal material and/ or fluid present. Inadequate insufflation with one or more colonic segments collapsed on both views. The retained stool and/or insufficient distention severely limit the evaluation for polyps. No large lesions are identified, however the exam is insufficient to exclude polyps or small cancers. The patient should undergo optical colonoscopy after a sufficient colonic preparation. CT Colonography can be substituted for optical colonoscopy if the patient is either unable or unwilling to undergo optical colonoscopy.]
+
+[- No polyp measuring 6 mm or greater and benign findings (e.g. colonic lipoma and colonic diverticula). Recommend continued colorectal cancer screening with optical colonoscopy in 10 years or with CT colonography in 5 years.]
+
+[-Polyp measuring 6 mm or greater. Immediate optical colonoscopy with polypectomy is recommended.]
+
+[- Malignant-appearing colonic mass. Surgical consultation is recommended.]
+
+
+EXTRA-COLONIC FINDINGS:
+
+[]
+
+- Dr. [ ] was informed of the above described findings and recommendations by Dr. [ ] at [ ] on [].
+
+
+$$$
+Fleischner criteria recommendations for f/u of lung nodules
+If not previously performed, these may be further evaluated as follows, according 
+to Fleischner criteria recommendations for follow-up of incidental CT nodules (H MacMahon, Guidelines for management of small pulmonary nodules detected on CT scans: A statement from the Fleischner Society, Radiology 237: 395-400 2005): 
+
+Low Risk Patient: Minimal or no smoking or other known risk factors for malignancy 
+ <=4 mm: No follow-up needed. 
+ >4-6 mm: Initial follow-up CT at 12 months; if unchanged, no further follow-up. 
+ >6-8 mm: Initial follow-up CT at 6-12 months then at 18-24 mo if no change. 
+ >8 mm: follow-up CT at \R\3, 9, 24 months, or PET and/or biopsy. 
+
+
+ High Risk Patient: History of smoking or other known risk factors 
+ <=4 mm: Follow-up at 12 months; if unchanged, no further follow-up. 
+ >4-6 mm: Initial follow-up CT at 6-12 months then at 18-24 months if no change. 
+ >6-8 mm: Initial follow-up CT at 3-6 months then at 9-12 and 24 months if no change. 
+ >8 mm: Same as low risk patient. 
+
+ Note: Nodule size measured as average of length and width. 
+Ground glass or partly solid nodules may require longer follow-up 
+to exclude indolent adenocarcinoma. 
+$$$
+fluoro barium enema
+INDICATION: <<Clinical Information>> .
+
+TECHNIQUE: Water soluble contrast is instilled via a red rubber tube inserted into the anus under fluoroscopic guidance.
+
+FINDINGS: [<Contrast is followed from the rectum through the colon into the cecum.>]  [<The colon appears normal in appearance with normal caliber and fold pattern.>]  [<No filling defects are seen to suggest polyps or mass lesions.>]  [<No contrast extravasation or fistula formation is seen.>]  
+
+IMPRESSION: [<Normal barium enema.>]
+$$$
+fluoro cysto
+INDICATION: <<Clinical Information>> .
+
+TECHNIQUE: A preliminary film of the abdomen was obtained. Using sterile technique, the urethra was catheterized and Cystografin Dilute (8.5% of iodine) were instilled under gravity. Multiple films were obtained.
+
+FINDINGS: The urinary bladder is normal in size, shape, and position. There is no evidence of vesicoureteral reflux.The urethra is normal. The patient voids to completion.
+
+IMPRESSION: Normal voiding cystourethrogram.
+$$$
+Fluoro double contrast swallow
+INDICATION: <<Clinical Information>> .
+
+TECHNIQUE: The patient swallows barium and citrocarbonate under fluoroscopic guidance.  The patient is then given thin barium to swallow. 
+
+FINDINGS: [The patient swallows barium without difficulty.][There is no evidence of hiatus hernia or gastroesophageal reflux.][Esophageal motility is normal.]
+
+IMPRESSION: [Normal esophagram.]
+$$$
+fluoro ERCP
+INDICATION:  <<Clinical Information>> .
+
+TECHNIQUE: [<>] radiographs were obtained of the upper abdomen after cannulation of the common bile duct by the gastroenterologist. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS: Contrast opacified a nondilated biliary tree. The common duct is not dilated. No filling defects are seen. [<Basket retrieval of stone was performed.>]
+
+IMPRESSIONS: [<Normal ERCP.>] [<Choledocholithiasis status post extraction of stones.>]
+$$$
+fluoro gastric banding
+INDICATION:  <<Clinical Information>>. Patient is [] from gastric banding.
+
+TECHNIQUE: The patient is given water soluble contrast to drink under fluoroscopic guidance. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS: Contrast passes [<easily/with slight delay/after significant delay>] through the gastroesophageal junction.  The gastric band has appropriate alignment.  Contrast passes through the banded segment in an appropriately timely manner and proceeds into the small bowel.  
+
+IMPRESSION: No evidence for leak or obstruction.
+$$$
+fluoro gastric bypass
+INDICATION: Patient is [] from Roux-en-Y gastric bypass surgery.
+
+TECHNIQUE: The patient is given water soluble contrast to drink under fluoroscopic guidance. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS: Contrast passes [easily/with slight delay/after significant delay] through the gastroesophageal junction.  Contrast passes through the gastrojejunostomy anastomosis [without delay].  There is no evidence for extraluminal leak or extravasation into the excluded stomach.  Contrast continues down into non-dilated distal small bowel.  
+
+IMPRESSION: No evidence for leak or obstruction.
+$$$
+fluoro HSG
+INDICATION:  [Infertility.]
+
+TECHNIQUE: The cervix was cannulated by the obstetrician-gynecologist and water soluble contrast was instilled into the uterus under fluoroscopic guidance.  Multiple spot images were obtained. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS:  The uterine cavity is normal in size, shape, and position.  The fallopian tubes are patent and there is free peritoneal spill bilaterally.  Visualized bony structures are unremarkable.
+
+IMPRESSION:  Normal hysterosalpingogram.
+$$$
+fluoro SBFT
+INDICATION: [<>]
+
+TECHNIQUE: The patient swallows barium and multiple abdominal radiographs are obtained at different time intervals to assess the bowel pattern and the transit of contrast. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS: Barium is followed through the small bowel to the colon. The small bowel loops demonstrate normal caliber and fold pattern. In particular, the terminal ileum appears within normal limits.
+
+IMPRESSION: [<Normal small bowel follow through study.>]
+$$$
+fluoro VCUG
+INDICATION: []
+
+TECHNIQUE: The patient is catheterized by the urology nurse and water soluble contrast is injected into the bladder in retrograde manner under fluoroscopic guidance.  Spot images are taken during filling and voiding. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS: The patient's bladder fills without difficulty.  There is no leak with cough or strain.  There are no trabeculations or diverticula.  The patient voids without difficulty.  The urethra is normal in course and appearance.  There is no reflux.  There is no significant post void residual.
+
+IMPRESSION: Normal VCUG.
+$$$
+Fluoro video swallow
+INDICATION:  [ ]
+
+TECHNIQUE: The patient is fed nectar-thick and thin liquid barium, barium coated wafer, and barium pudding by the speech pathologist under fluoroscopic guidance. 
+
+COMPARISON: None.
+
+FINDINGS: There was normal oral handling of the bolus. There was no spillover or pooling. No penetration or aspiration was seen. Swallowing reflex was normal. There was no evidence of cricopharyngeal dysfunction.
+
+IMPRESSION: 
+1. Normal video swallow.
+2. For detailed findings and recommendations, please see speech pathologist report.
+$$$
+Fluoroscopic double contrast swallow
+INDICATION:  []
+
+TECHNIQUE: The patient swallows barium and citrocarbonate under fluoroscopic guidance.  The patient is then given thin barium to swallow. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS: [The patient swallows barium without difficulty.][There is no evidence of hiatus hernia or gastroesophageal reflux.][Esophageal motility is normal.]
+
+IMPRESSION: [Normal esophagram.]
+$$$
+Gadolinium consent
+The patient was consented for the risk of nephrogenic systemic fibrosis secondary to gadolinium due to an estimated GFR of  [ ].
+$$$
+KUB
+
+INDICATION: <<Clinical Information>>. 
+
+FINDINGS: [ ]
+There are no dilated small bowel loops or fluid levels to suggest bowel obstruction.
+
+IMPRESSION: 
+1. No evidence of bowel obstruction.
+
+
+
+$$$
+liver parenchymal
+INDICATION:  [ ] year-old [ ] patient with [ ].
+
+PROCEDURE: The [ ]-guided parenchymal liver biopsy and its risks, benefits and alternatives were explained to the patient and written informed consent was obtained.
+
+Preliminary imaging of the abdomen was performed to determine a safe needle entry site. The skin over the [] region was prepped and draped in the usual sterile fashion. 2% lidocaine was used for local anesthesia. An 18-gauge x 9 cm Temno biopsy device was advanced into the left hepatic lobe using []-guidance and a core biopsy sample was obtained. This was repeated for a total of [] biopsies. The specimens were sent for surgical pathology.
+
+The patient tolerated the procedure well and there were no immediate complications. Fentanyl [] mcg IV and Versed [] mg IV were administered during the procedure. 
+
+The attending physician, Dr. [ ], was present for the entire procedure.
+
+IMPRESSION: []
+
+[]-guided liver parenchymal biopsy with samples sent for surgical pathology.
+$$$
+MR abdomen
+INDICATION:  [ ]-year-old [ ]  patient with [ ].
+
+TECHNIQUE: Multi-planar, multi-sequence MR imaging of the abdomen was performed pre- and post-gadolinium administration (0.2 mL/kg for [ ] mL).
+
+COMPARISON: Images from prior [ ] performed on [ ] were available for comparison. [No prior images were available for comparison]
+
+FINDINGS:
+[ ]
+
+IMPRESSION:
+1. [ ]
+$$$
+MR Anal Sphincter
+
+INDICATION:  Fecal incontinence.
+
+TECHNIQUE: Multiple MRI sequences were acquired through the pelvis before and after the administration of [ ] ml of gadolinium intravenous contrast with endorectal coil according to the anal sphincter protocol.  No prior studies are available for comparison.
+
+FINDINGS: The internal and external anal sphincters are intact. No sphincteric scarring or atrophy is demonstrated. The musculature is symmetric and uniform. Limited images through the abdomen and pelvis demonstrate no abnormalities.  Visualized osseous structures have normal marrow signal.
+
+IMPRESSION: No evidence of anal sphincter disruption.
+$$$
+MR defecogram
+INDICATION:  [ ]
+
+TECHNIQUE: TECHNIQUE: Prior to the examination the patient drank 600 cc of water and 240 cc of ultrasound gel was administered intrarectally. Multiple MR images were obtained in a 1.5 Tesla magnet of the patient at rest, squeezing, and straining.
+
+FINDINGS:
+
+Rest (Images []): Rest images showed normal positions of the bladder, [], and anorectal junction in correlation with the pubococcygeal line. The anorectal junction projects approximately [] cm below the pubococcygeal line.
+
+Squeezing (Images []): There is a normal indentation of the puborectalis muscle on the back wall of the rectum with the patient squeezing. There is an elevation of the anorectal junction to approximately [] centimeters below the pubococcygeal line.  The bladder and [] stay in a normal position.
+
+Straining (Images []):  There is a normal distance of the anorectal junction descending [] cm below the pubococcygeal line. There is widening of the anorectal angle. The bladder and [] stay in normal position.  
+
+Defecation (Images []):  There is [] descent of the bladder with the bladder base descending [] cm below the pubococcygeal line. []
+
+
+IMPRESSION: 
+[]  Pelvic prolapse with abnormal descent of the anterior, middle, and posterior compartments.
+
+$$$
+MR enterography
+
+INDICATION:  []
+
+TECHNIQUE: MR enterography was performed with axial and coronal FIESTA and post-contrast imaging after [ ] cc of IV gadolinium and oral ingestion of 1-2 liters of water over 1 hour prior to imaging.
+
+FINDINGS: []
+
+IMPRESSION: []
+$$$
+MR female pelvis
+
+INDICATION:  [] year-old female patient with [ ] .
+
+TECHNIQUE: Multi-planar, multi-sequence MR imaging of the pelvis were performed pre- and post-gadolinium administration (0.2 mL/kg for [ ] mL).
+
+COMPARISON: []
+
+FINDINGS:
+The uterus measures [ ] cm cranio-caudal x [ ] cm antero posterior x [ ] cm latero-lateral,  with an estimated volume of [ ] cc.
+[]
+
+IMPRESSION:
+1. []
+$$$
+MR liver
+INDICATION:  [ ]-year-old [ ]  patient with [ ].
+
+TECHNIQUE: Multi-planar, multi-sequence MR imaging of the abdomen was performed pre- and post-gadolinium administration (0.2 mL/kg for [ ] mL).
+
+COMPARISON: Images from prior [ ] performed on [ ] were available for comparison. [No prior images were available for comparison]
+
+FINDINGS:
+[ ]
+
+IMPRESSION:
+1. [ ]
+$$$
+MR pancreas
+INDICATION:  [ ]-year-old [ ]  patient with [ ].
+
+TECHNIQUE: Multi-planar, multi-sequence MR imaging of the abdomen was performed pre- and post-gadolinium administration (0.2 mL/kg for [ ] mL). MRCP sequences were also obtained.
+
+COMPARISON: Images from prior [ ] performed on [ ] were available for comparison. [No prior images were available for comparison]
+
+FINDINGS:
+ABDOMEN: [ ]
+
+MRCP: [ ]
+
+IMPRESSION:
+1. [ ]
+$$$
+MR pancreas with secretin
+
+
+INDICATION:  [] year-old patient with [ ].
+
+TECHNIQUE: Multi-planar, multi-sequence MR imaging of the abdomen was performed pre- and post-gadolinium administration (0.2 mL/kg for [ ] mL). Additional MRCP sequences were performed including dynamic imaging after [] mcg of secretin.
+
+COMPARISON: []
+
+FINDINGS: 
+ABDOMEN: []
+
+MRCP: []
+
+IMPRESSION: 
+1. []
+$$$
+MR prostate staging
+
+
+INDICATION:  [] year-old male patient with [ ]mg/ml PSA from [ ]. Report from prior prostate biopsy performed on [ ] showed [ ] Gleason score [ ].
+
+TECHNIQUE: Multiplanar MR images of the prostate were performed with an endorectal coil. Additional limited axial imaging was performed through the retroperitoneum to complete staging.
+
+COMPARISON: [No prior study is available for comparison.]
+
+FINDINGS: 
+The prostate measures [ ] x [ ] x [ ] cm, with an estimated volume of [ ] cc.
+[ ]
+
+IMPRESSION:
+1. []
+$$$
+PETCT Negative
+INDICATION:  [ ] year-old [ ] patient with [ ].
+
+RADIOPHARMACEUTICAL:  F18-FDG.
+
+DOSE:  [] mCi.
+
+BLOOD GLUCOSE: [] mg/dL.
+
+TECHNIQUE:  Approximately 60 minutes following IV tracer administration, positron emission tomography was performed from the base of the skull through the pelvis.  Non-contrast helical CT imaging was performed over the same range without breath-hold for attenuation correction of PET images and anatomic correlation, but not for primary interpretation as it is not of standard diagnostic quality.
+ 
+COMPARISON: []
+
+FINDINGS:
+
+HEAD AND NECK:  There is no FDG-avid disease or significant lymphadenopathy in the imaged portions of the head and the neck.
+ 
+CHEST:  There is no FDG-avid disease in the chest.  There is no axillary, mediastinal, or hilar lymphadenopathy.  There is no pleural or pericardial effusion.  There is no air-space disease or suspicious lung nodule.
+ 
+ABDOMEN/PELVIS:  Below the diaphragm, tracer is distributed physiologically in the gastrointestinal and genitourinary tracts. There is no significant lymphadenopathy and no FDG-avid disease.
+ 
+MUSCULOSKELETAL:  There is no FDG-avid or destructive bone lesion.
+ 
+IMPRESSION:
+ 
+There is no definite evidence of recurrent FDG-avid disease.
+ 
+END OF IMPRESSION:
+
+$$$
+results
+Dr. <<Referring First Name>>  <<Referring Last Name>>  was informed of these findings by Dr. Oliva at [ ] on [ ].
+$$$
+SR CT abdomen and pelvis
+INDICATION: [ ]
+ 
+TECHNIQUE: CT scan of the abdomen and pelvis was obtained [with/without] intravenous injection of [55 / 80 mL] [Ultravist / Isovue 300 / 370] and [with/without] [ ] enteric contrast material.
+ 
+COMPARISON: [ ]
+ 
+FINDINGS:
+
+LOWER CHEST: [ ]
+
+LIVER: [ ]
+
+BILIARY SYSTEM: [ ]
+
+PANCREAS: [ ]
+
+SPLEEN: [ ]
+
+ADRENAL GLANDS: [ ]
+
+KIDNEYS: [ ]
+
+BOWEL: [ ]
+
+MESENTERY, OMENTUM, PERITONEUM: [ ]
+
+RETROPERITONEUM: [ ]
+
+PELVIC ORGANS: [ ]
+
+LYMPH NODES: [ ]
+
+VASCULATURE: [ ]
+
+BONES AND SOFT TISSUES: [ ]
+  
+IMPRESSION:
+[ ]
+$$$
+SR MRI Prostate Cancer Staging
+INDICATION: [ ]
+PSA: [Date, results]
+Biopsy: [Date, results ]
+Prior therapy: [No/Yes- type?]
+
+TECHNIQUE: MRI of the prostate gland was obtained at 3T [with/without] an endorectal coil before and after the intravenous administration of [ ] mL Magnevist [and intramuscular administration of 1 mg of glucagon].
+
+COMPARISON: [ ]
+
+FINDINGS:
+Prostate gland size: [trv x ap x cc cm], volume [ ] cc.
+
+Focal lesion:
+In the [Location - left / right, central / peripheral, base/midgland/apex, anterior/posterior], there is a focal lesion which measures [size in 3 planes], is [T2 hypointense], [shows restricted diffusion (ADC value  )], [with perfusion pharmacokinetics (iCAD) showing early rapid enhancement and washout (curve 3), early enhancement followed by plateau (curve 2), gradual progressive enhancement (curve 1)].
+
+In the [Location - left / right, central / peripheral, base/midgland/apex, anterior/posterior], there is a focal lesion which measures [size in 3 planes], is [T2 hypointense], [shows restricted diffusion (SI of ADC value  )], [with perfusion pharmacokinetics (iCAD) showing early rapid enhancement and washout (curve 3), early enhancement followed by plateau (curve 2), gradual progressive enhancement (curve 1)].
+
+[Repeat the above for other lesions]
+
+Central gland: [normal, changes of BPH, hemorrhage]
+
+Peripheral zone: [normal, diffuse low T2 signal, patchy areas of low T2 signal, hemorrhage ]
+
+Capsule and Extracapsular extension: [none, abutting the capsule, present - location such as right, left, central, rectoprostatic angle]
+
+Neurovascular bundle: [normal, tumor involvement present - location such as right or left, distance in mm of tumor from nearest NVB]
+
+Seminal Vesicles: [normal, hemorrhage, abnormal low T2 signal - location - right, left, central, bilateral]
+
+Bladder: [normal, underdistended, trabeculated, invasion - location, bladder neck, distal sphincter]
+
+Pelvic lymph nodes: [normal, enlarged - location, size]
+
+Retroperitoneum: [ +-nodes]
+
+Other findings: [ kidney - hydronephrosis, bowel, vasculature, bones and soft tissue +- metastasis]
+
+IMPRESSION:
+[ ]
+$$$
