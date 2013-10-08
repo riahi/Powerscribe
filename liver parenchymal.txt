@@ -1,0 +1,13 @@
+INDICATION:  [ ] year-old [ ] patient with [ ].
+
+PROCEDURE: The [ ]-guided parenchymal liver biopsy and its risks, benefits and alternatives were explained to the patient and written informed consent was obtained.
+
+Preliminary imaging of the abdomen was performed to determine a safe needle entry site. The skin over the [] region was prepped and draped in the usual sterile fashion. 2% lidocaine was used for local anesthesia. An 18-gauge x 9 cm Temno biopsy device was advanced into the left hepatic lobe using []-guidance and a core biopsy sample was obtained. This was repeated for a total of [] biopsies. The specimens were sent for surgical pathology.
+
+The patient tolerated the procedure well and there were no immediate complications. Fentanyl [] mcg IV and Versed [] mg IV were administered during the procedure. 
+
+The attending physician, Dr. [ ], was present for the entire procedure.
+
+IMPRESSION: []
+
+[]-guided liver parenchymal biopsy with samples sent for surgical pathology.

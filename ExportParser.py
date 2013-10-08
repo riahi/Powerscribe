@@ -47,6 +47,7 @@ for x in reports:
 	print "b= ", body
 
 	newfilename = title
+	newfilename = newfilename.translate(None, '/')
 	newfile = open(newfilename + ".txt", "wb")
 	newfile.write(body)
 	newfile.close()
