@@ -1,0 +1,357 @@
+ANCR
+
+
+Critical results were communicated and documented using the Alert Notification of Critical Radiology Results (ANCR) system.
+$$$
+attestation
+
+
+I, the teaching physician, have reviewed the images and agree with the report as written.
+
+$$$
+CIS Abscess drainage
+INDICATION: []
+
+PROCEDURE: The risks, benefits and alternatives to image-guided needle aspiration and possible percutaneous catheter drainage were discussed with the patient and written informed consent was obtained. The patient was positioned [] on the table. Limited imaging was obtained to determine a safe needle entry site.  The [] was prepped and draped in the usual sterile fashion. 2% lidocaine was used for local anesthesia. 
+
+Using CT/fluoroscopic guidance, a []gauge []cm needle was inserted into []. Positioning was confirmed with CT.  [] of [] fluid was aspirated and sent for microbiology. Using tandem trocar technique, a []Fr Flexima drainage catheter was inserted. The needle was removed and the catheter deployed.  A total of []cc of fluid was aspirated.  
+
+The patient tolerated the procedure well and there were no immediate complications. [] received [] mcg of Fentanyl IV and [] mg of Versed IV during the procedure.
+
+The teaching physician, [ ], was present for the entire radiologic portion of the procedure and was immediately available for the remaining portions of the procedure.
+
+IMPRESSION: CT-guided catheter drainage of a  []. A sample of the aspirated fluid was sent for microbiology. A []Fr catheter was left to gravity drainage.
+$$$
+CIS liver parenchymal
+HISTORY: []
+
+PROCEDURE: []-guided parenchymal liver biopsy and its risks, benefits and alternatives were explained to the patient and written informed consent was obtained.
+
+Preliminary imaging of the abdomen was performed to determine a safe needle entry site. The skin over the [] region was prepped and draped in the usual sterile fashion. 2% lidocaine was used for local anesthesia. An 18-gauge x 9 cm Temno biopsy device was advanced into the left hepatic lobe using []-guidance and a core biopsy sample was obtained. This was repeated for a total of [] biopsies. The specimens were sent for surgical pathology.
+
+The patient tolerated the procedure well and there were no immediate complications. Fentanyl [] mcg IV and Versed [] mg IV were administered during the procedure. 
+
+The attending physician was present for the entire procedure.
+
+IMPRESSION: []-guided liver parenchymal biopsy with samples sent for surgical pathology.
+$$$
+CIS paracentesis
+INDICATION: []
+
+ULTRASOUND-GUIDED  PARACENTESIS:
+
+The procedure and its risks, benefits and alternatives were discussed with the patient and written informed consent was obtained. Preliminary ultrasound of the abdomen was performed to determine a safe needle entry site. 
+
+The [] quadrant was prepped and draped in the usual sterile fashion. 2% Lidocaine was used for local anesthesia. A 5F Yueh needle-sheath was inserted into the peritoneal space using ultrasound guidance. The needle was removed and the sheath was connected to tubing and a vacuum suction device. A total of [] cc of [] ascites was aspirated. The sheath was removed and a sterile dressing applied.
+
+The patient tolerated the procedure well and there were no immediate complications. The teaching physician, [ ], was present for the entire radiologic portion of the procedure, including placement of the needle sheath, and was immediately available for the remaining portions of the procedure.
+
+IMPRESSION:
+
+Ultrasound-guided therapeutic paracentesis with aspiration of [] cc of [] ascites.
+$$$
+CIS thoracentesis
+INDICATION: []
+
+ULTRASOUND-GUIDED [] THORACENTESIS:
+
+The procedure and its risks, benefits and alternatives were discussed with the patient and written informed consent was obtained. Preliminary ultrasound of the [] hemithorax was performed to determine a safe needle entry site. 
+
+The [] back was prepped and draped in the usual sterile fashion. 2% Lidocaine was used for local anesthesia. A 5F Yueh needle-sheath was inserted into the pleural space using ultrasound guidance. The needle was removed and the sheath was connected to a syringe and [] cc of fluid was aspirated for []. The sheath was then connected to tubing and a vacuum suction device. A total of [] cc of [] pleural fluid was aspirated. The sheath was removed and a sterile dressing applied.
+
+The patient tolerated the procedure well and there were no immediate complications. The teaching physician, [ ], was present for the entire radiologic portion of the procedure, including placement of the needle sheath, and was immediately available for the remaining portions of the procedure.
+
+IMPRESSION:
+
+Ultrasound-guided diagnostic and therapeutic [] thoracentesis with aspiration of [] cc of [] pleural fluid. 
+$$$
+CSIR Single Procedure
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE: []
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure.
+
+CONTRAST:  []
+
+GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA:[none; conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist; monitored anesthesia care provided by the anesthesia department; general anesthesia provided by the anesthesia department]
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE DESCRIPTION:
+[]
+
+SPECIMENS SUBMITTED:[none, cytopathology, histopathology, microbiology, chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
+
+COMPLICATIONS:[No immediate complications noted at the conclusion of the procedure, A two hour post-procedure chest x-ray is ordered         ]
+
+FOLLOW-UP PLAN:  []
+
+CONCLUSION:
+1.  []
+
+
+$$$
+CSIR US Paracentesis
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [Coagulation parameters were reviewed and considered acceptable.] [The patient was given an albumin infusion by the referring clinical service prior to the procedure.]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PROCEDURE:  Image-guided [diagnostic, therapeutic, diagnostic and therapeutic] paracentesis
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]. A Safety Pause was performed immediately prior to the procedure.
+
+GUIDANCE MODALITY:  Ultrasound
+
+DEVICES:  [5 French One-step centesis catheter]
+
+SEDATION/ANESTHESIA: [none]
+
+MEDICATIONS AND DOSAGES: [ 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia] 
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE:  Preliminary ultrasound imaging was used to assess the abdominal fluid and to plan the approach.  With the patient in a supine position, the skin over the [right/left/midline] [upper/mid/lower] abdomen was prepped and draped in the usual sterile manner.  The local anesthetic solution was injected into the skin and subcutaneous tissues.  A small incision was made followed by ultrasound-guided insertion of the centesis catheter into the peritoneal fluid.  [] ml of [] fluid were removed followed by catheter removal.  A sterile bandage was applied.
+	
+SPECIMENS SENT:[none, cytology, histopathology, microbiology, chemistry, other]
+
+COMPLICATIONS:  [The patient tolerated the procedure well and no immediate complications occurred.]
+
+[Post-procedure orders entered into BICS.]
+
+FOLLOW-UP PLAN:  []
+
+[This outpatient procedure did not require recovery room observation prior to discharge.  Home care instructions for this procedure were reviewed with the patient. All patient questions were answered.] 
+
+
+CONCLUSION:  [Ultrasound-guided paracentesis performed without difficulty.]
+	
+
+$$$
+CT abdomen
+HISTORY: []
+
+TECHNIQUE: Contiguous axial images were performed through the abdomen and pelvis following oral and 100 cc of Ultravist 300 IV contrast.  
+
+COMPARISON: []
+
+FINDINGS:
+
+LUNG BASES: []
+
+ABDOMEN: []
+
+PELVIS: []
+
+IMPRESSION: []
+$$$
+CT Enterography
+HISTORY: []
+
+TECHNIQUE: Contiguous axial images were performed through the abdomen and pelvis following oral Volumen (low density barium) and 100 cc of Ultravist 300 IV contrast.  Additional coronal and sagittal reformations were performed by the technologist at the CT console to help evaluate the GI tract.
+
+COMPARISON: []
+
+FINDINGS:
+
+LUNG BASES: []
+
+ABDOMEN: []
+
+PELVIS: []
+
+ENTEROGRAPHY: []
+
+IMPRESSION: []
+$$$
+CT Lasix Urogram
+INDICATION: []
+
+TECHNIQUE: CT urogram was performed with axial imaging through the abdomen and pelvis before and after 100 cc of Ultravist 300 IV contrast and 10 mg of IV lasix. MPR, MIP and volume rendered images were performed on an independent workstation by a technologist to evaluate the collecting system and bladder. 
+
+
+COMPARISON: []
+
+FINDINGS: 
+
+LUNG BASES: []
+
+ABDOMEN: []
+
+PELVIS: []
+
+REFORMATIONS: []
+
+BONE: Evaluation of osseous structures shows no focal lesions suspicious for malignancy.
+
+IMPRESSION: 
+
+$$$
+CT saline urogram
+INDICATION: []
+
+TECHNIQUE: CT urogram was performed with axial imaging through the abdomen and pelvis before and after 100 cc of Ultravist 300 IV contrast and 250 cc of IV saline. Post contrast imaging was performed in the nephrographic and pyelographic phases of enhancement.  Coronal reformations were performed on the CT console by the technologist. Additional curved reformations and 3D MIP images were performed at a dedicated 3D workstation to better assess the urinary tract.
+
+COMPARISON: []
+
+FINDINGS: 
+
+LUNG BASES: []
+
+ABDOMEN: []
+
+PELVIS: []
+
+REFORMATIONS: []
+
+IMPRESSION: []
+$$$
+CT/US Focal Mass Biopsy - Nisha
+PROCEDURE(S): [CT/US]-guided biopsy of []
+
+ATTENDING RADIOLOGIST: Dr. Sainani was present for the entire radiologic portion of the procedure.
+
+FELLOW: Muller
+
+CLINICAL HISTORY AND INDICATIONS: [ ]
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT: Pre-procedural coagulation parameters and platelet count were within acceptable limits.
+Platelets [ ], INR [ ]
+Allergies: [ ]
+	
+CONSENT: Informed consent was obtained from [] by Dr. []. The indications for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]. A team time-out was performed prior to [sedation and] beginning the procedure to verify the correct patient, procedure and position.
+
+CONTRAST: []
+
+GUIDANCE MODALITY: CT / CT-fluoroscopy / US
+
+DEVICES: 
+[ ]
+
+SEDATION/ANESTHESIA:  None, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department
+
+DURATION of SEDATION/ANESTHESIA: [ ]
+
+MEDICATIONS AND DOSAGES: 
+Midazolam [] mg IV
+Fentanyl [] ug IV
+2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+PREPROCEDURE IMAGING FINDINGS:  [] dated [] revealed [].
+
+PROCEDURE:  With the patient in a [] position on the [US/CT] table, preliminary [CT images were acquired with a radioopaque grid / US images were acquired]. The [ ] mass was located and measured [ ]. After assessing the most direct access to the mass, the skin was prepped and draped in the usual sterile manner. All elements of sterile barrier technique followed including: hand hygiene, sterile gown, sterile gloves, a large sterile sheet, and 2% chlorhexidine for cutaneous antisepsis. This was followed by injection of the local anesthetic solution into the skin and subcutaneous tissues.  A small incision was made followed by insertion of the [] needle under [US / CT / CT fluoroscopy guidance] through [] approach.  The [] needle was then inserted in coaxial fashion and a biopsy from the [ ] mass was obtained.  [An additional __ needle was inserted into the mass in tandem fashion.]  This was repeated for a total of [] biopsy samples. [Preliminary assessment by the on-site cytopathologist [confirmed / did not confirm] adequacy of the specimen for diagnosis. [Additional material was submitted in solution for cell block analysis.]  [Large needle tissue specimens were submitted in formalin for histopathology assessment.]  The biopsy needle was removed and a sterile bandage applied.
+	
+SPECIMENS SENT: None, Cytopathology, Histopathology, Microbiology, Chemistry, other
+
+COMPLICATIONS: Post-procedure [] images demonstrated [].  [The patient tolerated the procedure well with no immediate complications].
+
+POST-PROCEDURE OBSERVATION: The patient will be [observed in the radiology recovery area for [] hours prior to [discharge / admission for overnight observation prior to discharge in the morning].  Post-procedure orders have been written/entered into BICS.
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management. They may resume normal daily activities within 24 hours and is instructed to contact the CSIR fellow on-call should he develop any concerning symptoms, as outlined in the discharge paperwork.
+
+IMPRESSION:  
+CT-guided biopsy of []
+
+$$$
+Drainage
+
+IMPRESSION: CT-guided catheter drainage of []. A sample of the aspirated fluid was sent for microbiology. A [] Fr catheter was left to gravity drainage. This catheter will be left in place and orders for catheter irrigation with sterile saline and monitoring of catheter outputs q shift have been written. When catheter output is less than 10 cc of nonpurulent fluid per day for at least 2 consecutive days, a follow-up CT scan will be considered to assess for fluid collection resolution. When the collection is considered fully drained, an abscessagram done under fluoroscopy will be considered to evaluate for an ongoing fistula. When the patient is planned for discharge, and if the catheter is still in place, please notify the CSIR team (B 14520) so that we can plan for outpatient follow-up.
+$$$
+Fluoro HSG
+INDICATION: Infertility.
+
+TECHNIQUE: Cervical os was cannulated by the gynecologist. Water-soluble contrast was administered under fluoroscopic guidance. Multiple spot radiographs were obtained.
+
+FINDINGS: Uterine cavity demonstrates a normal configuration without filling defects. Bilateral fallopian tubes demonstrate normal caliber and contour. Free intraperitoneal spillage of contrast is observed bilaterally.
+
+IMPRESSION: Patent fallopian tubes bilaterally.
+
+$$$
+fluoro uro
+HISTORY: [<Urinary frequency>][<status post prostatectomy>].
+
+TECHNIQUE: Foley catheter was inserted by the urology nurse into the urinary bladder. Water-soluble contrast was administered under fluoroscopic observation. Multiple spot radiographs were obtained.
+
+FINDINGS: The urinary bladder demonstrates a smooth contour. No incontinence was demonstrated with Valsalva maneuver. No vesicoureteral reflux was observed.  [<The urethra is normal in calibre and contour.>]
+
+IMPRESSION: [<Normal voiding cystourethrogram.>]
+$$$
+fluoro video swallow
+HISTORY: [<Stroke.>]
+
+TECHNIQUE: The patient was given multiple consistencies of oral barium contrast by the speech pathologist. Video sequences were obtained from the lateral position during swallowing.
+
+FINDINGS: Bolus handling is within normal limits.  No significant laryngeal penetration or subglottic aspiration was observed during the examination. No significant residue was present after swallowing.
+
+IMPRESSION: [<No evidence of aspiration.>]
+$$$
+KUB
+INDICATION: 
+
+TECHNIQUE: 
+
+FINDINGS: 
+
+
+IMPRESSION: 
+
+
+$$$
+SR CT abdomen and pelvis
+INDICATION: [ ]
+ 
+TECHNIQUE: CT scan of the abdomen and pelvis was obtained [with/without] intravenous injection of [55 / 80 mL] [Ultravist / Isovue 300 / 370] and [with/without] [ ] enteric contrast material.
+ 
+COMPARISON: [ ]
+ 
+FINDINGS:
+
+LOWER CHEST: [ ]
+
+LIVER: [ ]
+
+BILIARY SYSTEM: [ ]
+
+PANCREAS: [ ]
+
+SPLEEN: [ ]
+
+ADRENAL GLANDS: [ ]
+
+KIDNEYS: [ ]
+
+BOWEL: [ ]
+
+MESENTERY, OMENTUM, PERITONEUM: [ ]
+
+RETROPERITONEUM: [ ]
+
+PELVIC ORGANS: [ ]
+
+LYMPH NODES: [ ]
+
+VASCULATURE: [ ]
+
+BONES AND SOFT TISSUES: [ ]
+  
+IMPRESSION:
+[ ]
+$$$

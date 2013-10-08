@@ -1,0 +1,11 @@
+INDICATION: []
+
+PROCEDURE: The risks, benefits and alternatives to image-guided needle aspiration and possible percutaneous catheter drainage were discussed with the patient and written informed consent was obtained. The patient was positioned [] on the table. Limited imaging was obtained to determine a safe needle entry site.  The [] was prepped and draped in the usual sterile fashion. 2% lidocaine was used for local anesthesia. 
+
+Using CT/fluoroscopic guidance, a []gauge []cm needle was inserted into []. Positioning was confirmed with CT.  [] of [] fluid was aspirated and sent for microbiology. Using tandem trocar technique, a []Fr Flexima drainage catheter was inserted. The needle was removed and the catheter deployed.  A total of []cc of fluid was aspirated.  
+
+The patient tolerated the procedure well and there were no immediate complications. [] received [] mcg of Fentanyl IV and [] mg of Versed IV during the procedure.
+
+The teaching physician, [ ], was present for the entire radiologic portion of the procedure and was immediately available for the remaining portions of the procedure.
+
+IMPRESSION: CT-guided catheter drainage of a  []. A sample of the aspirated fluid was sent for microbiology. A []Fr catheter was left to gravity drainage.

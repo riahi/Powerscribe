@@ -1,0 +1,13 @@
+INDICATION: []
+
+ULTRASOUND-GUIDED  PARACENTESIS:
+
+The procedure and its risks, benefits and alternatives were discussed with the patient and written informed consent was obtained. Preliminary ultrasound of the abdomen was performed to determine a safe needle entry site. 
+
+The [] quadrant was prepped and draped in the usual sterile fashion. 2% Lidocaine was used for local anesthesia. A 5F Yueh needle-sheath was inserted into the peritoneal space using ultrasound guidance. The needle was removed and the sheath was connected to tubing and a vacuum suction device. A total of [] cc of [] ascites was aspirated. The sheath was removed and a sterile dressing applied.
+
+The patient tolerated the procedure well and there were no immediate complications. The teaching physician, [ ], was present for the entire radiologic portion of the procedure, including placement of the needle sheath, and was immediately available for the remaining portions of the procedure.
+
+IMPRESSION:
+
+Ultrasound-guided therapeutic paracentesis with aspiration of [] cc of [] ascites.

@@ -1,0 +1,38 @@
+INDICATION: [ ]
+ 
+TECHNIQUE: CT scan of the abdomen and pelvis was obtained [with/without] intravenous injection of [55 / 80 mL] [Ultravist / Isovue 300 / 370] and [with/without] [ ] enteric contrast material.
+ 
+COMPARISON: [ ]
+ 
+FINDINGS:
+
+LOWER CHEST: [ ]
+
+LIVER: [ ]
+
+BILIARY SYSTEM: [ ]
+
+PANCREAS: [ ]
+
+SPLEEN: [ ]
+
+ADRENAL GLANDS: [ ]
+
+KIDNEYS: [ ]
+
+BOWEL: [ ]
+
+MESENTERY, OMENTUM, PERITONEUM: [ ]
+
+RETROPERITONEUM: [ ]
+
+PELVIC ORGANS: [ ]
+
+LYMPH NODES: [ ]
+
+VASCULATURE: [ ]
+
+BONES AND SOFT TISSUES: [ ]
+  
+IMPRESSION:
+[ ]
