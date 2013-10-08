@@ -1,0 +1,21 @@
+INDICATION: [] PRESENTS FOR FOLLOWUP EVALUATION OF CARDIAC EJECTION FRACTION. 
+
+RADIOPHARMACEUTICAL:  99m-Tc RBCs
+
+DOSE: [] mCi.
+
+TECHNIQUE: This study was performed at the Dana-Farber Cancer Institute.   Gated planar cardiac images were obtained in three standard projections  (anterior, modified LAO, LPO) immediately following IV administration of tracer.  The left ventricular ejection fraction (LVEF) was estimated from the []-degree modified LAO images.
+ 
+COMPARISON:  The study is compared to the most recent prior RVG of [] at which time the LVEF was estimated to be [].  
+
+FINDINGS:  On today's study, cinematic images show normal diastolic filling and systolic emptying of the ventricles without evidence of focal wall motion abnormality.  The left ventricular ejection fraction (LVEF) remains within normal limits and is estimated to be [].
+
+IMPRESSION:
+1.  Normal biventricular wall motion and function.
+
+2.  Estimated LVEF = [].
+
+3.  No significant interval change since [].
+
+END OF IMPRESSION:
+

@@ -1,0 +1,44 @@
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE: [CT] guided fluid collection drainage and catheter placement.
+
+Informed consent was obtained from [the patient] by Dr. Shinagare.  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A -speaking interpreter was present and facilitated communication].  A team time-out was performed prior to sedation and beginning the procedure.
+
+CONTRAST:  []
+
+GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA: [Conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist]
+
+MEDICATIONS AND DOSAGES: Midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  Atul Shinagare
+
+IMAGING FINDINGS:  []
+
+PROCEDURE DESCRIPTION:
+The patient was brought into the CT suite and a time-out was performed. The patient was positioned [] on the table. A radiopaque grid was placed overlying the planned entry site []. Limited CT imaging was obtained to determine a safe needle entry site. The [] was prepped and draped in the usual sterile fashion. Subcutaneous 2% lidocaine was used for local anesthesia along the expected needle tract. 
+
+Using CT-fluoroscopic guidance, an []-gauge [] cm [Chiba needle] was inserted into the [] towards the []. Positioning was confirmed with CT fluoroscopy. [] cc of [] was aspirated and sent for microbiology. [An 0.035" Amplatz wire was then inserted through the catheter, and serial dilatation up to French was performed.] A [] Fr [] drainage catheter was then inserted [over the Amplatz wire] and position confirmed by CT fluoroscopy. The needle was removed and the catheter deployed. The locking loop was then formed. The drainage catheter was connected to a drainage bag and a total of [] cc of [] was aspirated. 
+
+SPECIMENS SUBMITTED: [Microbiology, chemistry, cytopathology, histopathology, other]
+
+POST-PROCEDURE IMAGING: After completion of the procedure, a follow-up CT was performed and demonstrated proper positioning of the drainage catheter with no evidence for hematoma or other postprocedural change. The patient tolerated the procedure well without immediate complications and was sent to the recovery area for observation.  
+
+COMPLICATIONS: [No intra or immediate post-procedure complications noted.
+
+CONCLUSION: CT fluoroscopic-guided catheter drainage of a []. A sample of the aspirated fluid was sent for microbiology. A [] Fr catheter was left to gravity drainage.
+
+FOLLOW-UP PLAN:  Patient will be transferred to the floor with the catheter. The output will be monitored. Once the output is sterile, and the amount falls to less then 10 cc for two consecutive 24 hour periods, removal of the catheter will be considered after CT scan and possibly an abscessagram. 
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+INDICATION: [ ]
+ 
+TECHNIQUE: CT scan of the abdomen and pelvis was obtained with intravenous injection of [] mL Isovue 300 and enteric contrast material.
+ 
+COMPARISON: [ ]
+ 
+FINDINGS:
+
+LOWER CHEST: [ ]
+
+LIVER: [ ]
+
+BILIARY SYSTEM: [ ]
+
+PANCREAS: [ ]
+
+SPLEEN: [ ]
+
+ADRENAL GLANDS: [ ]
+
+KIDNEYS: [ ]
+
+BOWEL: [ ]
+
+MESENTERY, OMENTUM, PERITONEUM: [ ]
+
+RETROPERITONEUM: [ ]
+
+PELVIC ORGANS: [ ]
+
+LYMPH NODES: [ ]
+
+VASCULATURE: [ ]
+
+BONES AND SOFT TISSUES: [ ]
+  
+IMPRESSION:
+[ ]

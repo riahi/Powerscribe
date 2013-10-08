@@ -1,0 +1,21 @@
+PROCEDURE: Ultrasound-Guided Diagnostic and Therapeutic Thorascentesis
+
+INDICATION: []
+
+ATTENDING: Dr. [] was present for the entire procedure.
+
+FELLOW: Dr. Devaraj Pyne.
+
+SEDATION: No IV conscious sedation given. The patient was monitored by the radiology nursing staff.
+
+MEDICATIONS: Subcutaneous Lidocaine 2%.
+
+PROCEDURE: The procedure itself was explained to the patient carefully. The risks, benefits, and alternatives to ultrasound-guided thoracentesis was discussed with the patient, and written informed consent was obtained. The patient was brought into the ultrasound suite and a time-out was performed. The patient was positioned supine on the table. Preliminary ultrasound of the pleural space was performed and [] effusion was noted. The most appropriate approach for safe needle entry site was planned and the site for puncture was marked. The [] posterior chest wall was prepped and draped in the usual sterile fashion. Subcutaneous 2% lidocaine was used for local anesthesia along the expected needle tract. 
+
+Under ultrasound-guidance, an 5 French x 7cm Yueh needle-sheath was inserted carefully into the pleural space towards the pleural effusion.  The needle was removed and the sheath was connected to a syringe.  Approximately [] of pleural fluid was aspirated and sent to pathology for chemistry, microbiology, and cytology. Next, the Yueh sheath was connected to tubing and a vacuum suction device. A total of [] cc of [] pleural fluid was aspirated. The sheath was removed and a sterile dressing applied. The patient tolerated the procedure well without immediate complications and was discharged after observation in the recovery area. 
+
+The attending physician, Dr. [], was present for the entire procedure.
+
+IMPRESSION:
+
+Ultrasound-guided diagnostic and therapeutic thoracentesis with aspiration of a total of [] cc of [] pleural fluid. Samples of the pleural fluid were sent to pathology for chemistries, microbiology, and cytology.

@@ -1,0 +1,9 @@
+INDICATION: []
+
+TECHNIQUE: Multiplanar multisequence MRI of the [abdomen and pelvis] was performed before and after injection of [] cc of intravenous gadolinium, using the departmental protocol for [liver mass and malignant pelvis]. 
+
+COMPARISON: With previous MRI dated [].
+
+FINDINGS: 
+
+IMPRESSION:

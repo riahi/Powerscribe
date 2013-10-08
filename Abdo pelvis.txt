@@ -1,0 +1,17 @@
+INDICATION: [] [].
+
+PROTOCOL: CT scans of the abdomen and pelvis were performed after administration of [] mL intravenous Ultravist-370 and oral contrast. 
+
+COMPARISON: [].
+
+FINDINGS:
+
+LUNG BASES: []
+
+ABDOMEN: 
+
+PELVIS: 
+
+
+
+IMPRESSION: 

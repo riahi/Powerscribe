@@ -1,0 +1,21 @@
+PROCEDURE: Ultrasound-Guided Therapeutic Parascentesis
+
+INDICATION: []
+
+ATTENDING: Dr. [] was present for the entire procedure.
+
+RESIDENT: Dr. Shaan Shah
+
+SEDATION: No IV conscious sedation given. The patient was monitored by the radiology nursing staff.
+
+MEDICATIONS: Subcutaneous Lidocaine 2%.
+
+PROCEDURE: The procedure itself was explained to the patient carefully. The risks, benefits, and alternatives to ultrasound-guided needle aspiration was discussed with the patient, and written informed consent was obtained. The patient was brought into the ultrasound suite and a time-out was performed. The patient was positioned supine on the table. Preliminary ultrasound of the abdomen was performed and [] ascites was noted. The most appropriate approach for safe needle entry site was planned and the site for puncture was marked. The [] quadrant was prepped and draped in the usual sterile fashion. Subcutaneous 2% lidocaine was used for local anesthesia along the expected needle tract. 
+
+Under ultrasound-guidance, an 5 French Yueh needle-sheath was inserted carefully into the peritoneal space towards the abdominal ascites fluid collection.  The needle was removed and the sheath was connected to tubing and a vacuum suction device. A total of [] cc of [] ascites was aspirated. The sheath was removed and a sterile dressing applied. The patient tolerated the procedure well without immediate complications and was discharged after observation in the recovery area. 
+
+The attending physician, Dr. [], was present for the entire procedure.
+
+IMPRESSION:
+
+Ultrasound-guided therapeutic paracentesis with aspiration of [] cc of [] ascites.

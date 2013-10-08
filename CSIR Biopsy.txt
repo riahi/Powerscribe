@@ -1,0 +1,39 @@
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [] The list of patient's known allergies, current medications and adverse medication reactions was reviewed prior to the procedure.
+
+PROCEDURE: [] guided [] biopsy of []
+
+Informed consent was obtained from [the patient] by [Dr. Shinagare]. The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A -speaking interpreter was present and facilitated communication]. A team time-out was performed prior to [sedation and] beginning the procedure.
+
+CONTRAST:  []
+
+GUIDANCE MODALITY: []
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA: [IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist; Monitored anesthesia care provided by the anesthesia department; General anesthesia provided by the anesthesia department]
+
+MEDICATIONS AND DOSAGES: Midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+FELLOW:  Atul Shinagare
+
+IMAGING FINDINGS:  []
+
+PROCEDURE DESCRIPTION:
+The patient was brought into the [CT] suite and a time-out was performed. The patient was positioned [] on the table. [A radiopaque grid was placed on the [] overlying the planned entry site.] Limited [CT] imaging was then obtained to determine a safe needle entry site.  The entry site was prepped and draped in the usual sterile fashion. Subcutaneous 2% lidocaine was used for local anesthesia along the expected needle tract. 
+
+Using [CT]-guidance, a []-gauge []cm [Chiba needle] was inserted into the [] towards the [] and the position was confirmed with CT. Next, a []-gauge []cm [Chiba needle] was placed [tandem to/ coaxially through] the needle. [CT] guidance was used to confirm needle placements in the mass. Next, the biopsy needle was used to obtain [fine needle aspiration] biopsy specimen. This process was repeated [] more for a total of [] [fine needle aspiration] biopsy specimens. The patient tolerated the procedure well 
+
+SPECIMENS SUBMITTED: [Cytopathology, histopathology, microbiology, chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT] images obtained at the conclusion of the procedure demonstrate no evidence for hematoma or other postprocedural complication. 
+
+COMPLICATIONS: [No immediate complications noted at the conclusion of the procedure. A two hour post-procedure chest x-ray is ordered         ]
+
+FOLLOW-UP PLAN:  Patient was observed in the radiology recovery room for a period of [] hours before being discharged in stable condition. Patient will follow up with the ordering clinician. 
+
+CONCLUSION:
+[] guided [] biopsy of [] with samples sent for []. No immediate complications noted.

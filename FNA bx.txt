@@ -1,0 +1,37 @@
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE: 
+	
+Informed consent was obtained from [] by Dr. Shinagare.  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A -speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure.
+
+CONTRAST:  []
+
+GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA: [None; IV Conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist; Monitored anesthesia care provided by the anesthesia department; General anesthesia provided by the anesthesia department]
+
+MEDICATIONS AND DOSAGES: [Midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE DESCRIPTION:
+The patient was positioned [] on the table. The [] was prepped and draped in the usual sterile fashion. 2% lidocaine was used for local anesthesia. Using [] guidance, a []gauge needle was inserted into []. Position was confirmed with imaging.  Additional needles were inserted using [] technique.  Fine needle aspiration biopsies were performed.  A total of [] passes were made. The patient tolerated the procedure well and there were no immediate complications. 
+
+SPECIMENS SUBMITTED:[none, cytopathology, histopathology, microbiology, chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
+
+COMPLICATIONS:[No immediate complications noted at the conclusion of the procedure, A two hour post-procedure chest x-ray is ordered         ]
+
+FOLLOW-UP PLAN:  []
+
+CONCLUSION:
+[]-guided fine needle aspiration biopsy of a [] with specimens sent for cytology.

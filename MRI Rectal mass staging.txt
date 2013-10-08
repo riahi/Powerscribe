@@ -1,0 +1,19 @@
+INDICATION: []-year-old male with recently detected rectal mass [8 cm from the anal verge], staging study.
+
+TECHNIQUE: Multiplanar multisequence MRI of the pelvis was performed before and after injection of [] cc of intravenous gadolinium. 
+
+COMPARISON: None.
+
+FINDINGS: A [2.7 (TR) x 2.3 (CC) x 1.4 (AP thickness)] cm mass is seen along the [anterior] rectal wall [(5: 27)] [causing loss of normal T2 hyperintensity of rectal wall in this region]. [Nodular extension of the mass is seen in the perirectal fat (5: 25, 27), indicating T3 disease.] The lower margin of the mass is [4] cm from the upper margin of the anal sphincter. The minimum distance between the mass in the mesorectal fascia (CRM) is [6.2 mm]. [No] enlarged mesorectal/mesenteric lymph nodes are seen. Urinary bladder, prostate and seminal vesicles are unremarkable. There is no free fluid in the pelvis. No suspicious enhancing focal bony lesions are seen. 
+
+IMPRESSION:
+[2.7 (TR) x 2.3 (CC) x 1.4 (AP thickness)] cm [T3N0] [anterior] rectal cancer, [4] cm from the upper margin of the anal sphincter, with circumferential resection margin of [6.2 mm].
+
+Include in the report:
+1. Distance of lower margin of tumor to upper margin of anal sphincter: >1cm LAR, <1cm APR. but if T3 tumor is extending into levator ani- needs APR even if distance is more.
+2. T staging- T1- Intraluminal polypoid mass; no thickening of bowel wall. T2- Thickened rectal wall > 6 mm; no perirectal extension. T3a- Thickened rectal wall plus invasion of adjacent muscle or organs. T3b- Thickened rectal wall plus invasion of pelvic side wall or abdominal wall. T4- Distant metastases, usually liver or adrenal
+T1 or T2 (without LN)- surgery. T3 (or presence of LN)- 6 weeks of neoadjuvant chemoradiation before surgery. For T3, look for nodular extension outside rectal wall, and not stranding which is usually desmoplastic reaction.
+3. CRM (circumferential resection margin): minimum distance between tumor and mesorectal fascia. =>6mm- 97% chance of complete resection.
+4. LN, usually mesorectal/ along IMA.
+5. mets.
+Need of contrast is not clear.

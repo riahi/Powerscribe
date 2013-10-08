@@ -1,0 +1,16 @@
+INDICATION: []-year-old male with biopsy-proven prostate cancer (Gleason score [] + [] = []), PSA [], staging study.
+
+TECHNIQUE: Multiplanar multisequence multiparametric MRI of the prostate was performed at 3 Tesla, with use of endorectal coil, before and after injection of [] cc of intravenous gadolinium. T1, T2, dynamic contrast-enhanced and diffusion-weighted imaging was obtained.
+
+COMPARISON: None.
+
+FINDINGS: 
+
+The prostate measures [] (CC) x [] (TRV) x [] (AP) cm in size (volume [] cc). There is [no] evidence of post-biopsy hemorrhage.
+
+A [] cm area is seen in the [] half of the [] zone of the prostate, at [] o' clock position (patient in supine position), which is hypointense on T2-weighted images, shows early arterial enhancement on the dynamic contrast enhanced imaging, and shows restricted diffusion. These image characteristics are consistent with prostate cancer. The mass is [seen] extending beyond the prostate capsule [at 11 o' clock position]. The seminal vesicles and neurovascular bundles are [uninvolved]. [No abnormal enlarged pelvic or retroperitoneal lymph nodes are noted.] [No suspicious focal enhancing bony lesions are noted.]
+
+[Changes of benign hyperplasia are seen in the central portion of the gland in the form of well-defined nodules of varying signal intensity.] Urinary bladder is [unremarkable]. [Median lobe of the prostate is seen projecting into the bladder.] Limited images through the upper abdomen reveal [probable left renal cyst].
+
+IMPRESSION:
+

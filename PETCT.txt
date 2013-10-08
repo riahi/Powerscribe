@@ -1,0 +1,31 @@
+INDICATION: []
+
+RADIOPHARMACEUTICAL: F18-FDG.
+
+DOSE: [] mCi.
+
+BLOOD GLUCOSE: [] mg/dL.
+
+TECHNIQUE: The study was performed at Dana-Farber Cancer Institute. Approximately 60 minutes following IV tracer  administration, positron emission tomography was performed from the base of the skull through the pelvis.  Non-contrast helical CT imaging was performed over the same range without breath-hold for attenuation correction of PET images and anatomic correlation, but not for primary interpretation as it is not of standard diagnostic quality. For the CT portion of the study, the recorded CTDIvol was [] mGy and DLP was [] mGy-cm.
+
+The PET portion of the study was read with Dr. Jacene and CT portion was read with Dr. [].
+ 
+COMPARISON: [].   
+
+FINDINGS: [There is no evidence for recurrent FDG-avid, metabolically active disease.] [Today's study is limited by tracer uptake in brown adipose tissue in the neck,  axillae and paraspinal regions.]
+ 
+HEAD AND NECK: There is no FDG-avid disease or significant lymphadenopathy in the imaged portions of the head and the neck. [There is multifocal abnormal tracer uptake in the distribution of brown adipose tissue in the posterior neck and paraspinal regions.  This is a benign pattern, but it limits the sensitivity of the study to detect true small lesions in the affected areas.]
+ 
+CHEST: [Tracer uptake in the distribution of brown adipose tissue extends into the mediastinum and paraspinal regions.] 
+ 
+ABDOMEN/PELVIS: Below the diaphragm, tracer is distributed physiologically in the gastrointestinal and genitourinary tracts. There is no significant lymphadenopathy and no FDG-avid disease.
+ 
+MUSCULOSKELETAL: No FDG-avid or destructive bony lesions are present.
+ 
+IMPRESSION:
+1. There is no definite evidence of recurrent FDG-avid disease.
+[2. Multifocal tracer uptake in brown adipose tissue is a benign finding  but it limits the sensitivity of the study to detect true disease in the affected regions.  Pre-medication with a benzodiazepine anxiolytic may reduce this phenomenon, and is suggested for any subsequent PET scans.]
+
+I, the teaching physician, have reviewed the images and agree with the report as written.
+
+END OF IMPRESSION

@@ -1,0 +1,12 @@
+INDICATION: <<Order Reason for Study>>
+
+TECHNIQUE: Multidetector CT scanning was performed through the chest following intravenous administration of 100cc Ultravist 370. Axial and coronal reconstructed images are evaluated. Delayed images were acquired at intervals through the abdomen, pelvis and lower extremities to the knees. 
+
+CT ANGIOGRAM: The study is technically adequate with a good contrast bolus to the pulmonary arterial tree. There are no filling defects or vascular cut-off to indicate pulmonary embolus. Images at intervals through the pelvis and lower extremities demonstrate no evidence of deep venous thrombosis.
+
+CHEST: The lungs are clear. There is no pleural or pericardial effusion.  Mediastinal and vascular structures are normal. There is no mediastinal, hilar, or axillary lymphadenopathy. There are no suspicious lytic or blastic bony lesions.
+
+LIMITED ABDOMEN/PELVIS: Limited coverage of the upper abdomen demonstrates no abnormality in the visualized portions of the liver and spleen.  Visualized pelvic viscera are unremarkable.
+
+IMPRESSION: No evidence of pulmonary embolus or deep venous thrombosis.
+

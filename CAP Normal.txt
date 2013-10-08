@@ -1,0 +1,17 @@
+INDICATION: [], restaging scan.
+
+PROTOCOL: CT imaging of chest, abdomen and pelvis was performed with 5 mm axial and 4 mm coronal reconstructions following the administration of oral and [] cc of nonionic intravenous contrast.
+
+COMPARISON: With previous CT dated [].
+
+FINDINGS:
+
+CHEST: [] There is no new suspicious nodule, mass or consolidation in the lung parenchyma. Airways are patent to the subsegmental level. There is no significant lymphadenopathy in the supraclavicular, axillary, mediastinal or hilar nodal stations. There is no pleural or pericardial effusion. The heart is normal in size. No central pulmonary embolus is present.
+
+ABDOMEN:  The liver is normal without evidence of focal liver lesion or intra/extra hepatic ductal dilatation. There is no significant upper abdominal, retroperitoneal or mesenteric lymphadenopathy. The gall bladder is normal without evidence of wall thickening or stones. The pancreas is normal without ductal dilatation or mass seen on this single phase study. Both kidneys appear normal without evidence of a mass, calculus or hydronephrosis. Spleen and both adrenals unremarkable.  Opacified loops of large and small bowel within normal limits. There is no evidence of obstruction. No free fluid seen in the abdomen.
+
+PELVIS:  Urinary bladder and the pelvic viscera are unremarkable. There is no significant pelvic sidewall or inguinal lymphadenopathy. No free fluid in pelvis.
+
+Bone window does not reveal any suspicious lytic or blastic lesions.
+
+IMPRESSION: 
