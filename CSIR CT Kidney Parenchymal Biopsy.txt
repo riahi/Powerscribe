@@ -1,0 +1,42 @@
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] parenchymal biopsy of the [right, left, pelvic, transplant] kidney
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+[] cm 17G Temno introducer needle
+[] cm 18G Temno coaxial automated core biopsy needle
+
+SEDATION/ANESTHESIA: [<none, IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+CONTRAST MATERIAL: [None]
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+PROCEDURE:  
+
+The patient was positioned [] on the procedure table.  Preliminary imaging was obtained to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The [] needle was inserted into the kidney with imaging guidance. [<A renal parenchymal core biopsy sample was obtained.>] [<The __ needle was then inserted in coaxial fashion and a core biopsy from the renal parenchyma was obtained.>] This was repeated for a total of [] core biopsy samples.  Preliminary light microscopy assessment by the on-site nephropatholgist [confirmed/did not confirm] adequate glomeruli for diagnosis.  The [introducer/reference] needle was removed and a sterile bandage applied.
+	
+SPECIMENS SUBMITTED: core biopsy specimens to the on-site nephropathologist.
+
+COMPLICATIONS: Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications>].
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours.>]    [<The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone to relay the details of the procedure and post-procedure management issues.>]  
+
+CONCLUSION:  [CT-guided / US-guided] renal parenchymal biopsy with specimens submitted to nephropathology
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
+
+
+

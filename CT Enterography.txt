@@ -1,0 +1,13 @@
+INDICATION: []
+
+TECHNIQUE and CONTRAST: Multidetector CT scanning of the abdomen and pelvis following 1350 ml Volumen (oral contrast) and 80 ml Ultravist 370 (IV contrast) was performed.  Additional coronal and sagittal reformations were performed by the technologist and reviewed at the PACS workstation.
+
+COMPARISON: []
+
+FINDINGS:
+
+[]
+
+IMPRESSION: 
+
+[]

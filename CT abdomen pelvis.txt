@@ -1,0 +1,16 @@
+INDICATION: []
+
+CONTRAST: []
+
+TECHNIQUE: Multidetector CT scanning of the abdomen and pelvis was performed  following oral and IV contrast.  
+
+COMPARISON: []
+
+FINDINGS:
+
+[]
+
+
+IMPRESSION: 
+
+[]

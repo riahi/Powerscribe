@@ -1,0 +1,49 @@
+
+
+INDICATION:  []
+
+PROCEDURE:  [CT & CT fluoroscopy-guided / US-guided / MR-guided / PET/CT-guided] [], performed [on L-1 / in AMIGO]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT: The patient was recently evaluated by Dr. [] in the Tumor Ablation Clinic. [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+[14G / 16G] HSM AMICA microwave ablation antenna
+17G Galil Ice [Rod / Sphere / Seed], quantity []
+17G Covidien Cool-tip RF applicator, quantity []
+[]G introducer needle
+[]G Temno coaxial automated core biopsy needle
+[]G - [] cm Chiba needle
+5F - [] cm One-step centesis catheter
+
+SEDATION/ANESTHESIA: [<IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL: [None]
+
+PROCEDURE:
+
+[]
+
+	
+SPECIMENS SUBMITTED:  [Histopathology, Cytopathology, Microbiology, Chemistry, other]
+
+COMPLICATIONS: Post-procedure [CT / US] demonstrates [].  [<The patient tolerated the procedure well with no immediate complications>]
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient will be recovered in the PACU.] [The patient may be considered for discharge later today.>][<After recovery in the PACU, the patient will be admitted for overnight observation. Post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone on __ at __ to relay the details of the procedure and post-procedure management issues.>] 
+
+CONCLUSION: [CT / US]-guided [] of []
+
+
+FOLLOW-UP PLAN: [MRI / CT] will be obtained to assess results prior to discharge or on the day of clinic follow-up.  The patient will be scheduled for a follow-up appointment in the Tumor Ablation Clinic.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
+

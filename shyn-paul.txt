@@ -1,0 +1,776 @@
+ANCR
+
+
+Critical results were communicated and documented using the Alert Notification of Critical Radiology Results (ANCR) system.
+$$$
+attestation
+
+
+I, the teaching physician, have reviewed the images and agree with the report as written.
+
+$$$
+CSIR Catheter Drainage
+INDICATION:  []
+
+PROCEDURE: [CT & CT Fluoroscopy-guided / US-guided] catheter drainage of []
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  Coagulation parameters were reviewed and considered acceptable. A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>] A safety pause was performed immediately prior to the procedure.
+
+DEVICES:
+[] F - 25 cm Flexima Drainage Catheter (Lot # [])  
+[] F - 35 cm Exodus Drainage Catheter (Lot # [])
+.035" - 80 cm Amplatz Extra-stiff Guidewire
+.035" - 145 cm Amplatz Super-stiff Guidewire
+[] G - [] cm Chiba needle
+5F - [] cm One-step centesis catheter
+
+SEDATION/ANESTHESIA: [<None,  IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, Monitored anesthesia care (MAC) provided by the anesthesia department, General endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL:  []
+
+PROCEDURE DESCRIPTION:
+
+The patient was positioned [] on the procedure table.  Preliminary imaging was obtained to confirm the [] collection and to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  With imaging guidance and modified Seldinger technique, the [Chiba needle / centesis catheter] was advanced into the collection and [] ml of [] fluid was aspirated for [microbiology, chemistries, ]. This was followed by guidewire placement.  The [needle / centesis catheter] was removed and the track serially dilated.  The drainage catheter was then advanced over the wire into the collection and the distal loop locked.  [<After initial guide needle placement, the drainage catheter was advanced into the collection in tandem fashion using trocar technique.>]  Approximately [] ml of [] fluid were drained.  The catheter was secured with an adhesive fixation device and sterile dressing. [<The catheter is connected via a 3-way stop-cock to a collection bag for gravity drainage.>]  [<The catheter is connected to a Pleur-evac on waterseal.>]  
+
+SPECIMENS SUBMITTED: [None, Cytopathology, Histopathology, Gram stain, Microbiology, Chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT / US] images demonstrate [].
+
+COMPLICATIONS: [<No immediate complications noted at the conclusion of the procedure.>]
+
+CONCLUSION:  [CT / US]-guided catheter drainage of [].
+
+
+FOLLOW-UP PLAN AND COMMUNICATION:  
+
+Post-procedure orders including catheter management instructions were entered in BICS.  The patient is an inpatient or being admitted and Dr. [] spoke with Dr. [] by telephone at [time] on [date] to relay the details of the procedure and post-procedure patient management issues. 
+
+CSIR will continue to follow the patient and monitor catheter status.  Once catheter output has decreased to less than 10 ml per day for two consecutive days and is non-purulent, or if catheter removal is considered for any reason, please notify the CSIR team regarding further imaging assessment and possible catheter removal.  If the patient is being considered for discharge, please notify the CSIR team (#14520).
+
+
+$$$
+CSIR CT Kidney Parenchymal Biopsy
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] parenchymal biopsy of the [right, left, pelvic, transplant] kidney
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+[] cm 17G Temno introducer needle
+[] cm 18G Temno coaxial automated core biopsy needle
+
+SEDATION/ANESTHESIA: [<none, IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+CONTRAST MATERIAL: [None]
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+PROCEDURE:  
+
+The patient was positioned [] on the procedure table.  Preliminary imaging was obtained to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The [] needle was inserted into the kidney with imaging guidance. [<A renal parenchymal core biopsy sample was obtained.>] [<The __ needle was then inserted in coaxial fashion and a core biopsy from the renal parenchyma was obtained.>] This was repeated for a total of [] core biopsy samples.  Preliminary light microscopy assessment by the on-site nephropatholgist [confirmed/did not confirm] adequate glomeruli for diagnosis.  The [introducer/reference] needle was removed and a sterile bandage applied.
+	
+SPECIMENS SUBMITTED: core biopsy specimens to the on-site nephropathologist.
+
+COMPLICATIONS: Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications>].
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours.>]    [<The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone to relay the details of the procedure and post-procedure management issues.>]  
+
+CONCLUSION:  [CT-guided / US-guided] renal parenchymal biopsy with specimens submitted to nephropathology
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
+
+
+
+$$$
+CSIR General Mass Biopsy
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] biopsy of a [] mass
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  Coagulation parameters were reviewed and considered acceptable.  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+17G Temno introducer
+18G Temno coaxial automated core biopsy needle
+18G Chiba
+20G Chiba
+22G Chiba, quantity - []
+25G Chiba, quantity - [] 
+
+SEDATION/ANESTHESIA: [<none, IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL: []
+
+PROCEDURE:  
+
+The patient was positioned [] on the procedure table.  Preliminary imaging was obtained to confirm the [] mass and to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The [] needle was inserted using imaging guidance.  [<The __ needle was then inserted in coaxial fashion and a biopsy from the mass was obtained.>]  [<An additional __ needle was inserted into the mass in tandem fashion.>]  This was repeated for a total of [] biopsy samples.  [<Preliminary assessment by the on-site cytopathologist ___  adequacy of the specimen for diagnosis.  Additional material was submitted in solution for cell block analysis.>]  [<Core biopsy tissue specimens were submitted in ___ for histopathology assessment.>] [<Additional core biopsy material submitted in saline for flow cytometry.>]  All needles were removed and a sterile bandage applied.
+	
+SPECIMENS SENT: [Cytopathology, Histopathology, Flow-Cytometry, Microbiology, Chemistry, other]
+
+COMPLICATIONS: Post-procedure images demonstrate [].  [<The patient tolerated the procedure well with no immediate complications.>]
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours prior to discharge. Post-procedure orders have been written and placed on the chart.>] [<The patient is an inpatient or will be admitted and post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone to relay the details of the procedure and post-procedure management issues.>]
+
+CONCLUSION:  [CT / US]-guided biopsy of a [] mass 
+
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
+
+$$$
+CSIR Liver Parenchymal Biopsy
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] liver parenchymal biopsy
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+17G Temno introducer needle
+18G Temno coaxial automated core biopsy needle
+
+SEDATION/ANESTHESIA: [<none, IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL: [None]
+
+PROCEDURE:  
+
+The patient was positioned [] on the procedure table.  Preliminary imaging was obtained to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The [] needle was inserted into the [right / left] lobe of the liver with imaging guidance. [<A parenchymal biopsy sample was obtained.>] [<The __ needle was then inserted in coaxial fashion and a parenchymal biopsy was obtained.>] This was repeated for a total of [] core biopsy samples. The biopsy needle was removed and a sterile bandage applied.
+	
+SPECIMENS SUBMITTED:  for histopathology, in formalin.
+
+COMPLICATIONS: Post-procedure [CT / US] demonstrates [].  [<The patient tolerated the procedure well with no immediate complications.>]
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours prior to discharge.>] [<The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS.  Dr. __ spoke with Dr. __ by telephone to relay the details of the procedure and post-procedure management issues.>]
+
+CONCLUSION:  [CT / US]-guided liver parenchymal biopsy
+
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
+
+
+$$$
+CSIR Multiple Procedures
+INDICATION:  []
+
+PROCEDURES: 
+1. [CT & CT fluoroscopy-guided / US-guided] []
+2. [CT & CT fluoroscopy-guided / US-guided] []
+3. [CT & CT fluoroscopy-guided / US-guided] []
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedures, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+17G Temno introducer needle
+18G Temno coaxial automated core biopsy needle
+[] F - 25 cm Flexima Drainage Catheter (Lot # [])  
+[] F - 35 cm Exodus Drainage Catheter (Lot # [])
+.035" - 80 cm Amplatz Extra-stiff Guidewire
+.035" - 145 cm Amplatz Super-stiff Guidewire
+[] G - [] cm Chiba needle
+5F - [] cm One-step centesis catheter
+
+SEDATION/ANESTHESIA: [<none, IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL: [None]
+
+PROCEDURES:
+1. []
+
+2. []
+
+3. []
+
+	
+SPECIMENS SUBMITTED:  [Histopathology, Cytopathology, Microbiology, Chemistry, other]
+
+COMPLICATIONS: Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications.>]
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours prior to discharge.>] [<The patient is an inpatient or will be admitted for overnight observation. Post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone to relay the details of the procedure and post-procedure management issues.>]
+
+CONCLUSIONS:
+
+1. []
+2. []
+3. []
+
+
+FOLLOW-UP PLAN: [<CSIR will continue to follow the patient and monitor catheter status.  Once catheter output has decreased to less than 10 ml per day for two consecutive days, please notify the CSIR team regarding further imaging assessment and possible catheter removal.  If the patient is being considered for discharge, please notify the CSIR team (#14520).>]  [<The patient will follow-up with the referring clinician for biopsy results and further management.>]  [<Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.>]
+
+
+$$$
+CSIR Single Procedure
+INDICATION:  []
+
+PROCEDURE:  [CT & CT fluoroscopy-guided / US-guided] []
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+17G Temno introducer needle
+18G Temno coaxial automated core biopsy needle
+[] F - 25 cm Flexima Drainage Catheter (Lot # [])  
+[] F - 35 cm Exodus Drainage Catheter (Lot # [])
+.035" - 80 cm Amplatz Extra-stiff Guidewire
+.035" - 145 cm Amplatz Super-stiff Guidewire
+[] G - [] cm Chiba needle
+5F - [] cm One-step centesis catheter
+
+SEDATION/ANESTHESIA: [<none, IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL: [<None>]
+
+PROCEDURE:
+
+[]
+	
+SPECIMENS SUBMITTED:  [Histopathology, Cytopathology, Microbiology, Chemistry, other]
+
+COMPLICATIONS: Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications.>]
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours prior to discharge.>] [<The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS.  Dr. __ spoke with Dr. __ by telephone on __ at __  to relay the details of the procedure and post-procedure management issues.>]  [<This outpatient procedure did not require recovery room observation prior to discharge.  Home care instructions for this procedure were reviewed with the patient. All patient questions were answered.>]
+
+CONCLUSION: 
+
+FOLLOW-UP PLAN: [<CSIR will continue to follow the patient and monitor catheter status.  Once catheter output has decreased to less than 10 ml per day for two consecutive days, please notify the CSIR team regarding further imaging assessment and possible catheter removal.  If the patient is being considered for discharge, please notify the CSIR team (#14520).>]  [<The patient will follow-up with the referring clinician for biopsy results and further management.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.>]
+
+
+$$$
+CSIR tumor ablation
+
+
+INDICATION:  []
+
+PROCEDURE:  [CT & CT fluoroscopy-guided / US-guided / MR-guided / PET/CT-guided] [], performed [on L-1 / in AMIGO]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT: The patient was recently evaluated by Dr. [] in the Tumor Ablation Clinic. [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+[14G / 16G] HSM AMICA microwave ablation antenna
+17G Galil Ice [Rod / Sphere / Seed], quantity []
+17G Covidien Cool-tip RF applicator, quantity []
+[]G introducer needle
+[]G Temno coaxial automated core biopsy needle
+[]G - [] cm Chiba needle
+5F - [] cm One-step centesis catheter
+
+SEDATION/ANESTHESIA: [<IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL: [None]
+
+PROCEDURE:
+
+[]
+
+	
+SPECIMENS SUBMITTED:  [Histopathology, Cytopathology, Microbiology, Chemistry, other]
+
+COMPLICATIONS: Post-procedure [CT / US] demonstrates [].  [<The patient tolerated the procedure well with no immediate complications>]
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient will be recovered in the PACU.] [The patient may be considered for discharge later today.>][<After recovery in the PACU, the patient will be admitted for overnight observation. Post-procedure orders have been entered into BICS. Dr. __ spoke with Dr. __ by telephone on __ at __ to relay the details of the procedure and post-procedure management issues.>] 
+
+CONCLUSION: [CT / US]-guided [] of []
+
+
+FOLLOW-UP PLAN: [MRI / CT] will be obtained to assess results prior to discharge or on the day of clinic follow-up.  The patient will be scheduled for a follow-up appointment in the Tumor Ablation Clinic.  Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.
+
+$$$
+CSIR US Paracentesis
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] [diagnostic / therapeutic / diagnostic & therapeutic] paracentesis
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW/PA-C:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure. [<An albumin infusion was administered by the referring clinical team before the paracentesis / will be administered by the referring clinical team immediately following the paracentesis.>]
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. []. [<Informed consent is on file for repetitive therapeutic paracentesis procedures.>] The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+[] cm 5 Fr One-step [Valved / Non-valved] Centesis Catheter
+
+SEDATION/ANESTHESIA: [<None, Conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, Monitored anesthesia care (MAC) provided by the anesthesia department, General endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: [<Not applicable>]
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL: [<None>]
+
+PROCEDURE:  
+
+The patient was positioned [] on the procedure table.  Preliminary imaging was obtained to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The [] centesis catheter was inserted into the peritoneum using [CT / US] guidance. [] ml of [] fluid was removed.  The centesis catheter was removed and a sterile bandage applied.
+	
+SPECIMENS SUBMITTED:  [None, Microbiology, Chemistry, Cytology, other]
+
+COMPLICATIONS: Post-procedure imaging demonstrates [].  [<The patient tolerated the procedure well with no immediate complications>]
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours prior to discharge.>] [<Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.>] [<The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS.  Dr. __ spoke with Dr. __ by telephone on __ at __  to relay the details of the procedure and post-procedure management issues.>]  [<This outpatient procedure did not require recovery room observation prior to discharge.  Home care instructions for this procedure were reviewed with the patient. All patient questions were answered.>] 
+
+CONCLUSION:  [CT / US]-guided paracentesis 
+
+
+FOLLOW-UP PLAN: The patient will follow-up with their referring clinician for further management.  
+
+
+$$$
+CSIR US Thoracentesis
+INDICATION:  []
+
+PROCEDURE: [CT & CT fluoroscopy-guided / US-guided] [diagnostic / therapeutic / diagnostic & therapeutic] [right / left] thoracentesis
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW/PA-C:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [<Coagulation parameters were reviewed and considered acceptable.>]  A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure. 
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by Dr. []. The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>]  A safety pause was performed immediately prior to the procedure. 
+
+DEVICES:
+[] cm 5 Fr One-step [Valved / Non-valved] Centesis Catheter
+
+SEDATION/ANESTHESIA: [<None, Conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, Monitored anesthesia care (MAC) provided by the anesthesia department, General endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: [<Not applicable>]
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL: [<None>]
+
+PROCEDURE:  
+
+[<The patient was seated with arms and head resting on a stabilizing device.>][<The patient was positoned ____.>] Preliminary imaging was obtained to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  The centesis catheter was inserted into the [] with imaging guidance. [] ml of [] fluid were removed.  The centesis catheter was removed. A Vaseline gauze and sterile bandage were applied.
+	
+SPECIMENS SUBMITTED:  [None, Microbiology, Chemistry, Cytology, other]
+
+COMPLICATIONS: Post-procedure [CT / US] demonstrates [].  [<The patient tolerated the procedure well with no immediate complications.>]
+
+POST-PROCEDURE CONSIDERATIONS: [<The patient was observed in the radiology recovery room for __ hours prior to discharge.>] [<Post-procedure instructions were provided to the patient and the patient is instructed to contact the CSIR fellow on-call should any concerning symptoms arise.>] [<The patient is an in-patient or will be admitted and post-procedure orders have been entered into BICS.  Dr. __ spoke with Dr. __ by telephone on __ at __  to relay the details of the procedure and post-procedure management issues.>]  [<This outpatient procedure did not require recovery room observation prior to discharge.  Home care instructions for this procedure were reviewed with the patient. All patient questions were answered.>] A two-hour follow-up CXR demonstrated ___.
+
+CONCLUSION:  [CT / US]-guided [right/left] thoracentesis
+
+
+FOLLOW-UP PLAN: The patient will follow-up with their referring clinician for further management.  
+
+
+
+$$$
+CT abdomen pelvis
+INDICATION: []
+
+CONTRAST: []
+
+TECHNIQUE: Multidetector CT scanning of the abdomen and pelvis was performed  following oral and IV contrast.  
+
+COMPARISON: []
+
+FINDINGS:
+
+[]
+
+
+IMPRESSION: 
+
+[]
+$$$
+CT Enterography
+INDICATION: []
+
+TECHNIQUE and CONTRAST: Multidetector CT scanning of the abdomen and pelvis following 1350 ml Volumen (oral contrast) and 80 ml Ultravist 370 (IV contrast) was performed.  Additional coronal and sagittal reformations were performed by the technologist and reviewed at the PACS workstation.
+
+COMPARISON: []
+
+FINDINGS:
+
+[]
+
+IMPRESSION: 
+
+[]
+$$$
+CT Liver Volume
+INDICATION: [Pre/Post portal vein embolization]
+
+CONTRAST: Ultravist, []
+
+TECHNIQUE: CT scanning of the abdomen and pelvis was performed in the arterial and portal venous phases.  3D volume-rendered images and MIP images were generated by a technologist at a dedicated workstation in a 3D lab.  3D images are optimized to display arteries and veins and to calculate specific liver volumes.
+
+COMPARISON: [<None>].
+
+FINDINGS:
+
+LUNG BASES: [<There is no pleural effusion or lung base nodule.>]
+
+ABDOMEN: []
+
+PELVIS: []
+
+ARTERIAL ANATOMY AND VARIANTS: []
+
+VENOUS ANATOMY AND VARIANTS: []
+
+LIVER VOLUMES: 
+Study Date:			[pre study]             [if post study]
+Total Liver Volume (cc)	                     []	          []
+Right Lobe: 	                     []                              []
+Left Lobe: 			[]                              []
+Left lateral Segment: 	                     []                              []
+Left hepatic lobe volume as
+percent of total volume:                      []                              []
+
+MUSCULOSKELETAL: []
+
+IMPRESSION: []
+$$$
+CTC diagnostic
+STUDY: Diagnostic CT Colonography
+
+NOTE: CT Colonography has been shown in several studies to have high sensitivity in certain patient groups. Although the experience with this test is promising, the precise role of CT Colonography has not been established, particularly for lesions measuring 5 mm or less and for non-polypoid (flat) lesions. CT colonography is not intended for the detection of diminutive colonic polyps (i.e., tiny polyps <= 5 mm), the presence or absence of which will not change management of the patient.
+
+INDICATION:  [ ]
+
+TECHNIQUE: The patient underwent bowel preparation the day before the exam, consisting of [ ]. Following automated carbon dioxide insufflation per rectum, supine and prone CT images were obtained before and after IV injection of 100 cc of Ultravist 300. Coronal and sagittal reformatted images were performed on the CT console by the technologist. Additional 3D images were performed and evaluated using a dedicated 3D workstation by a radiologist to better assess the colon. Evaluation of the colon was performed using 2-D axial and multiplanar reformats, as well as 3-D images.
+
+FINDINGS: 
+ABDOMEN (extra colonic findings):
+[ ]
+
+PELVIS (extra colonic findings):
+[ ]
+
+3D IMAGES (colonic findings):
+[Comment of quality of prep and distention. Size, morphology, and location of any large (= 10 mm) or small (6-9 mm) polyps.]
+
+
+IMPRESSION:
+
+COLONIC FINDINGS AND FOLLOW UP RECOMMENDATION:
+
+[- Inadequate study or awaiting prior comparisons 
+Inadequate prep with moderate to large amount of retained fecal material and/ or fluid present. Inadequate insufflation with one or more colonic segments collapsed on both views. The retained stool and/or insufficient distention severely limit the evaluation for polyps. No large lesions are identified; however the exam is insufficient to exclude polyps or small cancers. The patient should undergo optical colonoscopy after a sufficient colonic preparation. CT Colonography can be substituted for optical colonoscopy if the patient is either unable or unwilling to undergo optical colonoscopy.]
+
+[- No polyp measuring 6 mm or greater and benign findings (e.g. colonic lipoma and colonic diverticula). Recommend continued colorectal cancer screening with optical colonoscopy in 10 years or with CT colonography in 5 years.]
+
+[-Polyp measuring 6 mm or greater. Immediate optical colonoscopy with polypectomy is recommended.]
+
+[- Malignant-appearing colonic mass. Surgical consultation is recommended.]
+
+
+EXTRA-COLONIC FINDINGS:
+
+ []
+
+- Dr. [ ] was informed of the above described findings and recommendations by Dr. [ ] at [ ] on [].
+
+
+$$$
+CTC screening
+
+STUDY: Screening CT Colonography
+
+NOTE: CT Colonography has been shown in several studies to have high sensitivity in certain patient groups. Although the experience with this test is promising, the precise role of CT Colonography has not been established, particularly for lesions measuring 5 mm or less and for non-polypoid (flat) lesions. CT colonography is not intended for the detection of diminutive colonic polyps (i.e., tiny polyps <= 5 mm), the presence or absence of which will not change management of the patient.
+
+INDICATION:  [Asymptomatic patient screening for colorectal cancer.] 
+
+TECHNIQUE: The patient underwent bowel preparation the day before the exam, consisting of [ ]. Following automated carbon dioxide insufflation per rectum, supine and prone CT images were obtained without intra venous contrast material administration. Coronal and sagittal reformatted images were performed on the CT console by the technologist. Additional 3D images were performed and evaluated using a dedicated 3D workstation by a radiologist to better assess the colon. Evaluation of the colon was performed using 2-D axial and multiplanar reformats, as well as 3-D images.
+
+FINDINGS: 
+Note: Extracolonic evaluation is limited by the low dose CT technique and lack of IV contrast.
+
+ABDOMEN (extra colonic findings):
+[ ]
+
+PELVIS (extra colonic findings):
+[ ]
+
+3D IMAGES (colonic findings):
+[Comment of quality of prep and distention. Size, morphology, and location of any large (= 10 mm) or small (6-9 mm) polyps.]
+
+
+IMPRESSION:
+
+COLONIC FINDINGS AND FOLLOW UP RECOMMENDATION:
+
+[- Inadequate study or awaiting prior comparisons 
+Inadequate prep with moderate to large amount of retained fecal material and/ or fluid present. Inadequate insufflation with one or more colonic segments collapsed on both views. The retained stool and/or insufficient distention severely limit the evaluation for polyps. No large lesions are identified, however the exam is insufficient to exclude polyps or small cancers. The patient should undergo optical colonoscopy after a sufficient colonic preparation. CT Colonography can be substituted for optical colonoscopy if the patient is either unable or unwilling to undergo optical colonoscopy.]
+
+[- No polyp measuring 6 mm or greater and benign findings (e.g. colonic lipoma and colonic diverticula). Recommend continued colorectal cancer screening with optical colonoscopy in 10 years or with CT colonography in 5 years.]
+
+[-Polyp measuring 6 mm or greater. Immediate optical colonoscopy with polypectomy is recommended.]
+
+[- Malignant-appearing colonic mass. Surgical consultation is recommended.]
+
+
+EXTRA-COLONIC FINDINGS:
+
+[]
+
+- Dr. [ ] was informed of the above described findings and recommendations by Dr. [ ] at [ ] on [].
+
+
+$$$
+HSG
+INDICATION: Infertility.
+
+TECHNIQUE: The uterine cervix was cannulated by the gynecologist and water-soluble contrast was instilled under intermittent fluoroscopic observation.  Digital spot films obtained.
+
+FINDINGS: 
+
+[]
+
+IMPRESSION: 
+
+[]
+$$$
+incidental pulmonary nodule
+Fleischner Society recommendations for Follow-up and Management of Pulmonary Nodules Detected Incidentally at Nonscreening CT are  based on nodule size and assessment of patient risk:
+
+MacMahon H MB BCh, Austin J MD, Gamsu G MD, et al. Guidelines for Management of Small Pulmonary Nodules Detected on CT Scans: A Statement from the Fleischner Society. Radiology 2005; 237:395-400
+
+Final determination of your patient's risk should include your clinical judgment. The decision to pursue further evaluation for an individual patient should also include consideration of the patient's co-morbid conditions, long-term prognosis, and preference.
+
+*Fleischner Society recommendations for newly detected indeterminate nodule(s) in persons 35 years of age or older: 
+1. Nodule Size (mm): <=4 
+        Low-Risk Patient: No follow-up needed
+        High-Risk Patient: Follow-up CT at 12 mo; if unchanged, no further follow-up
+2. Nodule Size (mm): >4-6 
+        Low-Risk Patient: Follow-up CT at 12 mo; if unchanged, no further follow-up
+        High-Risk Patient: Initial follow-up CT at 6-12 mo then at 18-24 mo if no change
+3. Nodule Size (mm): >6-8 
+        Low-Risk Patient: Initial follow-up CT at 6-12 mo then at 18-24 mo if no change 
+        High-Risk Patient: Initial follow-up CT at 3-6 mo then at 9-12 and 24 mo if no change
+4. Nodule Size (mm): >8 
+        Low-Risk Patient: Follow-up CT at around 3, 9, and 24 mo, dynamic contrast-enhanced CT, PET, and/or biopsy 
+        High-Risk Patient: Same as for low-risk patient 
+
+*Nodule size measured as average of length and width. ADOPTION OF THIS POLICY APPLIES ONLY TO FULLY SOLID NODULES. Ground glass and partly solid nodules are excluded from the Fleischner criteria. These may require longer follow-up to exclude indolent adenocarcinoma. 
+$$$
+Indication from Centricity
+INDICATION: <<Order Reason for Study>>
+
+$$$
+Lasix Urogram
+HISTORY: []
+
+TECHNIQUE and CONTRAST: Multidetector CT urography was performed to include the abdomen and pelvis before and after 80 ml of Ultravist 370 IV contrast and 10 mg of IV lasix.  Multiplanar reformats, volume-rendered images, and MIP images were generated at an independent workstation by a technologist under physician supervision.
+
+COMPARISON: []
+
+FINDINGS: 
+
+[]
+
+
+IMPRESSION: 
+
+[]
+$$$
+PET/CT Enterography
+INDICATION: Crohn's disease.
+
+This study was performed as part of a research protocol, F350514. There is no charge for the midportion of the study. The principal investigator is Paul Shyn MD.  Informed consent was obtained for this PHRC approved protocol.
+
+A serum pregnancy test on the day of examination was negative. The patient received 13.0 mCi of 18F-fluorodeoxyglucose (FDG) intravenously. The contrast-enhanced CT portion of the study was obtained immediately prior to PET imaging on the PET/CT scanner.  See separately dictated CT enterography report. Approximately 90 minutes following FDG administration PET acquisitions were obtained with 4 minutes per bed position to include the abdomen and pelvis. The study is reviewed and PET-CT workstation including multiplanar displays.
+
+There is diffuse moderate to intense FDG uptake throughout the distal one-third to one-half of the ileum. These bowel loops are located in the pelvis. The abnormal uptake extends all the way to the terminal ileum and ileocecal valve. The FDG uptake corresponds to areas of abnormality on CT Enterography. The there is  additional intense FDG uptake within a left perianal fistula which contains a seton. Mild to moderate FDG uptake throughout the rectum is not greater than commonly seen with physiologic uptake. Uptake in the remainder of the visualized bowel is normal.
+
+No abnormal uptake identified in association with reactive mesenteric lymph nodes or the 1 cm peritoneal nodule in the right.
+
+CONCLUSION: Abnormal FDG uptake corresponding to the distal one-third to one-half of the ileum including the terminal ileum and ileocecal valve. Findings likely reflect active inflammation of known Crohn's disease.
+$$$
+PET/CT Intervention
+INDICATION: Multiple hepatic lesions. PET-CT guided biopsy for diagnosis. History Peutz Jegher syndrome.
+
+RADIOPHARMACEUTICAL: The 18-F fluoro-deoxyglucose, 14.5 mCi.
+
+Informed consent was obtained for this PHRC-approved PET-CT interventional research protocol, F8351009. The principal investigator is Paul Shyn, M.D. Limited PET/CT of the liver was performed for liver biopsy guidance. The interventional procedural portion of the study is dictated separately.
+
+Preliminary noncontrast CT scanning of the upper abdomen was performed. PET imaging was obtained approximately 60 minutes following the IV administration FDG. Single bed position PET acquisitions over the upper abdomen were obtained.  Attenuation correction of PET images using the CT dataset was performed.
+
+FINDINGS:
+
+There are numerous focal lesions throughout all segments of the liver. These liver lesions demonstrate moderate to intense FDG uptake of and are suspicious for malignancy. Within the limited field-of-view, there is physiologic bowel activity identified. One focus of moderate intensity FDG uptake is identified in the midabdomen near the inferior limit of the field-of-view. This appears to correspond to a thickened small bowel loop as seen on recent CT Enterography.  The uptake is nonspecific and may reflect known polyposis, physiologic activity, inflammation, or possibly a bowel primary tumor. Other hamartomatous polys within the field of view are not significantly FDG-avid, however, which raises the suspicion of a potential bowel primary in the focus described above.  No other focus of abnormal FDG uptake identified.  
+
+There is evidence of previous cholecystectomy.  Degerative changes noted in the lumbar spine.
+
+CONCLUSION:
+
+$$$
+Pre-op Pancreatic Tumor
+INDICATION: [Pancreatic mass, presurgical evaluation]
+
+TECHNIQUE: CT scanning of the abdomen and pelvis was performed in the arterial and portal venous phases after the administration of [ cc] of Ultravist 370.  
+
+COMPARISON: [<None>]
+
+FINDINGS:
+
+LUNG BASES: [<There is no pleural effusion or lung base nodule.>]
+
+PANCREAS: [<Pancreatic mass present>]
+
+Tumor Location: [], Size: [], Extrapancreatic extension: [], Remaining pancreas: []
+
+Adenopathy Location: [], The largest size: [], Size of Gastroduodenal node: [] 
+
+Metastatic disease: (liver, peritoneal, other) [] 
+
+Ascites/peripancreatic fluid: [] 
+
+Arterial Involvement present :[], celiac: [], SMA: [], splenic artery: [], tumor-celiac bifurcation distance:[]
+
+Venous Involvement :[], SMV % encasement: [], PV confluence to tumor distance: [], first branch to tumor distance: []
+
+Vascular Involvement other: []
+
+Thrombosis of any vessel: []
+
+Aberrant Anatomy :[]
+
+
+ABDOMEN: []
+
+
+PELVIS: []
+
+
+MUSCULOSKELETAL: []
+
+
+IMPRESSION: []
+
+$$$
+Procedure attestation
+Dr. Paul Shyn, the attending Radiologist, was present for all the radiologic portions of the procedure.
+$$$
+Saline Urogram
+HISTORY: []
+
+TECHNIQUE and CONTRAST: Multidetector CT urography was performed to include the abdomen and pelvis before and after 80 ml of Ultravist 370 IV contrast and 250 ml IV normal saline.  Multiplanar reformats, volume-rendered images, and MIP images were generated at an independent workstation by a technologist under physician supervision.
+
+COMPARISON: []
+
+FINDINGS: 
+
+[]
+
+
+IMPRESSION: 
+
+[]
+$$$
+VCUG
+INDICATION: []
+
+TECHNIQUE: The urinary bladder was sterilely catheterized by the urology nurse and water-soluble contrast instilled. Spot fluoroscopic images were obtained during filling, stress maneuvers and voiding.
+
+FINDINGS: 
+
+[]
+
+IMPRESSION: 
+
+[]
+$$$
+Video swallow
+INDICATION: []
+
+TECHNIQUE: A video swallowing study was performed with the speech pathologist administering varying consistencies of liquid and solid food materials with barium under intermittent fluoroscopic observation.
+
+FINDINGS: 
+
+[]
+
+IMPRESSION: 
+
+[]
+$$$

@@ -1,0 +1,50 @@
+INDICATION:  []
+
+PROCEDURE: [CT & CT Fluoroscopy-guided / US-guided] catheter drainage of []
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  Coagulation parameters were reviewed and considered acceptable. A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+
+PRE-PROCEDURAL IMAGING: Review of [BWH/outside/modality/date/] demonstrates [].
+	
+CONSENT: Informed consent was obtained from [] by [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [<A __-speaking interpreter was present and facilitated communication.>] A safety pause was performed immediately prior to the procedure.
+
+DEVICES:
+[] F - 25 cm Flexima Drainage Catheter (Lot # [])  
+[] F - 35 cm Exodus Drainage Catheter (Lot # [])
+.035" - 80 cm Amplatz Extra-stiff Guidewire
+.035" - 145 cm Amplatz Super-stiff Guidewire
+[] G - [] cm Chiba needle
+5F - [] cm One-step centesis catheter
+
+SEDATION/ANESTHESIA: [<None,  IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist, Monitored anesthesia care (MAC) provided by the anesthesia department, General endotracheal tube anesthesia provided by the anesthesia department>]
+
+DURATION OF SEDATION/ANESTHESIA: []
+
+MEDICATIONS AND DOSAGES: midazolam [] mg IV, fentanyl [] mcg IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+CONTRAST MATERIAL:  []
+
+PROCEDURE DESCRIPTION:
+
+The patient was positioned [] on the procedure table.  Preliminary imaging was obtained to confirm the [] collection and to determine the approach.  All elements of appropriate sterile preparation and technique were followed pertaining to the operators, patient, equipment and supplies. The local anesthetic was administered and a small incision made.  With imaging guidance and modified Seldinger technique, the [Chiba needle / centesis catheter] was advanced into the collection and [] ml of [] fluid was aspirated for [microbiology, chemistries, ]. This was followed by guidewire placement.  The [needle / centesis catheter] was removed and the track serially dilated.  The drainage catheter was then advanced over the wire into the collection and the distal loop locked.  [<After initial guide needle placement, the drainage catheter was advanced into the collection in tandem fashion using trocar technique.>]  Approximately [] ml of [] fluid were drained.  The catheter was secured with an adhesive fixation device and sterile dressing. [<The catheter is connected via a 3-way stop-cock to a collection bag for gravity drainage.>]  [<The catheter is connected to a Pleur-evac on waterseal.>]  
+
+SPECIMENS SUBMITTED: [None, Cytopathology, Histopathology, Gram stain, Microbiology, Chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT / US] images demonstrate [].
+
+COMPLICATIONS: [<No immediate complications noted at the conclusion of the procedure.>]
+
+CONCLUSION:  [CT / US]-guided catheter drainage of [].
+
+
+FOLLOW-UP PLAN AND COMMUNICATION:  
+
+Post-procedure orders including catheter management instructions were entered in BICS.  The patient is an inpatient or being admitted and Dr. [] spoke with Dr. [] by telephone at [time] on [date] to relay the details of the procedure and post-procedure patient management issues. 
+
+CSIR will continue to follow the patient and monitor catheter status.  Once catheter output has decreased to less than 10 ml per day for two consecutive days and is non-purulent, or if catheter removal is considered for any reason, please notify the CSIR team regarding further imaging assessment and possible catheter removal.  If the patient is being considered for discharge, please notify the CSIR team (#14520).
+
+
