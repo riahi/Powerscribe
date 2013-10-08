@@ -1,0 +1,7 @@
+INDICATION: <<Clinical Information>> .
+
+TECHNIQUE: Water soluble contrast is instilled via a red rubber tube inserted into the anus under fluoroscopic guidance.
+
+FINDINGS: [<Contrast is followed from the rectum through the colon into the cecum.>]  [<The colon appears normal in appearance with normal caliber and fold pattern.>]  [<No filling defects are seen to suggest polyps or mass lesions.>]  [<No contrast extravasation or fistula formation is seen.>]  
+
+IMPRESSION: [<Normal barium enema.>]

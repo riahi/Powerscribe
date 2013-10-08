@@ -1,0 +1,7 @@
+INDICATION: <<Clinical Information>> .
+
+TECHNIQUE: A preliminary film of the abdomen was obtained. Using sterile technique, the urethra was catheterized and Cystografin Dilute (8.5% of iodine) were instilled under gravity. Multiple films were obtained.
+
+FINDINGS: The urinary bladder is normal in size, shape, and position. There is no evidence of vesicoureteral reflux.The urethra is normal. The patient voids to completion.
+
+IMPRESSION: Normal voiding cystourethrogram.

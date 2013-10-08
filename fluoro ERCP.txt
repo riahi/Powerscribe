@@ -1,0 +1,7 @@
+INDICATION:  <<Clinical Information>> .
+
+TECHNIQUE: [<>] radiographs were obtained of the upper abdomen after cannulation of the common bile duct by the gastroenterologist. Images were interpreted by the teaching physician radiologist.
+
+FINDINGS: Contrast opacified a nondilated biliary tree. The common duct is not dilated. No filling defects are seen. [<Basket retrieval of stone was performed.>]
+
+IMPRESSIONS: [<Normal ERCP.>] [<Choledocholithiasis status post extraction of stones.>]

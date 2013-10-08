@@ -1,0 +1,22 @@
+INDICATION: <<Clinical Information>>  
+
+TECHNIQUE: CT urogram was performed with axial imaging through the abdomen and pelvis before and after 100 cc of Ultravist 300 IV contrast and 10 mg of IV lasix. MPR, MIP and volume rendered images were performed on an independent workstation by a technologist to evaluate the collecting system and bladder. 
+
+
+COMPARISON: []
+
+FINDINGS: 
+
+LUNG BASES: []
+
+ABDOMEN: []
+
+PELVIS: []
+
+REFORMATIONS: []
+
+BONE: Evaluation of osseous structures shows no focal lesions suspicious for malignancy.
+
+IMPRESSION: 
+1. []
+2. []

@@ -1,0 +1,39 @@
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []
+
+PROCEDURE: Image-guided liver parenchymal biopsy	
+
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure.
+
+CONTRAST:  []
+
+GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA:[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: 
+
+MEDICATIONS AND DOSAGES: [midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure(s).
+
+RESIDENT/FELLOW:  []
+
+IMAGING FINDINGS:  []
+
+PROCEDURE DESCRIPTION: The skin was prepped and draped in the usual sterile fashion.  After administration of local anesthesia, a 17 gauge needle was inserted using imaging guidance into the [right/left] lobe of the liver.  18 gauge coaxial automated core biopsies were then obtained for a total of [] specimens.
+
+SPECIMENS SUBMITTED:[for histopathology, in formalin]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
+
+COMPLICATIONS:[No immediate complications noted at the conclusion of the procedure,    ]
+
+FOLLOW-UP PLAN:  []
+
+CONCLUSION:  []
+
+

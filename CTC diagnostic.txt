@@ -1,0 +1,40 @@
+STUDY: Diagnostic CT Colonography
+
+NOTE: CT Colonography has been shown in several studies to have high sensitivity in certain patient groups. Although the experience with this test is promising, the precise role of CT Colonography has not been established, particularly for lesions measuring 5 mm or less and for non-polypoid (flat) lesions. CT colonography is not intended for the detection of diminutive colonic polyps (i.e., tiny polyps <= 5 mm), the presence or absence of which will not change management of the patient.
+
+INDICATION:  <<Clinical Information>>  
+
+TECHNIQUE: The patient underwent bowel preparation the day before the exam, consisting of [ ]. Following automated carbon dioxide insufflation per rectum, supine and prone CT images were obtained before and after IV injection of 100 cc of Ultravist 300. Coronal and sagittal reformatted images were performed on the CT console by the technologist. Additional 3D images were performed and evaluated using a dedicated 3D workstation by a radiologist to better assess the colon. Evaluation of the colon was performed using 2-D axial and multiplanar reformats, as well as 3-D images.
+
+FINDINGS: 
+ABDOMEN (extra colonic findings):
+[ ]
+
+PELVIS (extra colonic findings):
+[ ]
+
+3D IMAGES (colonic findings):
+[Comment of quality of prep and distention. Size, morphology, and location of any large (= 10 mm) or small (6-9 mm) polyps.]
+
+
+IMPRESSION:
+
+COLONIC FINDINGS AND FOLLOW UP RECOMMENDATION:
+
+[- Inadequate study or awaiting prior comparisons 
+Inadequate prep with moderate to large amount of retained fecal material and/ or fluid present. Inadequate insufflation with one or more colonic segments collapsed on both views. The retained stool and/or insufficient distention severely limit the evaluation for polyps. No large lesions are identified; however the exam is insufficient to exclude polyps or small cancers. The patient should undergo optical colonoscopy after a sufficient colonic preparation. CT Colonography can be substituted for optical colonoscopy if the patient is either unable or unwilling to undergo optical colonoscopy.]
+
+[- No polyp measuring 6 mm or greater and benign findings (e.g. colonic lipoma and colonic diverticula). Recommend continued colorectal cancer screening with optical colonoscopy in 10 years or with CT colonography in 5 years.]
+
+[-Polyp measuring 6 mm or greater. Immediate optical colonoscopy with polypectomy is recommended.]
+
+[- Malignant-appearing colonic mass. Surgical consultation is recommended.]
+
+
+EXTRA-COLONIC FINDINGS:
+
+ []
+
+- Dr. [ ] was informed of the above described findings and recommendations by Dr. [ ] at [ ] on [].
+
+
