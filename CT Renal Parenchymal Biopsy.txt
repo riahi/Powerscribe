@@ -1,0 +1,50 @@
+INDICATION:  []
+
+PROCEDURE: CT-guided [ ] Renal Parenchymal Biopsy 
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the [entire radiologic portion of the procedure and available immediately thereafter] [entire procedure].
+
+RESIDENT / FELLOW: [ ]
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [ Pre-procedural coagulation parameters and platelet count were within acceptable limits.] A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+Platelets [ ], INR [ ]
+Allergies: [ ]
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]. A team time-out was performed prior to [sedation and] beginning the procedure to verify the correct patient, procedure and position.
+
+CONTRAST: [none; Ultravist 370, __ ml]
+
+GUIDANCE MODALITY:  [CT / CT fluoroscopy]
+
+DEVICES: 
+Temno 17 G / [ ] cm introducer 
+Temno 18 G / [ ] cm coaxial spring-loaded core biopsy needle 
+
+SEDATION/ANESTHESIA: [None, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: [ ]
+
+MEDICATIONS AND DOSAGES: 
+Midazolam [] mg IV
+Fentanyl [] mcg IV
+2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+PREPROCEDURE IMAGING FINDINGS:  [CT / MRI] dated [ ] revealed [ ]
+
+PROCEDURE:  
+With the patient in a [prone, right lateral decubitus, left lateral decubitus, prone oblique] position on the CT table, preliminary CT images of the right / left kidney were acquired which measured    x   x   cm. After assessing the most direct access to the kidney, the skin was prepped and draped in the usual sterile manner. All elements of sterile barrier technique followed including: hand hygiene, sterile gown, sterile gloves, a large sterile sheet, and 2% chlorhexidine for cutaneous antisepsis. This was followed by injection of the local anesthetic solution into the skin, subcutaneous and deeper tissues.  A small incision was made followed by insertion of the 17 G needle under CT guidance through the retroperitoneum in the [ ] pole of [right / left] kidney. 18 G coaxial biopsy samples were then acquired for a total of [ ] specimens from the renal cortex. Immediate light microscopic assessment by the nephropathologist confirmed sufficient glomeruli for diagnosis in the tissue specimens. The biopsy needle was removed and a sterile bandage applied.
+	
+SPECIMENS SENT: [none, Cytopathology, Histopathology, Microbiology, Chemistry, other]
+
+COMPLICATIONS: Post-procedure CT images demonstrate [].  [The patient tolerated the procedure well with no immediate complications].
+
+POST-PROCEDURE OBSERVATION: The patient will be observed in the radiology recovery area for [] hours prior to admisson for overnight observation and prior to discharge in the morning.  Post-procedure orders have been entered into BICS.
+
+FOLLOW-UP PLAN: The patient will follow-up with the referring clinician for biopsy results and further management.
+[This outpatient procedure did not require recovery room observation prior to discharge.  Home care instructions for this procedure were reviewed with the patient. All patient questions were answered.] 
+
+IMPRESSION:  
+CT-guided [ ] renal parenchymal biopsy.
+	
+
+

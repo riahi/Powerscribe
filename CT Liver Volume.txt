@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDICATION:
 [Pre/Post portal vein embolization]
 
@@ -17,10 +18,18 @@ LUNG BASES:
 [<There is no pleural effusion or lung base nodule.>]
 
 ABDOMEN: 
-[ ]
+[Liver appears unremarkable without focal hepatic lesion.] [Gallbladder is unremarkable. There is no intra- or extra-hepatic biliary dilation.] [Pancreas reveals no mass or ductal dilation.] [Spleen is not enlarged without focal lesions  seen.]
+
+[Both adrenals are unremarkable, no adrenal nodules seen.]
+[Both kidneys are normal in size and enhancement, no solid mass lesion, stones or hydronephrosis.]
+
+[The stomach, small bowel, and large bowel within the abdomen demonstrate no thickening or dilatation.]
+
+[No suspicious abdominal lymph nodes seen.]
 
 PELVIS: 
-[ ]
+[Uterus, both ovaries and adnexa appear normal. / Prostate and seminal vesicles appear unremarkable.] [Urinary bladder is well distended and appears unremarkable.]
+[The small and large bowel within the pelvis demonstrate no abnormality.]  [Pelvic and inguinal lymph nodes are not enlarged.] [No free fluid in the pelvis.]
 
 ARTERIAL ANATOMY AND VARIANTS: 
 [ ]

@@ -14,10 +14,10 @@ FINDINGS:
 Extracolonic evaluation is limited by the low dose CT technique and lack of IV contrast.
 
 ABDOMEN:
-[ ]
+[The liver, gallbladder, spleen, pancreas, kidneys, and adrenal glands demonstrate no abnormality.  The stomach, small bowel, and large bowel within the abdomen demonstrate no abnormality.  ]
 
 PELVIS:
-[ ]
+[The small and large bowel within the pelvis demonstrate no abnormality.  Pelvic and inguinal lymph nodes are not enlarged.]
 
 MULTIPLANAR 3-D RECONSTRUCTIONS AND VIRTUAL COLONOSCOPY:
 The colon was reviewed from the rectum to the cecum using a combination of 2-D axial views as well as 3-D virtual colonoscopy images.

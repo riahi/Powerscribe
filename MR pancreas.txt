@@ -1,13 +1,18 @@
-HISTORY: [ ]-year-old [ ]  patient with [ ].
+INDICATION: 
+[ ]
 
-TECHNIQUE: Multisequence multiplanar MR images of the abdomen were performed before and after intra- venous injection of 20 cc of gadolinium. MRCP sequences were also obtained.
+TECHNIQUE:
+Multisequence multiplanar MR images of the abdomen were performed before and after intra- venous injection of [20] cc of [Gadolinium / Magnevist]. MRCP sequences were also obtained.
 
-COMPARISON: Images from prior [ ] performed on [ ] were available for comparison. [No prior images were available for comparison]
+COMPARISON:
+Images from prior [ ] performed on [ ] were available for comparison. [No prior images were available for comparison]
 
 FINDINGS:
-ABDOMEN: [ ]
+ABDOMEN:
+[ ]
 
-MRCP: [ ]
+MRCP:
+[ ]
 
 IMPRESSION:
 1. [ ]

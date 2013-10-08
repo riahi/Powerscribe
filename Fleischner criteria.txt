@@ -1,0 +1,18 @@
+If not previously performed, this may be further evaluated as follows, according to Fleischner criteria recommendations for follow-up of incidental CT nodules (H MacMahon, Guidelines for management of small pulmonary nodules detected on CT scans: A statement from the Fleischner Society, Radiology 237: 395-400 2005):
+
+Low Risk Patients
+
+Nodule size 
+</= 4 mm    No follow-up needed
+>4-6 mm     Follow-up CT at 12 months, if unchanged no further follow-up 
+>6-8 mm     Initial Follow-up at 6-12 months, then 18-24 months if no change
+> 8 mm       F/U CT around 3, 9, 24 mo, dynamic contrast enhanced CT, PET, and/or biopsy
+
+High Risk  Patients
+
+Nodule Size
+</= 4 mm    F/U at 12 mo, if not change, no further follow-up
+>4-6 mm     Initial F/U CT at 6-12 mo then at 18-24 mo if no change
+>6-8 mm     Initial F/U CT at 3-6 mo then at 9-12 mo and 24 mo if no change
+>8 mm        Same as low risk patients
+

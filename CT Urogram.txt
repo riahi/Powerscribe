@@ -1,18 +1,25 @@
-HISTORY: [].
+INDICATION:
+[].
 
-TECHNIQUE: CT scans were acquired through the abdomen and pelvis before and 100 second (through abdomen only) and 15 minutes after intravenous administration of [] mL of Ultravist 300. [Study was supplemented with 10 mg Lasix.]  
+TECHNIQUE:
+CT scans were acquired through the abdomen and pelvis before and 100 second (through abdomen only) and 15 minutes after intravenous administration of [] mL of Ultravist 300. [Study was supplemented with 10 mg Lasix.]  3D reconstructions of the kidneys and collecting system, including volume renderings, MIPs, and curved planar reformats, were performed by a 3D technologist in a 3D laboratory that was supervised by a radiologist.
 
-COMPARISON: [None] 
+COMPARISON:
+[None] 
 
 FINDINGS:
 
-Lung bases: The imaged portions of the bilateral lung bases are clear. There is no pleural of pericardial effusion.
+LUNG BASES:
+[The imaged portions of the bilateral lung bases are clear. There is no pleural of pericardial effusion.]
 
-Abdomen: The liver, gallbladder, spleen, pancreas, bilateral kidneys, and bilateral adrenal glands appear within normal limits. No enhancing lesions are seen within the kidneys. Retroperitoneal lymph nodes are not enlarged. Visualized bowel loops appear unremarkable.  
+ABDOMEN:
+[The liver, gallbladder, spleen, pancreas, bilateral kidneys, and bilateral adrenal glands appear within normal limits. No enhancing lesions are seen within the kidneys. Retroperitoneal lymph nodes are not enlarged. Visualized bowel loops appear unremarkable.]
 
-Pelvis: The urinary bladder appears normal. [A small to moderate post-void residue is noted in the bladder.] [prostate, seminal vesicles or uterus, ovaries] No calculi are identified within the urinary bladder or along the course of the ureters. Inguinal lymph nodes are not enlarged. No bony lesions concerning for malignancy are seen.
+PELVIS:
+The urinary bladder appears normal. [A small to moderate post-void residue is noted in the bladder.] [The prostate and seminal vesicles / The uterus and ovaries are unremarkable]. No calculi are identified within the urinary bladder or along the course of the ureters. Inguinal lymph nodes are not enlarged. No bony lesions concerning for malignancy are seen.
 
-3D Reformations: 3D reconstructions of the kidneys and collecting system, including volume renderings, MIPs, and curved planar reformats, were performed by a 3D technologist in a 3D laboratory that was supervised by a radiologist. [No hydronephrosis is present.] [The collecting system is well-opacified and appears normal. No ureteral abnormalities or urothelial lesions are seen.]
+3D REFORMATIONS:
+[No hydronephrosis is present.] [The collecting system is well-opacified and appears normal. No ureteral abnormalities or urothelial lesions are seen.]
 
 IMPRESSION: 
 []

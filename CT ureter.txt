@@ -1,14 +1,19 @@
-INDICATION: [  ]
+INDICATION:
+[  ]
 
-TECHNIQUE: Noncontrast CT acquisition was performed from the lung bases to the pelvic floor.
+TECHNIQUE:
+Contiguous axial images were performed through the abdomen and pelvis without oral or intravenous contrast in accordance with the ureter CT protocol.
 
 FINDINGS: 
-LUNG BASES: The lung bases are clear. 
 
-ABDOMEN: The unenhanced liver, spleen, gallbladder, pancreas, kidneys, and adrenal glands are all normal.  There is no hydronephrosis, hydroureter, renal, or ureteral stones. There is no abdominal or pelvic lymphadenopathy or free fluid.
+LUNG BASES: 
+[The lung bases are clear.]
 
-PELVIS: Unopacified loops of large and small bowel, including the appendix, are all normal. The urinary bladder, seminal vesicles, and prostate are normal. There are no suspicious lytic or blastic bony lesions.
+ABDOMEN: 
+[The unenhanced liver, spleen, gallbladder, pancreas, kidneys, and adrenal glands are all normal.  There is no hydronephrosis, hydroureter, renal, or ureteral stones. There is no abdominal or pelvic lymphadenopathy or free fluid.]
+
+PELVIS: 
+[Unopacified loops of large and small bowel, including the appendix, are all normal. The urinary bladder, seminal vesicles, and prostate are normal. There are no suspicious lytic or blastic bony lesions.]
 
 IMPRESSION: 
 [No obstructive uropathy, or alternative explanation for symptoms.]
-

@@ -1,9 +1,14 @@
-INDICATION: [], restaging study.
+INDICATION:
+[], restaging study.
 
-PROTOCOL: CT imaging of chest was performed with 5 mm axial and 4 mm coronal reconstructions following the administration of [] cc of nonionic intravenous contrast. 
+PROTOCOL:
+CT imaging of chest was performed with 5 mm axial and 4 mm coronal reconstructions following the administration of [] cc of nonionic intravenous contrast. 
 
-COMPARISON: CT dated [].
+COMPARISON:
+CT dated [].
 
 FINDINGS: 
+[ ]
 
 IMPRESSION: 
+[ ]
