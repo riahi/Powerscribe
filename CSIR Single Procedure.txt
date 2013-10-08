@@ -38,7 +38,8 @@ IMAGING FINDINGS:
 PROCEDURE DESCRIPTION:
 []
 
-SPECIMENS SUBMITTED:[none, cytopathology, histopathology, microbiology, chemistry, other]
+SPECIMENS SUBMITTED:
+[none, cytopathology, histopathology, microbiology, chemistry, other]
 
 POST-PROCEDURE IMAGING: 
 [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]

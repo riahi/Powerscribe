@@ -1,0 +1,22 @@
+INDICATION: [] presents for evaluation of bone metastases. 
+
+RADIOPHARMACEUTICAL: 99m-Tc MDP
+
+DOSE: [] mCi.
+ 
+TECHNIQUE: This study was performed at the Dana-Farber Cancer Institute. Approximately three hours following the intravenous administration of radiopharmaceutical, whole body planar imaging was performed in the anterior and posterior projections with additional spot views of the [].
+
+COMPARISON: []
+
+FINDINGS: []
+
+[There are stable degenerative-appearing changes] [in the knees, ankles, and feet.] 
+
+[<There is physiologic radiotracer uptake in the kidneys and bladder.>]
+
+IMPRESSION: 
+There is no definite scintigraphic evidence of osseous metastatic disease. 
+
+I, the teaching physician, have reviewed the images and agree with the report as written.
+
+END OF IMPRESSION

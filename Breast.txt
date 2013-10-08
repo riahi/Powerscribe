@@ -1,0 +1,17 @@
+INDICATION: [], restaging scan.
+
+PROTOCOL: CT imaging of chest, abdomen and pelvis was performed with 5 mm axial and 4 mm coronal reconstructions following the administration of oral and [] cc of nonionic intravenous contrast. Upper abdomen was also scanned prior to injection of the intravenous contrast.
+
+COMPARISON: With previous CT dated [].
+
+FINDINGS:
+
+CHEST: []
+
+ABDOMEN: 
+
+PELVIS: 
+
+
+
+IMPRESSION: 

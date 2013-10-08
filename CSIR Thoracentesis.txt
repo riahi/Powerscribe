@@ -1,0 +1,39 @@
+CLINICAL HISTORY AND INDICATION:  [] -year-old [] with [], with pleural effusion.
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  []-year-old [] with [], presented with pleural effusion. Diagnostic and therapeutic thoracentesis was recommended.
+
+PROCEDURE: Ultrasound guided diagnostic and therapeutic thoracentesis
+	
+Informed consent was obtained from the patient by Dr. Shinagare.  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  A team time-out was performed prior to beginning the procedure.
+
+CONTRAST:  None
+
+GUIDANCE MODALITY: US
+
+DEVICES:  5 French 7 cm Yueh needle-sheath
+
+SEDATION/ANESTHESIA: None
+
+MEDICATIONS AND DOSAGES: 2% lidocaine and sodium bicarbonate in a 4:1 mixture, 8 ml for subcutaneous local anesthesia
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  Atul Shinagare
+
+IMAGING FINDINGS:  [] []pleural effusion was noted on the preprocedure limited ultrasound.
+
+PROCEDURE DESCRIPTION:
+The patient was brought into the ultrasound suite and a time-out was performed. The patient was positioned in sitting position on the table. Preliminary ultrasound of the chest was performed and the most appropriate site for safe needle entry was marked. The planned entry site was prepped and draped in the usual sterile fashion. Subcutaneous 2% lidocaine was used for local anesthesia along the expected needle tract. 
+
+Under ultrasound-guidance, a 5 French Yueh needle-sheath was inserted carefully into the [] pleural cavity.  The needle was removed and the sheath was connected to tubing and a vacuum suction device. A total of [] cc of [] was aspirated. The sheath was removed and a sterile dressing applied. 
+
+SPECIMENS SUBMITTED: [Cytopathology, chemistry, microbiology]
+
+POST-PROCEDURE IMAGING: US images obtained at the conclusion of the procedure demonstrated [] pleural effusion. 
+
+COMPLICATIONS: No immediate complications noted at the conclusion of the procedure. 
+
+FOLLOW-UP PLAN:  Patient was transferred back to the floor for observation. [Post procedure orders placed in BICS.] A chest radiograph will be obtained after 2 hours.
+
+CONCLUSION:
+Ultrasound guided [diagnostic and therapeutic] [left ]sided thoracentesis with removal of [] cc of [].

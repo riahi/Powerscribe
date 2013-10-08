@@ -1,0 +1,41 @@
+CLINICAL HISTORY AND INDICATION:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [] The list of patient's known allergies, current medications and adverse medication reactions was reviewed prior to the procedure.
+
+PROCEDURE: CT guided aspiration and drainage of []
+	
+Informed consent was obtained from [the patient] by [].  The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure.
+
+CONTRAST:  [None]
+
+GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA: [None; IV conscious sedation administered and monitored by the radiology department nurse with supervision by the radiologist; Monitored anesthesia care provided by the anesthesia department; General anesthesia provided by the anesthesia department]
+
+MEDICATIONS AND DOSAGES: [Midazolam [] mg IV, fentanyl [] ug IV; 2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire radiologic portion of the procedure.
+
+RESIDENT/FELLOW:  Atul Shinagare
+
+IMAGING FINDINGS:  []
+
+PROCEDURE DESCRIPTION:
+The patient was positioned [] on the table. A radiopaque grid was placed overlying the planned entry site []. Limited CT imaging was obtained to determine a safe needle entry site. The entry site was prepped and draped in the usual sterile fashion. Subcutaneous 2% lidocaine was used for local anesthesia along the expected needle tract. 
+
+Using CT-fluoroscopic guidance, an []-gauge [] cm [Chiba needle] was inserted into the [] towards the []. Positioning was confirmed with CT fluoroscopy. [] cc of [] was aspirated and sent for microbiology. [An 0.035" Amplatz wire was then inserted through the needle, and serial dilatation up to [] French was performed.] A [] Fr [] drainage catheter was then inserted using [] technique [over the Amplatz wire] and position confirmed by CT fluoroscopy. The needle was removed and the catheter deployed. The locking loop was then formed. The drainage catheter was connected to a drainage bag and a total of [] cc of [] was aspirated. 
+
+SPECIMENS SUBMITTED: [Microbiology, chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate no evidence of complications]
+
+COMPLICATIONS: [No immediate complications noted at the conclusion of the procedure. A two hour post-procedure chest x-ray is ordered         ]
+
+FOLLOW-UP PLAN: [Post procedure orders placed in BICS.] The catheter will be flushed with 10 cc sterile saline q.8h. with the true output recorded by the nursing staff. Once the output decreases to less than 10 cc of clear material per day for two consecutive days, a CT [and a abscessagram] should be performed to assess for persistent collection [and possible enteric communication]. If the collection has resolved [and there is no evidence of enteric communication], consideration for catheter removal should be made. If the patient is discharged prior to catheter removal, the CSIR team should be alerted at least one day in advance (57109 or 58585), so that the patient may be educated regarding the catheter care and followed up by the CSIR nurse as needed.
+ 
+CONCLUSION:
+CT guided drainage of [] with aspiration of [] cc of [] [and sample sent for microbiology]. No immediate complications noted.
+
+The procedure and postprocedure care discussed with [] by Dr. Shinagare at [] on [].

@@ -1,0 +1,10 @@
+INDICATION: [ ].
+
+COMPARISON: [ ]
+
+RENAL ULTRASOUND: The right kidney measures [ ]. The left kidney measures [ ]. There is no hydronephrosis, stone, or solid renal mass visualized. 
+
+[The partially filled bladder is unremarkable.] [The bladder is only minimally distended and cannot be assessed.]
+
+IMPRESSION: Normal renal ultrasound.
+

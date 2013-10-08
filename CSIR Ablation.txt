@@ -1,0 +1,39 @@
+INDICATION: []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT: []
+
+PROCEDURE: []
+	
+Informed consent was obtained from the [] by Dr. Shinagare. The indication for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  A team time-out was performed prior to anesthesia and beginning the procedure.
+
+CONTRAST:  None
+
+GUIDANCE MODALITY: [CT]
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA: [General anesthesia/MAC] provided by the anesthesia department
+
+MEDICATIONS AND DOSAGES: [] per anesthesiologist's records, [2% lidocaine and sodium bicarbonate in a 4:1 mixture, 8 ml for subcutaneous local anesthesia.]
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the entire procedure.
+
+FELLOW:  Atul Shinagare
+
+IMAGING FINDINGS:  []
+
+PROCEDURE DESCRIPTION:
+Patient was placed in the [] position. Entry site and approach was finalized. The local area was prepped and draped in the usual sterile fashion. With the use of CT fluoroscopy [three] Galli ice [sphere] cryoprobes were placed in the region of the [right renal tumor]. A 15 - 10 - 15 minute, freeze - thaw - freeze cycle was then applied. Intra procedural CT monitoring demonstrated good coverage of the tumor with ice ball. Patient tolerated the procedure well. 
+
+SPECIMENS SUBMITTED: [None]
+ 
+POST-PROCEDURE IMAGING: CT images obtained at the conclusion of the procedure demonstrated no evidence of compliactions. 
+
+COMPLICATIONS: [No immediate complications noted at the conclusion of the procedure. A 2 hour chest X ray was ordered.]
+
+FOLLOW-UP PLAN: Patient was sent to the PACU for close monitoring post procedure. Postprocedure orders were entered in BICS. Subsequently, the patient will be admitted overnight for observation. Patient is scheduled for [MR abdomen] tomorrow morning.  
+
+CONCLUSION:
+[CT-guided cryoablation of right upper pole renal mass without immediate complications.]
+
+The procedure and post-procedure care was discussed with Dr. [] by Dr. Shinagare at [] on [].

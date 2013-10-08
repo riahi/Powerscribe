@@ -1,0 +1,41 @@
+INDICATION: []
+
+RADIOPHARMACEUTICAL: F18-FDG.
+
+DOSE:  [] mCi.
+
+BLOOD GLUCOSE: [] mg/dL.
+
+TECHNIQUE: The study was performed at Dana-Farber Cancer Institute. Approximately 60 minutes following IV tracer  administration, positron emission tomography was performed from the base of the skull through the pelvis. Non-contrast helical CT imaging was performed over the same range without breath-hold for attenuation correction of PET images and anatomic correlation, but not for primary interpretation as it is not of standard diagnostic quality.
+
+After the PET/CT body, positron emission tomography of the brain was performed using the departmental 3-D brain acquisition protocol.  Non-contrast helical CT imaging was performed over the same range for attenuation correction of the PET images.  Anatomic correlation was performed by fusing the summed images from today's PET scan with the post-gadolinium T1-weighted axial images from the MRI brain of [].
+
+The PET portion of the study was read with Dr. Jacene and CT portion was read with Dr. [].
+ 
+COMPARISON: Direct comparison is made with the brain/body PET/CT of [] and anatomic correlation is made with the brain MRI of [].
+  
+FINDINGS: 
+ 
+BRAIN:  []
+
+EXTRACRANIAL HEAD AND NECK:  [<There is no suspicious lymphadenopathy.
+
+There is no FDG-avid disease in the imaged portions of the head and neck.>]
+ 
+CHEST:   [<There is no axillary, supraclavicular, mediastinal or hilar lymphadenopathy.  There is no pleural or pericardial effusion.  There is no air-space disease or suspicious lung nodule.
+
+There is no FDG-avid disease in the chest.>]
+ 
+ABDOMEN/PELVIS:  [<Below the diaphragm, tracer is distributed physiologically in the gastrointestinal and genitourinary tracts.  There is no significant lymphadenopathy.
+
+There is no FDG-avid disease in the abdomen or pelvis.>]
+ 
+MUSCULOSKELETAL:  [<There is no FDG-avid or destructive bone lesion.>]
+ 
+IMPRESSION:
+
+[]
+ 
+The findings were discussed with Dr. [] by Dr. [] at [] on [].
+
+END OF IMPRESSION

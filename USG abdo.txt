@@ -1,0 +1,9 @@
+INDICATION: [<>]
+
+COMPARISON: [<>]
+
+ABDOMEN ULTRASOUND: The liver echotexture is normal. There are no focal liver lesions identified, nor intrahepatic biliary ductal dilation. The main portal vein is patent with the appropriate direction of flow. The gallbladder is normal without evidence of stones. The common duct is not dilated, measuring [ ] mm. The visualized portion of the pancreas, [including the head, neck, and proximal body] are unremarkable. The tail is not visualized due to bowel gas.
+
+The right kidney measures [ ] cm. The left kidney measures [ ] cm. There is no hydronephrosis, stone, or solid renal mass seen. The spleen is normal, measuring [ ] cm. The abdominal aorta is of normal caliber throughout. No ascites.
+
+IMPRESSION: Normal abdominal ultrasound.

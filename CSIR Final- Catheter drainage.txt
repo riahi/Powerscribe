@@ -1,0 +1,57 @@
+INDICATION:  [ ]
+
+PROCEDURE: [CT/US]-guided    collection catheter drainage
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the [entire radiologic portion of the procedure and available immediately thereafter] [entire procedure].
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [ Pre-procedural coagulation parameters and platelet count were within acceptable limits.] A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+Platelets [ ], INR [ ]
+Allergies: [ ]
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure to verify the correct patient, procedure and position.
+
+CONTRAST:  [ ]
+
+GUIDANCE MODALITY: CT/ CT fluoroscopy 
+
+DEVICES:  
+5 Fr / [ ] cm One-Step Centesis Catheter
+[ ] G / [ ] cm Chiba needle
+[ ] Fr / 20 cm Fascial dilator
+0.035" x 80 cm 3J Amplatz Super Stiff wire (Boston Scientific)
+0.035" x 145 cm Amplatz Super Stiff wire (Boston Scientific)
+[ ] Fr / 25 cm Flexima Drainage Catheter (Boston Scientific)
+3-way Stopcock, connecting tubing and drainage bag 
+PleurVac system
+
+SEDATION/ANESTHESIA:[None, Conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: [ ]
+
+MEDICATIONS AND DOSAGES: 
+Midazolam [ ] mg IV
+Fentanyl [ ] mcg IV
+2% lidocaine and sodium bicarbonate in a 4:1 mixture, [ ] ml for subcutaneous local anesthesia
+
+PREPROCEDURE IMAGING FINDINGS:  [CT / MRI] dated [ ] revealed [ ].
+
+PROCEDURE DESCRIPTION:
+The patient was placed in the [  ] position on the CT table and preliminary CT scan acquired with radio-opaque cutaneous grid revealed the [ ] collection.  The skin entry site was marked after determining a safe access to the lesion.  All elements of maximal sterile barrier technique followed including: hand hygiene, sterile gown, sterile gloves, a large sterile sheet, 2% chlorhexidine for cutaneous antisepsis. The overlying skin was prepped and draped in usual sterile fashion. Lidocaine local anesthetic was infiltrated in to the skin and subcutaneous tissues. Under CT / CT fluoroscopy guidance, a [ ] was inserted [through ---- approach] and images were obtained to confirm position. Once the needle tip was within the collection, [the sheath was advanced and the stylet was removed and a wire was advanced through the sheath into the collection, CT images revealed the wire coiled in the collection] [a wire was advanced through the needle, CT images revealed the wire coiled in the collection]. The [needle / sheath] was removed and the track was dilated using a fascial dilators over the wire. A  [ ] Fr drainage catheter was then placed over the wire into the collection using Seldinger technique.]  [The needle track was dissected and a [ ] Fr catheter was placed using tandem trocar technique]. Approximately [ ] mL of purulent fluid was aspirated. The catheter was affixed to the skin via a disc system and connected to drainage bag / PleurVac through 3-way stopcock. Sterile dressing was applied.
+
+SPECIMENS SUBMITTED: [None, Cytopathology, Histopathology, Microbiology, Chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]. Post-procedure orders have been entered into BICS].
+
+COMPLICATIONS: [No immediate complications noted at the conclusion of the procedure,        ]
+
+POST-PROCEDURE OBSERVATION: [The patient was sent to the floor in stable condition.] Post-procedure orders have been entered into BICS.
+
+FOLLOW-UP PLAN: 
+[ ]
+
+IMPRESSION:
+[US/CT] guided drainage (  Fr) of [ ] collection. Approximately [ ] mL of fluid aspirated and samples sent for analysis.
+      
+     

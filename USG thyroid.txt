@@ -1,0 +1,15 @@
+INDICATION: [ ].
+
+COMPARISON: [ ]
+
+TECHNIQUE: Real time ultrasound of the thyroid is performed.
+
+THYROID ULTRASOUND:The right lobe of thyroid measures [ ]. The left lobe of thyroid measures [ ]. The isthmus measures [ ] mm in thickness. 
+
+Nodules are scattered in both thyroid lobes. The largest nodule in the right lobe is located in the [upper/mid/lower lobe], is [solid and hypoechoic/mixed cystic and solid/cystic] and measures [ ]. The largest nodule in the left lobe is located in the [upper/mid/lower lobe], is [solid and hypoechoic/mixed cystic and solid/cystic] and measures [ ]. 
+
+No enlarged jugular chain nodes are seen adjacent to the thyroid gland.
+
+IMPRESSION: [ ].
+
+

@@ -1,0 +1,21 @@
+PROCEDURE: Ultrasound-Guided Parenchymal Core Liver Biopsy
+
+INDICATION: []
+
+ATTENDING: Dr. [] was present for the entire procedure.
+
+RESIDENT: Dr. Shaan Shah
+
+SEDATION: Intravenous conscious sedation with Versed [] mg and Fentanyl [] mcg. The patient was monitored by the radiology nursing staff.
+
+MEDICATIONS: Subcutaneous Lidocaine 2%.
+
+PROCEDURE: The procedure itself was explained to the patient carefully. The risks, benefits, and alternatives to ultrasound-guided parenchymal liver biposy was discussed at length with the patient, and written informed consent was obtained. The patient was brought into the ultrasound suite and a time-out was performed. The patient was positioned supine on the table. Preliminary ultrasound of the abdomen was performed and demonstrated []. The most appropriate approach for safe needle entry site was planned and the site for puncture was marked. The [] was prepped and draped in the usual sterile fashion. Subcutaneous 2% lidocaine was used for local anesthesia along the expected needle tract. 
+
+Under ultrasound-guidance, a []-gauge coaxial Temno core biopsy needle system with an []-gauge x []cm inner biopsy needle was inserted carefully into the liver mass. A core biopsy sample was taken and placed in a sterile specimen cup in formalin.  This procedure was repeated [] more times for a total of []samples. After the biopsy needles were removed, hemostasis was achieved at the skin entry site by gentle manual compression and a sterile dressing was applied. A follow-up limited ultrasound was performed which demonstrated no evidence for parenchymal hematoma or subcapsular liver hematoma. The patient tolerated the procedure well without immediate complications and was sent for observation in the recovery area. 
+
+The attending physician, Dr. [], was present for the entire procedure.
+
+IMPRESSION:
+
+Ultrasound-guided core biopsy of liver parenchyma with a total of [] samples taken and sent to pathology.
