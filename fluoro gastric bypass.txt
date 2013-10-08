@@ -1,0 +1,7 @@
+HISTORY: Patient is [] from Roux-en-Y gastric bypass surgery.
+
+TECHNIQUE: The patient is given water soluble contrast to drink under fluoroscopic guidance.
+
+FINDINGS: Contrast passes [easily/with slight delay/after significant delay] through the gastroesophageal junction.  Contrast passes through the gastrojejunostomy anastamosis [without delay].  There is no evidence for extraluminal leak or extravasation into the excluded stomach.  Contrast continues down into non-dilated distal small bowel.  
+
+IMPRESSION: No evidence for leak or obstruction.
