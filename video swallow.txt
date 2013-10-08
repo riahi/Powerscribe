@@ -1,0 +1,9 @@
+INDICATION: <<Order Reason for Study>>  <<Clinical Information>> 
+
+TECHNIQUE: The patient was given multiple consistencies of oral barium by the speech pathologist. Video sequences were obtained in the lateral position during swallowing.
+
+FINDINGS: Bolus handling is within normal limits.  No significant laryngeal penetration or subglottic aspiration was observed during the examination. No significant residue was present after swallowing.
+
+IMPRESSION: [<No evidence of aspiration.>]
+
+Please refer to speech/swallow report for additional detailed information.
