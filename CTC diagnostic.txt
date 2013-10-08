@@ -1,42 +1,39 @@
-STUDY: CT abdomen and pelvis with 3-D reconstruction but without IV contrast.
+STUDY: 
+Diagnostic CT Colonography (CT abdomen and pelvis with 3D reconstruction but without IV contrast)
 
-NOTE:
-In addition to the standard diagnostic CT, gas was insufflated into the colon to increase distension, act as a contrast agent and allow for CT Colonography.
-CT Colonography has been shown in several studies have high sensitivity in certain patient groups.Although the experience with this test is promising, the precise role of CT Colonography has not been established, particularly for polyps and cancers less than 1 cm. However, CT Colonography is best suited for patients who are unable or unwilling to undergo conventional colonoscopy. 
-
-HISTORY:
-[ ADD HISTORY HERE]
+INDICATION: 
+[ADD HISTORY HERE]
 
 PREPARATION:
-The patient was instructed to consume a low fiber diet followed by bowel cleansing regimen. The patient reported successful results of the bowel cleansing regimen.
+The patient was instructed to consume a low fiber diet followed by bowel cleansing regimen. The patient reported [successful] results of the bowel cleansing regimen.
 
-TECHNIQUE:
-A balloon tipped rectal catheter was placed into the rectum and connected to an automated carbon dioxide insufflator. The colon was insufflated with carbon dioxide to an appropriate pressure and to patient's tolerance. A CT scout was performed to confirm adequate distention of the colon. CT of the abdomen and pelvis was then performed in the supine and prone position. Evaluation the colon was performed using 2-D as well as virtual colonoscopy 3-D images.
+TECHNIQUE: 
+Following automated carbon dioxide insufflation per rectum, supine and prone CT images were obtained. Coronal and sagittal reformatted images were performed on the CT console by the technologist. Additional 3D images were performed and evaluated using a dedicated 3D workstation by a radiologist to better assess the colon. Evaluation of the colon was performed using 2-D axial and multiplanar reformats, as well as 3-D images.
 
 FINDINGS:
 ABDOMEN:
-[]
+[ ]
 
 PELVIS:
-[]
+[ ]
 
 MULTIPLANAR 3-D RECONSTRUCTIONS AND VIRTUAL COLONOSCOPY:
 The colon was reviewed from the rectum to the cecum using a combination of 2-D axial views as well as 3-D virtual colonoscopy images.
-[]
+[Comment of quality of prep and distention. Size, morphology, and location of any large (= 10 mm) or small (6-9 mm) polyps.]
 
 
 IMPRESSION:
-
+[ ]
 
 FOLLOWUP RECOMMENDATION:
 [No polyps identified.
-Recommend continued colorectal cancer screening with conventional colonoscopy and 7 years. CT Colonography can be substituted for conventional colonoscopy the patient is either unable or unwilling to undergo conventional colonoscopy.]
+Recommend continued colorectal cancer screening with conventional colonoscopy in 7 years. CT Colonography can be substituted for conventional colonoscopy the patient is either unable or unwilling to undergo conventional colonoscopy.]
 
 [Multiple (greater than 3) small (less than 5 mm) polyps were detected.
-The patient should undergo colonoscopy (virtual or endoscopic) and more frequent intervals. The patient should return for colonoscopy and 5 years. CT Colonography  can be substituted for conventional colonoscopy the patient is either unable or unwilling to undergo conventional colonoscopy. However endoscopy with possible pulpectomy could be performed at the current time based on physician or patient preference.]
+The patient should undergo colonoscopy (virtual or endoscopic) and more frequent intervals. The patient should return for colonoscopy and 5 years. CT Colonography  can be substituted for conventional colonoscopy the patient is either unable or unwilling to undergo conventional colonoscopy. However endoscopy with possible polypectomy could be performed at the current time based on physician or patient preference.]
 
 [Polyps between 5 and 10 mm were identified.
-The decision to perform immediate pulpectomy should be based on patient and physician preference as well as the presence of comorbid conditions. If polypectomy is not performed at the present time, the patient should undergo colonoscopy at a diminished interval not to exceed 3 years. CT Colonography  cab be substituted for conventional colonoscopy if the patient is unable or unwilling to undergo conventional colonoscopy.]
+The decision to perform immediate polypectomy should be based on patient and physician preference as well as the presence of comorbid conditions. If polypectomy is not performed at the present time, the patient should undergo colonoscopy at a diminished interval not to exceed 3 years. CT Colonography can be substituted for conventional colonoscopy if the patient is unable or unwilling to undergo conventional colonoscopy.]
 
 [Polyps greater than 10 mm were detected.
 Immediate endoscopy with polypectomy is recommended.]
@@ -46,5 +43,8 @@ Sensitivity for small to moderate sized polyps or cancers is diminished due to r
 
 [Moderate to large amount of retained fecal material was present and/or air insufflation was not adequate.
 The retained stool and/or insufficient distention severely limit the evaluation for polyps. No large lesions are identified, however the exam is insufficient to exclude polyps or cancers under several centimeters in size. The patient should undergo conventional colonoscopy after a sufficient colonic preparation. CT Colonography can be substituted for conventional colonoscopy if the patient is either unable or unwilling to undergo conventional colonoscopy.]
+
+NOTE: 
+CT Colonography has been shown in several studies to have high sensitivity in certain patient groups. Although the experience with this test is promising, the precise role of CT Colonography has not been established, particularly for lesions measuring 5 mm or less and for non-polypoid (flat) lesions. CT colonography is not intended for the detection of diminutive colonic polyps (i.e., tiny polyps <= 5 mm), the presence or absence of which will not change management of the patient.  However, CT Colonography is best suited for patients who are unable or unwilling to undergo conventional colonoscopy. 
 
 
