@@ -1,0 +1,19 @@
+INDICATION: Patient is [] from gastric bypass.
+
+TECHNIQUE: Water soluble contrast was swallowed by the patient under intermittent fluoroscopic guidance. Multiple digital radiographs were acquired.
+
+
+FINDINGS: 
+Scout image reveals
+
+There is no hold up of contrast or dilatation of the gastric pouch.
+
+Contrast passes [<easily/with slight delay/after significant delay>] through the gastric pouch and gastrojejunal anastomosis into the jejunum.  
+
+There is no extraluminal leak or opacification of the excluded stomach.
+
+Contrast continues down into non-dilated distal small bowel, past the jejuno-jejunostomy.
+
+
+IMPRESSION: 
+No evidence for leak or obstruction.

@@ -1,0 +1,20 @@
+INDICATION: Patient is [] from gastric banding 
+
+TECHNIQUE: Water soluble contrast was swallowed by the patient under intermittent fluoroscopic guidance. Multiple digital radiographs were acquired.
+
+
+FINDINGS: 
+Scout image reveals
+
+The gastric band is in appropriate location and alignment.  
+
+There is no hold up of contrast or dilatation of the gastric pouch.
+
+Contrast passes [<easily/with slight delay/after significant delay>] through the gastroesophageal junction.  
+
+Contrast passes through the banded segment in an appropriately timely manner and proceeds into the small bowel.  
+
+There is no evidence of extraluminal leak.
+
+IMPRESSION: 
+No evidence for leak or obstruction.

@@ -1,0 +1,55 @@
+PROCEDURE: 
+1. [CT/US]-guided   
+2. 
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the [entire radiologic portion of the procedure and available immediately thereafter] [entire procedure].
+
+RESIDENT/FELLOW:  []
+
+CLINICAL HISTORY AND INDICATION:  []
+
+PREPROCEDURAL CONSIDERATIONS AND MANAGMENT:  [ Pre-procedural coagulation parameters and platelet count were within acceptable limits.]
+Platelets [ ], INR [ ]
+Allergies: [ ]
+
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure.
+
+CONTRAST: []
+
+GUIDANCE MODALITY: [CT/US/MRI/PET-CT/Fluoroscopy]
+
+DEVICES:  []
+
+SEDATION/ANESTHESIA :[none, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: [ ]
+
+MEDICATIONS AND DOSAGES: 
+Midazolam [ ] mg IV
+Fentanyl [ ] mcg IV
+2% lidocaine and sodium bicarbonate in a 4:1 mixture, [ ] ml for subcutaneous local anesthesia
+
+PREPROCEDURE IMAGING FINDINGS:  [CT / MRI] dated [ ] revealed [ ].
+
+PROCEDURE #1:
+[]
+
+PROCEDURE #2:
+[]
+
+PROCEDURE #3:
+[]
+
+SPECIMENS SUBMITTED:[none, Cytopathology, Histopathology, Microbiology, Chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
+
+COMPLICATIONS: [No immediate complications noted at the conclusion of the procedure, A two hour post-procedure chest x-ray is ordered         ]
+
+FOLLOW-UP PLAN:  []
+
+IMPRESSION:
+1.  []
+2.  []
+3.  []
+

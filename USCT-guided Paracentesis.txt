@@ -1,0 +1,50 @@
+INDICATION:  []
+
+PROCEDURE: [CT/US]-guided [diagnostic and therapeutic] paracenteis
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the [entire radiologic portion of the procedure and available immediately thereafter] [entire procedure].
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [ Pre-procedural coagulation parameters and platelet count were within acceptable limits.] A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+[Patient received albumin before the procedure. Patient is schedule for albumin infusion after the procedure].
+Platelets [ ], INR [ ]
+Allergies: [ ]
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure to verify the correct patient, procedure and position.
+
+CONTRAST:  None.
+
+GUIDANCE MODALITY: [US / CT]
+
+DEVICES:  
+5 Fr / [7 / 10] cm One Step Valved Centesis Catheter
+5 Fr / [7 / 10] cm One Step Non-Valved Centesis Catheter
+Connecting tubing and wall suction
+
+SEDATION/ANESTHESIA: [None, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: [ ]
+
+MEDICATIONS AND DOSAGES: 
+Midazolam [] mg IV
+Fentanyl [] mcg IV
+2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia]
+
+PREPROCEDURE IMAGING FINDINGS:  [CT / MRI / US] dated [ ] revealed [ ].
+
+PROCEDURE DESCRIPTION:
+Patient was placed supine on the US table. With the use of ultrasound guidance, largest pocket of ascites was identified in the [right/left] lower quadrant. The skin entry site was prepped and draped in sterile fashion. All elements of sterile barrier technique followed including: hand hygiene, sterile gown, sterile gloves, a large sterile sheet, and 2% chlorhexidine for cutaneous antisepsis. This was followed by injection of the local anesthetic solution into the skin and subcutaneous tissues.  A small incision was made and a 5 Fr centesis catheter was advanced into the peritoneal cavity and [ ] mL of serous / serosanguinous fluid was removed.  The catheter was removed and sterile dressing was applied. 
+          
+SPECIMENS SUBMITTED: [None, Cytopathology, Histopathology, Microbiology, Chemistry, other]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ]
+
+COMPLICATIONS:[No immediate complications noted at the conclusion of the procedure,          ]
+
+FOLLOW-UP PLAN: Patient will be observed for 30 minutes in the radiology recovery area before discharge. [Patient is scheduled for albumin infusion] [Patient will follow up with the referring physician and paracentesis can be performed as required].
+
+IMPRESSION:
+[US / CT] guided [diagnostic and therapeutic] ([ ] mL) paracentesis.
+
+

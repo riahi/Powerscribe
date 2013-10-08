@@ -1,0 +1,48 @@
+CLINICAL HISTORY AND INDICATION:  []
+
+PROCEDURE: [CT/US]-guided [diagnostic and therapeutic] [right / left] thoracentesis
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the [entire radiologic portion of the procedure and available immediately thereafter] [entire procedure].
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [ Pre-procedural coagulation parameters and platelet count were within acceptable limits.] A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+Platelets [ ], INR [ ]
+Allergies: [ ]
+	
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure(s), alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication]. A team time-out was performed prior to [sedation and] beginning the procedure to verify the correct patient, procedure and position.
+
+GUIDANCE MODALITY:  [US / CT]
+
+DEVICES:  
+5 Fr / [7 / 10] cm One Step Valved Centesis Catheter
+5 Fr / [7 / 10] cm One Step Non-Valved Centesis Catheter
+Connecting tubing and wall suction
+
+SEDATION/ANESTHESIA: [None, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: [ ]
+
+MEDICATIONS AND DOSAGES: 
+Midazolam [] mg IV
+Fentanyl [] mcg IV
+2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+PREPROCEDURE IMAGING FINDINGS:  [CT / MRI / US / X-ray] dated [ ] revealed [ ].
+
+PROCEDURE:  
+Preliminary [US / CT] imaging used to assess the pleural fluid collection and to plan the approach revealed [mild / moderate / large] [left / right] pleural effusion.  With the patient sitting in an upright position, arms resting on a table, the skin over the [right/left] posterior chest wall was prepped and draped in the usual sterile manner. All elements of sterile barrier technique followed including: hand hygiene, sterile gown, sterile gloves, a large sterile sheet, and 2% chlorhexidine for cutaneous antisepsis. The local anesthetic solution was injected into the skin and subcutaneous tissues.  A small incision was made followed by ultrasound-guided insertion of a 5 Fr centesis catheter over the top of the rib into the pleural fluid.  [] mL of [] fluid were removed followed by catheter removal.  A vaseline gauze and sterile bandage was applied.
+	
+SPECIMENS SENT: [none, Cytology, Histopathology, Microbiology, Chemistry, other]
+
+COMPLICATIONS:  [The patient tolerated the procedure well and no immediate complications occurred.  The patient experienced mild coughing and chest discomfort on the side of the procedure which promptly resolved.]
+
+A one-view CXR at [] hours demonstrates [].
+
+FOLLOW-UP PLAN: [Patient will be observed in the radiology recovery area for 2 hours.] [Patient will be sent to the floor and a one-view Chest X-ray will be acquired in 2 hours].
+
+IMPRESSION:  
+[US / CT]-guided [right/left] [diagnostic and therapeutic] ([ ] mL) thoracentesis.
+	
+
+

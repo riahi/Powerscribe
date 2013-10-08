@@ -1,0 +1,1 @@
+Lack of IV contrast decreases the sensitivity of detecting lesions within solid organs.

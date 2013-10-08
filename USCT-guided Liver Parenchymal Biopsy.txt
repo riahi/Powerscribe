@@ -1,0 +1,52 @@
+INDICATION:  []
+
+PROCEDURE: [US / CT]-guided Liver Parenchymal Biopsy
+
+ATTENDING RADIOLOGIST: Dr. [] was present for the [entire radiologic portion of the procedure and available immediately thereafter] [entire procedure].
+
+RESIDENT/FELLOW:  []
+
+PRE-PROCEDURAL CONSIDERATIONS AND MANAGEMENT:  [ Pre-procedural coagulation parameters and platelet count were within acceptable limits.] A list of the patient's known allergies, current medications and adverse medication reactions have been reviewed prior to the procedure.
+Platelets [ ], INR [ ]
+Allergies: [ ]
+
+CONSENT: Informed consent was obtained from [] by Dr. [].  The indication(s) for the procedure, alternative options, attendant risks, and potential complications were discussed in detail and questions answered.  [A []-speaking interpreter was present and facilitated communication].  A team time-out was performed prior to [sedation and] beginning the procedure to verify the correct patient, procedure and position.
+
+CONTRAST: None.
+
+GUIDANCE MODALITY: [CT / CT fluoroscopy / US]
+
+DEVICES:  
+Temno 17 G / [ ] cm introducer 
+Temno 18 G / [ ] cm coaxial spring-loaded core biopsy needle 
+
+SEDATION/ANESTHESIA: [None, conscious IV sedation administered and monitored by the radiology department nurse with supervision by the radiologist, monitored anesthesia care (MAC) provided by the anesthesia department, general endotracheal tube anesthesia provided by the anesthesia department]
+
+DURATION of SEDATION/ANESTHESIA: [ ]
+
+MEDICATIONS AND DOSAGES: 
+Midazolam [] mg IV
+Fentanyl [] mcg IV
+2% lidocaine and sodium bicarbonate in a 4:1 mixture, [] ml for subcutaneous local anesthesia
+
+PREPROCEDURE IMAGING FINDINGS:  [CT / MRI] dated [ ] revealed [ ].
+
+PROCEDURE DESCRIPTION: 
+With the patient in a [supine, left posterior oblique] position on the [US/CT[ table, preliminary [US/CT] images of the [right / left] lobe of liver were acquired. After assessing the most direct access to the [right / left] lobe of liver, the skin was prepped and draped in the usual sterile manner. All elements of sterile barrier technique followed including: hand hygiene, sterile gown, sterile gloves, a large sterile sheet, and 2% chlorhexidine for cutaneous antisepsis. This was followed by injection of the local anesthetic solution into the skin, subcutaneous tissues and up to the liver capsule. A small incision was made followed by insertion of the 17 G needle under [US/CT] guidance in the [right / left] lobe of the liver through [subcostal / intercostal] approach. 18 G coaxial biopsy samples were then acquired for a total of [ ] specimens. The biopsy needle was removed and a sterile bandage applied.
+
+SPECIMENS SUBMITTED: [ Histopathology, in formalin, saline]
+
+POST-PROCEDURE IMAGING: [CT images obtained at the conclusion of the procedure demonstrate        ,  US images obtained at the conclusion of the procedure demonstrate    ].
+
+COMPLICATIONS:[No immediate complications noted at the conclusion of the procedure,    ]
+
+POST-PROCEDURE OBSERVATION: The patient will be observed in the radiology recovery area for [] hours prior to discharge.  
+
+FOLLOW-UP PLAN:  The patient will follow-up with the referring clinician for biopsy results and further management. He may resume normal daily activities within 24 hours and is instructed to contact the CSIR fellow on-call should he develop any concerning symptoms, as outlined in the discharge paperwork.
+
+IMPRESSION: 
+[US/CT]-guided liver parenchymal biopsy.
+
+
+
+

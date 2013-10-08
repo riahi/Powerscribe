@@ -1,0 +1,80 @@
+STUDY: Diagnostic CT Colonography
+
+NOTE: CT Colonography has been shown in several studies to have high sensitivity in certain patient groups. Although the experience with this test is promising, the precise role of CT Colonography has not been established, particularly for lesions measuring 5 mm or less and for non-polypoid (flat) lesions. CT colonography is not intended for the detection of diminutive colonic polyps (i.e., tiny polyps <= 5 mm), the presence or absence of which will not change management of the patient.
+
+INDICATION:  [ ]
+
+TECHNIQUE: The patient underwent bowel preparation the day before the exam, consisting of [ ]. Following automated carbon dioxide insufflation per rectum, a CT scout was performed to confirm adequate distention of the colon. Pre-contrast prone and post-contrast supine CT images were obtained after IV injection of 100 cc of Ultravist 300. Coronal and sagittal reformatted images were performed on the CT console by the technologist. Additional 3D images were performed and evaluated using a dedicated 3D workstation by a radiologist to better assess the colon. Evaluation of the colon was performed using 2-D axial and multiplanar reformats, as well as 3-D images.
+
+
+FINDINGS: 
+Lung bases: Limted images through lung bases reveal 
+
+ABDOMEN (extra colonic findings):
+Liver appears unremarkable, no focal hepatic lesion. 
+Gallbladder is unremarkable.
+There is no intra- or extra-hepatic biliary dilation.
+Pancreas reveals no mass or ductal dilation.
+Spleen is not enlarged, no focal lesion is seen.
+Both adrenal are unremarkable, no adrenal nodules seen.
+Both kidneys are normal in size and enhancement, no solid mass lesion, stones or hydronephrosis.
+The stomach and small bowel within the abdomen demonstrate no thickening or dilatation.
+No suspicious abdominal lymph nodes seen.
+The vasculature enhances normally.
+No free fluid or free air is seen.
+
+
+PELVIS (extra colonic findings):
+Uterus, both ovaries and adnexa appear normal.
+Prostate and seminal vesicles appear unremarkable.
+Urinary bladder is well distended and appears unremarkable.
+The small and large bowel within the pelvis demonstrate no abnormality.  Pelvic and inguinal lymph nodes are not enlarged.  
+No free in the pelvis.
+
+SOFT TISSUES AND BONES:  
+
+
+2D and 3D IMAGES (colonic findings):
+[Comment of quality of prep and distention. Size, morphology, and location of any large (= 10 mm) or small (6-9 mm) polyps.]
+
+
+IMPRESSION:
+
+COLONIC FINDINGS AND FOLLOW UP RECOMMENDATION:
+
+C-RADS: C   , E 
+
+[- Inadequate study or awaiting prior comparisons 
+Inadequate prep with moderate to large amount of retained fecal material and/ or fluid present. Inadequate insufflation with one or more colonic segments collapsed on both views. The retained stool and/or insufficient distention severely limit the evaluation for polyps. No large lesions are identified; however the exam is insufficient to exclude polyps or small cancers. The patient should undergo optical colonoscopy after a sufficient colonic preparation. CT Colonography can be substituted for optical colonoscopy if the patient is either unable or unwilling to undergo optical colonoscopy.]
+
+[- No polyp measuring 6 mm or greater and benign findings (e.g. colonic lipoma and colonic diverticula). Recommend continued colorectal cancer screening with optical colonoscopy in 10 years or with CT colonography in 5 years.]
+
+[-Polyp measuring 6 mm or greater. Immediate optical colonoscopy with polypectomy is recommended.]
+
+[- Malignant-appearing colonic mass. Surgical consultation is recommended.]
+
+
+EXTRA-COLONIC FINDINGS:
+
+ []
+
+
+C-RADS is a reporting scheme for Colonic and Extra Colonic findings observed in CT Colonography (CTC). The Colonic ('C') and Extracolonic findings ('E') are categorized as:
+ 
+C0: Technically inadequate evaluation of the colon or awaiting prior studies.
+C1: Normal colon or benign lesions, no polyps > 5mm; continue routine screening.
+C2: Intermediate lesion (6-9 mm) or indeterminate findings; consider surveillance within 3 years with CTC, or optical colonoscopy.
+C3: Polyp, possibly advanced adenoma; optical colonoscopy recommended.
+C4: Colonic mass, likely malignant; consider optical colonoscopy and/or surgical consultation.
+
+E0: Technically limited evaluation of extra-colonic structures.
+E1: Normal exam or anatomic variants only.
+E2: Clinically insignificant findings; no further work-up indicated.
+E3: Likely insignificant findings, incompletely characterized; further diagnostic work-up may be indicated.
+E4: Potentially significant extracolonic findings; consider further diagnostic or therapeutic interventions, as indicated.
+
+
+
+Findings and recommendations were discussed with Dr.     by Dr. Nisha Sainani on     at    .
+
+
